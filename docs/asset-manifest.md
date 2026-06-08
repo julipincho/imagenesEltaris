@@ -22,6 +22,8 @@ Dark epic fantasy painting for a Dungeons and Dragons campaign module, vertical 
 
 | Filename | Module use | Suggested Homebrewery treatment |
 | :--- | :--- | :--- |
+| `logo-darmagion-ciervo-gold.svg` | Front cover logo: Darmagion DM | Transparent SVG logo, single flat gold color |
+| `tapa-el-quinto-silencio.png` | Front cover art: Ecos de una Causa Rota | Full-page `frontCover` background |
 | `final-cover-eltaris.png` | Part cover: El Final de Eltaris | Full page / `partCover` background |
 | `final-asedio-dominio.png` | El Asedio del Dominio | Full-page masked background |
 | `final-laboratorio-trono.png` | El Laboratorio Bajo el Trono | Full-page masked background |

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Darmagion DM antlered mage logo">
+  <g fill="none" stroke="#c89b3c" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M256 452c88-54 112-126 92-190-16-52-54-88-92-118-38 30-76 66-92 118-20 64 4 136 92 190Z"/>
+    <path d="M202 346c18 28 36 44 54 56 18-12 36-28 54-56"/>
+    <path d="M205 238c20 20 37 37 51 63 14-26 31-43 51-63"/>
+    <path d="M116 402c40-46 61-92 62-140"/>
+    <path d="M91 280c35-10 63-1 87 22"/>
+    <path d="M77 205c48 1 88 23 117 66"/>
+    <path d="M115 132c20 47 25 88 14 124"/>
+    <path d="M169 76c9 54 5 96-13 126"/>
+    <path d="M396 402c-40-46-61-92-62-140"/>
+    <path d="M421 280c-35-10-63-1-87 22"/>
+    <path d="M435 205c-48 1-88 23-117 66"/>
+    <path d="M397 132c-20 47-25 88-14 124"/>
+    <path d="M343 76c-9 54-5 96 13 126"/>
+    <path d="M256 92v74"/>
+    <path d="M256 60l24 32-24 32-24-32 24-32Z"/>
+  </g>
+  <path fill="#c89b3c" d="M256 338l18 38h-36l18-38Z"/>
+</svg>
