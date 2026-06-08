@@ -55,3 +55,8 @@ Heroic bald warrior, powerful build, dark heavy armor with Dominion-like circula
 
 Tall purple-robed tyrant/divine usurper, bald or alien head, violet eyes, two scepters, purple lightning and runic circles. Mood: domination, imposition, reality as property. Can be more saturated purple than the others but should remain painterly.
 
+## Location References
+
+### Durn-Vahl
+
+Orc city carved into the fossilized body of a fallen stone colossus. Black basalt, bronze, bone architecture, rib-like bridges, skull-temples, red forge smoke, ritual hammer spirals, and cold blue free-magic cracks in stone. Mood: ancestral guilt, martial dignity, sacred forge culture, powerful civilization rather than chaotic horde. Avoid making it look like Rak-Thul'Kar: Durn-Vahl is more petrified colossus, bone, stone memory, shamanic ritual, and mythic orc politics than industrial goblinoid city.

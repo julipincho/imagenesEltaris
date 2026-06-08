@@ -110,3 +110,30 @@ Homebrewery replacement pattern:
 ![](https://julipincho.github.io/imagenesEltaris/images/final-catedral-silencio.png){height:75%,top:0px,opacity:85%}
 ```
 
+## Durn-Vahl Assets
+
+| Filename | Module use | Suggested Homebrewery treatment |
+| :--- | :--- | :--- |
+| `durn-vahl-trono-quebrado.png` | Part cover / overview: Durn-Vahl, El Trono Quebrado | Full page / `partCover` background |
+| `durn-vahl-consejo-martillos-rojos.png` | Durn-Tal / Consejo de los Martillos Rojos | Full-page or upper-half masked scene |
+| `durn-vahl-gorvak-forja-corazon.png` | Ecos del Yunque / Gorvak Thul in the Forja del Corazon | Half-page character scene or side art |
+| `durn-vahl-thulkorr-martillo-ecos.png` | Thul'Korr, Martillo de los Ecos | Item/reward art, centered or lower-page mask |
+| `durn-vahl-vharuun-craneo.png` | Las Voces del Craneo / Vha'Ruun | Character scene or ritual sidebar art |
+| `durn-vahl-sueno-coloso.png` | Dreamscape / Pozo de Canto / mind of the colossus | Full-page masked background |
+| `durn-vahl-lathenka-prisionera.png` | La Prisionera del Eco / Santuario del Hueso Vivo | Full-page or portrait character scene |
+| `durn-vahl-bestias-hueso.png` | Las Bestias del Hueso / three legendary beasts | Encounter splash or full-page scene |
+| `durn-vahl-forjadores-almas.png` | Las Bestias del Hueso / Renacer del Metal | Ritual/reward scene |
+
+### Durn-Vahl URL List
+
+```text
+https://julipincho.github.io/imagenesEltaris/images/durn-vahl-trono-quebrado.png
+https://julipincho.github.io/imagenesEltaris/images/durn-vahl-consejo-martillos-rojos.png
+https://julipincho.github.io/imagenesEltaris/images/durn-vahl-gorvak-forja-corazon.png
+https://julipincho.github.io/imagenesEltaris/images/durn-vahl-thulkorr-martillo-ecos.png
+https://julipincho.github.io/imagenesEltaris/images/durn-vahl-vharuun-craneo.png
+https://julipincho.github.io/imagenesEltaris/images/durn-vahl-sueno-coloso.png
+https://julipincho.github.io/imagenesEltaris/images/durn-vahl-lathenka-prisionera.png
+https://julipincho.github.io/imagenesEltaris/images/durn-vahl-bestias-hueso.png
+https://julipincho.github.io/imagenesEltaris/images/durn-vahl-forjadores-almas.png
+```
