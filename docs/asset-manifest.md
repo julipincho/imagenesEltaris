@@ -124,6 +124,10 @@ Homebrewery replacement pattern:
 | `durn-vahl-sueno-coloso.png` | Dreamscape / Pozo de Canto / mind of the colossus | Full-page masked background |
 | `durn-vahl-lathenka-prisionera.png` | La Prisionera del Eco / Santuario del Hueso Vivo | Full-page or portrait character scene |
 | `durn-vahl-bestias-hueso.png` | Las Bestias del Hueso / three legendary beasts | Encounter splash or full-page scene |
+| `durn-vahl-karrthuun-rinoceronte-lava.png` | Karr'Thuun, el Rinoceronte de Lava | Transparent monster stat cutout |
+| `durn-vahl-vorrak-lobo-hierro.png` | Vorrak, el Lobo de Hierro | Transparent monster stat cutout |
+| `durn-vahl-narak-cuervo-ceniza.png` | Narak, el Cuervo de Ceniza | Transparent monster stat cutout |
+| `durn-vahl-cultura-creencias.png` | Cultura y creencias de Durn-Vahl | Full-page or upper-half masked scene |
 | `durn-vahl-forjadores-almas.png` | Las Bestias del Hueso / Renacer del Metal | Ritual/reward scene |
 
 ### Durn-Vahl URL List
@@ -137,5 +141,9 @@ https://julipincho.github.io/imagenesEltaris/images/durn-vahl-vharuun-craneo.png
 https://julipincho.github.io/imagenesEltaris/images/durn-vahl-sueno-coloso.png
 https://julipincho.github.io/imagenesEltaris/images/durn-vahl-lathenka-prisionera.png
 https://julipincho.github.io/imagenesEltaris/images/durn-vahl-bestias-hueso.png
+https://julipincho.github.io/imagenesEltaris/images/durn-vahl-karrthuun-rinoceronte-lava.png
+https://julipincho.github.io/imagenesEltaris/images/durn-vahl-vorrak-lobo-hierro.png
+https://julipincho.github.io/imagenesEltaris/images/durn-vahl-narak-cuervo-ceniza.png
+https://julipincho.github.io/imagenesEltaris/images/durn-vahl-cultura-creencias.png
 https://julipincho.github.io/imagenesEltaris/images/durn-vahl-forjadores-almas.png
 ```
