@@ -83,28 +83,28 @@ Dark cosmic fantasy entity art, vertical full-page composition. Ankelath, an imp
 Hopeful dark fantasy epilogue painting, vertical full-page scene. Dawn over Eltaris after the fall of the Dominion: damaged iron towers, people emerging into streets, blue runes fading from walls, soft golden light threading through the city, first moving clouds in the sky. Bittersweet, painterly, no text, no watermark.
 ```
 
-## Existing Placeholder Assets
+## Vel'Rynor and Return Assets
 
-These placeholders currently appear in the module and should be replaced with GitHub Pages URLs after the images are available.
+These assets are available through GitHub Pages and can be referenced directly from the module.
 
-| Placeholder | Suggested filename |
-| :--- | :--- |
-| `URL_VORRAN` | `velrynor-vorran-zarneth.png` |
-| `URL_MISION1` | `velrynor-sombras-abismo.png` |
-| `URL_MISION2` | `velrynor-nucleo-vida.png` |
-| `URL_MISION3` | `velrynor-eco-espejo.png` |
-| `URL_MISION4` | `velrynor-lamento-luz.png` |
-| `URL_ETAPA1` | `allen-lathenka-etapa1.png` |
-| `URL_ETAPA2` | `allen-lathenka-etapa2.png` |
-| `URL_ETAPA3` | `allen-lathenka-etapa3.png` |
-| `URL_ETAPA4` | `allen-lathenka-etapa4.png` |
-| `URL_EPILOGO` | `allen-lathenka-epilogo.png` |
-| `URL_MARVEKALLEN` | `retorno-marvek-allen.png` |
-| `URL_OPHELIARETURN` | `retorno-ophelia.png` |
-| `URL_DURNVAHLRETURN` | `retorno-durn-vahl.png` |
-| `URL_RAKTHULKARRETURN` | `retorno-rak-thulkar.png` |
-| `URL_ELTARISRETURN` | `retorno-eltaris.png` |
-| `URL_TRAVELPATH` | `retorno-ciudades-eco.png` |
+| Filename | Module use | Suggested Homebrewery treatment |
+| :--- | :--- | :--- |
+| `velrynor-vorran-zarneth.png` | Vorran Zar'Neth | Full-page or side masked character art |
+| `velrynor-sombras-abismo.png` | Sombras del Abismo | Full-page masked mission scene |
+| `velrynor-nucleo-vida.png` | El Nucleo de Vida | Full-page masked mission scene |
+| `velrynor-eco-espejo.png` | El Eco del Espejo | Full-page masked mission scene |
+| `velrynor-lamento-luz.png` | El Lamento de Luz | Full-page masked mission scene |
+| `allen-lathenka-etapa1.png` | Allen/Lathenka: Ecos de la Esperanza | Side masked emotional scene |
+| `allen-lathenka-etapa2.png` | Allen/Lathenka: El Peso del Recuerdo | Side or lower masked memory scene |
+| `allen-lathenka-etapa3.png` | Allen/Lathenka: El Espejo Interno | Side masked mirror scene |
+| `allen-lathenka-etapa4.png` | Allen/Lathenka: El Silencio que Une | Side or lower masked sacrifice scene |
+| `allen-lathenka-epilogo.png` | Allen/Lathenka: El Hilo que Regresa | Full-page masked epilogue scene |
+| `retorno-marvek-allen.png` | El Llamado de Ophelia / Marvek and Allen | Side masked return scene |
+| `retorno-ophelia.png` | El Llamado de Ophelia / conclusion | Full-page or side masked Ophelia scene |
+| `retorno-durn-vahl.png` | Return to Durn-Vahl | Full-page masked city scene |
+| `retorno-rak-thulkar.png` | Return to Rak-Thul'Kar | Full-page masked city scene |
+| `retorno-eltaris.png` | Return to Eltaris | Full-page masked city scene |
+| `retorno-ciudades-eco.png` | Las Ciudades del Eco | Full-page travel scene |
 
 Homebrewery replacement pattern:
 
