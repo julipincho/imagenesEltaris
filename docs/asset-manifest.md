@@ -163,8 +163,8 @@ https://julipincho.github.io/imagenesEltaris/images/
 | `muvaria-mapa-continente.png` | Map of Muvaria | Full-width map page |
 | `muvaria-nerin-fortuna.png` | Nerin Fortuna portrait | NPC portrait, floated right |
 | `muvaria-mision-1-aguja-gris.png` | Mission 1: La Campana Bajo la Niebla | Top-half chapter art |
-| `muvaria-mision-2-alcion-negro.png` | Mission 2: El Cargamento que Llegó Dos Veces | Top-half chapter art |
-| `muvaria-mision-3-abadia.png` | Mission 3: La Abadía de la Última Bajamar | Top-half chapter art |
+| `muvaria-mision-2-alcion-negro.png` | Mission 2: El Cargamento que Llego Dos Veces | Top-half chapter art |
+| `muvaria-mision-3-abadia.png` | Mission 3: La Abadia de la Ultima Bajamar | Top-half chapter art |
 
 ### Muvaria Prompt Direction
 
