@@ -149,7 +149,7 @@ https://julipincho.github.io/imagenesEltaris/images/durn-vahl-forjadores-almas.p
 ```
 
 <!-- MUVARIA-ASSETS-V1 -->
-## Muvaria Starter Arc Assets
+## La Fuente del Norte Assets
 
 Base URL:
 
@@ -159,47 +159,54 @@ https://julipincho.github.io/imagenesEltaris/images/
 
 | Filename | Module use | Suggested Homebrewery treatment |
 | :--- | :--- | :--- |
-| `muvaria-portada-mareas.png` | Front cover: Las Mareas Errantes | Full-page `frontCover` background |
-| `muvaria-mapa-continente.png` | Map of Muvaria | Full-width map page |
+| `la-fuente-norte-portada.png` | Front cover: La Fuente del Norte | Full-width or cover image |
+| `la-fuente-norte-mapa-ruta.png` | Route map of Muvaria | Full-width map page |
 | `muvaria-nerin-fortuna.png` | Nerin Fortuna portrait | NPC portrait, floated right |
-| `muvaria-mision-1-aguja-gris.png` | Mission 1: La Campana Bajo la Niebla | Top-half chapter art |
-| `muvaria-mision-2-alcion-negro.png` | Mission 2: El Cargamento que Llego Dos Veces | Top-half chapter art |
-| `muvaria-mision-3-abadia.png` | Mission 3: La Abadia de la Ultima Bajamar | Top-half chapter art |
+| `la-fuente-norte-miravalle.png` | City I: Miravalle | Full-width city chapter art |
+| `la-fuente-norte-mision-1-peaje.png` | Mission 1: El peaje de los ogros educados | Full-width mission art |
+| `la-fuente-norte-mision-2-mapa.png` | Mission 2: El mapa inutil que no lo es | Full-width mission art |
+| `la-fuente-norte-mision-3-mula.png` | Mission 3: La mula del concurso | Full-width mission art |
 
-### Muvaria Prompt Direction
+### La Fuente del Norte Prompt Direction
 
 ```text
-Painterly Dungeons and Dragons fantasy module art for Muvaria, a maritime continent shaped by wandering magical tides; hopeful mystery, sea mist, teal tide magic, warm lantern or dawn light, no text, no watermark, no logo, no UI.
+Painterly Dungeons and Dragons fantasy module art for Muvaria as a road-journey campaign: warm valley roads, strange civic customs, cheerful causality around Nerin Fortuna, comic coincidences, intrigue, and a cold blue magical spring far to the north. No text, no watermark, no logo, no UI.
 ```
 
-### Muvaria Asset Prompts
+### Asset Prompts
 
-#### `muvaria-mapa-continente.png`
+#### `la-fuente-norte-portada.png`
 
 ```text
-Hand-painted fantasy map of Muvaria, parchment, ink and watercolor, Ash Crown mountains north, Alder Forest west, Sar plains center, pearlescent marshlands east, red plateaus southeast, Luma archipelago south, Mirror of Veyra inland sea, Gulf of Bells southwest with port, lighthouse, drowned abbey, no labels, no text.
+D&D campaign cover for La Fuente del Norte: a vast northbound road leaving a warm valley city and climbing toward distant snow peaks, with Nerin Fortuna and an adventuring party following the wrong-looking road toward a blue magical spring beyond the mountains, no text.
 ```
 
-#### `muvaria-portada-mareas.png`
+#### `la-fuente-norte-mapa-ruta.png`
 
 ```text
-D&D campaign cover at a misty fantasy harbor at dawn, ship ready to depart, lighthouse in fog, glowing blue-green tide marks, cheerful blonde traveler with red bandana and lucky coin necklace near an adventuring crew, hopeful maritime mystery, no text.
+Hand-painted route map of Muvaria, parchment, ink and watercolor, seven unlabeled iconic stops from south to north: border valley city, bridge-and-canal city, library city, iron mining city, bell tower frontier city, echo valley, blue glowing northern spring, no labels, no text.
 ```
 
-#### `muvaria-mision-1-aguja-gris.png`
+#### `la-fuente-norte-miravalle.png`
 
 ```text
-Fogbound haunted lighthouse on jagged coastal rocks at night, adventuring party approaching with lanterns, submerged bell in teal magical surf, Nerin pointing at an unlikely coin clue, tense nautical mystery, no text.
+Miravalle city chapter art: border valley city with seven symbolic gates, colorful market awnings, caravans, toll offices, strange living posters, adventurers arriving with Nerin Fortuna, warm road-campaign atmosphere, no text.
 ```
 
-#### `muvaria-mision-2-alcion-negro.png`
+#### `la-fuente-norte-mision-1-peaje.png`
 
 ```text
-Rainy night harbor chase at Warehouse Nine, duplicate cargo crates, masked smugglers, black-sailed ship departing, adventurers sprinting, Nerin laughing with an impossible duplicate coin, no text.
+Mission art for El peaje de los ogros educados: absurd formal toll booth on a green valley road, two giant toll collectors confused by a tax manual, hidden bandits, Nerin noticing a poetic clue, humorous D&D road encounter, no text.
 ```
 
-#### `muvaria-mision-3-abadia.png`
+#### `la-fuente-norte-mision-2-mapa.png`
 
 ```text
-Drowned coastal abbey emerging at impossible low tide under moonlight, tide-clock machinery with teal runes, adventurers entering, cartographer-mage activating a horizon nail, climactic fantasy mystery, no text.
+Mission art for El mapa inutil que no lo es: chaotic auction in a market of almost-true relics, fake magic items awakening, glowing incomplete map, rival buyers, Nerin accidentally winning the correct lot, no text.
+```
+
+#### `la-fuente-norte-mision-3-mula.png`
+
+```text
+Mission art for La mula del concurso: Miravalle pie contest, Nerin proudly presenting an imperfect pie, adventurers stopping sabotage, enchanted kitchen tools, intelligent mule beside the prize ribbon, comedic fantasy, no text.
 ```
