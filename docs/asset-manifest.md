@@ -165,6 +165,7 @@ https://julipincho.github.io/imagenesEltaris/images/
 | `la-fuente-norte-miravalle.png` | City I: Miravalle | Full-width city chapter art |
 | `la-fuente-norte-mision-1-peaje.png` | Mission 1: El peaje de los ogros educados | Full-width mission art |
 | `la-fuente-norte-mision-2-mapa.png` | Mission 2: El mapa inutil que no lo es | Full-width mission art |
+| `la-fuente-norte-calo-bronce.png` | Calo Bronce / Mission 2B: El tercer golpe | Recurring NPC portrait, right-side masked art |
 | `la-fuente-norte-mision-3-mula.png` | Mission 3: La mula del concurso | Full-width mission art |
 
 ### La Fuente del Norte Prompt Direction
@@ -203,6 +204,12 @@ Mission art for El peaje de los ogros educados: absurd formal toll booth on a gr
 
 ```text
 Mission art for El mapa inutil que no lo es: chaotic auction in a market of almost-true relics, fake magic items awakening, glowing incomplete map, rival buyers, Nerin accidentally winning the correct lot, no text.
+```
+
+#### `la-fuente-norte-calo-bronce.png`
+
+```text
+Painterly Dungeons and Dragons fantasy module portrait of Calo Bronce, the Martillo Afable: a lean, elegant human auctioneer in his mid-forties with dark auburn hair graying at the temples, a neat narrow mustache, amber-brown eyes and a charming calculating smile. He wears a wine-red long coat, a gold brocade waistcoat and black gloves, holding a cracked silver auction gavel and a leather ledger. A discreet split golden sun pin hints at the Consorcio Aureo. Dim fantasy warehouse of confiscated curios and auction cages behind him, warm gold lamplight against cool blue-gray shadows, charismatic and dangerous rather than overtly evil, vertical character portrait, no modern clothing, no text, no watermark, no logo.
 ```
 
 #### `la-fuente-norte-mision-3-mula.png`
