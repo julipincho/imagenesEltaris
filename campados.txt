@@ -1,0 +1,4975 @@
+<!-- MUVARIA-FUENTE-NORTE-INICIO-V3 -->
+
+{{frontCover}}
+
+{{logo ![](https://julipincho.github.io/imagenesEltaris/images/logo-darmagion-ciervo-gold.svg)}}
+
+# La Fuente del Norte
+## Campaña de Muvaria
+___
+
+{{banner Darmagion DM}}
+
+{{footnote
+  Nadie llega dos veces por el mismo camino. <br> Nerin sonríe como si eso fuera una ventaja.
+}}
+
+![Portada: La Fuente del Norte](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-portada.png){position:absolute,bottom:0,right:-20px,height:132%,top:-230px,opacity:94%}
+
+<style>
+
+```css
+.page {
+}
+
+.page{
+    width : 215.9mm;
+    height : 279.4mm;
+    padding: 1cm 1cm;
+    padding-bottom: 1.3cm;
+    font-size: 0.317cm;
+}
+
+/* Background */
+  .page{ background-image: url('https://www.gmbinder.com/images/Cheefop.jpg'); }
+  .page{ background-size: cover }
+  .page .cover-splotch{ background-image:none; }
+
+/* Notes */
+  .page section blockquote {background-color: #e7e1d3}
+  .page hr + section blockquote tr:nth-child(odd) td {background-color: transparent;}
+
+.page .descriptive{
+    border-image: url('https://www.gmbinder.com/images/adgrVwx.png');
+    border-image-slice: 12;
+    border-image-width: 1;
+    border-image-outset: 4px;
+    border-image-repeat: stretch;
+    background-color: #efe8d7;
+}
+
+/* Tables */
+  table tr:nth-child(odd) td {background-color: #e6dfcf}
+
+/* Footer */
+.page:nth-child(odd):after{
+    content          : '';
+    background-image : url('https://www.gmbinder.com/images/z7DiaQi.png');
+    background-size:816px 55px, 120px 120px;
+    background-repeat:no-repeat, no-repeat;
+    background-position:bottom, bottom right;
+}
+
+.page:nth-child(even):after{
+    content          : '';
+    background-image : url('https://www.gmbinder.com/images/z7DiaQi.png'); -webkit-transform:scaleX(-1);
+    background-size:816px 55px, 120px 120px;
+    background-repeat:no-repeat, no-repeat;
+    background-position:bottom, bottom right;
+}
+
+/* Footnote */
+.page .footnote{
+    position   : absolute;
+    color      : #858484;
+}
+
+/* Page Number */
+.page .pageNumber{
+    position   : absolute;
+    color      : #858484;
+}
+
+.page .pageNumber.auto{
+    position   : absolute;
+    bottom     : 30px;
+    color      : #858484;
+}
+
+.toc a {color: inherit !important;}
+.toc li span:nth-child(2){width: auto;overflow: hidden;white-space: nowrap;display: block;}
+.toc li span:nth-child(2):after{font-family:BookSanity;font-size:0.317cm;font-weight:normal;color:black;content:" ........................................""........................................."".........................................";}
+.toc li span:first-child{float:right;font-family:BookSanity;font-size:0.317cm;font-weight:normal;color:black;margin-left:1px;}
+.toc li h3 span:nth-child(2):after{content: " ";}
+.toc li h3 {margin-bottom: 4px !important;margin-top: 10px !important;line-height: initial !important;}
+.toc li h5 {margin-bottom: 0.5px !important;margin-top: 2px !important;line-height: initial !important;}
+.toc li h6 {margin-bottom: 0.5px !important;margin-top: -3px !important;line-height: initial !important;}
+.toc li h3 span:first-child{line-height: 2.3em !important;}
+.toc ul ul {margin-left: 10px !important;}
+.toc>ul>li {margin-bottom: initial !important;}
+.page#p1:after { display:none; }
+```
+
+</style>
+
+\page
+
+<div class='footnote'>Índice de la Aventura</div>
+
+##### Índice de la Aventura
+{{index,wide,columns:4,font-size:0.27cm,line-height:1.08;
+##### Índice
+- Inicio y guía
+  - Resumen rápido para el DM, 1
+  - Premisa para el DM, 3
+  - Estado inicial del grupo, 4
+  - Nerin Fortuna, 5
+  - Reino de Muvaria, 7
+  - Economía del viaje, 8
+- Facciones y secretos
+  - Facciones principales, 9
+  - Antagonistas recurrentes, 11
+  - Verdad sobre la Fuente, 13
+  - Estructura de niveles, 14
+- Ruta de campaña
+  - Miravalle, 15
+  - Lanterra, 26
+  - Metusta, 33
+  - Brammavik, 40
+  - Velkora, 47
+- Final
+  - Valle de los Ecos, 54
+  - La Fuente del Norte, 61
+  - Deseos y consecuencias, 66
+  - Tablas de viaje, 69
+  - Apéndice de criaturas, 72
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Inicio y guía</div>
+<div class='footnote'>Inicio y guía</div>
+
+# Resumen rápido para el DM
+
+## Visión general
+
+La campaña lleva a los personajes desde la frontera de Dirinham hasta la Fuente del Norte, pasando por cinco ciudades muvarias, un valle que alimenta deseos y un final donde la elección importa más que el poder.
+
+- **Nivel inicial sugerido:** 5
+- **Nivel final sugerido:** 12 a 13
+- **Duración estimada:** 25 a 40 sesiones
+- **Tono:** viaje épico, fantasía de ruta, comedia de casualidades, intriga urbana, horror de deseos mal concedidos.
+
+## Orden del viaje
+
+1. Miravalle – puerta de Muvaria
+2. Lanterra – ciudad de puentes
+3. Metusta – la Biblioteca Inmensa
+4. Brammavik – ciudad de hierro
+5. Velkora – ciudad de campanas
+6. Valle de los Ecos
+7. Fuente del Norte
+
+## Niveles sugeridos por tramo
+
+| Tramo | Nivel sugerido |
+|:--|:--|
+| Miravalle | 5–6 |
+| Lanterra | 6–7 |
+| Metusta | 7–8 |
+| Brammavik | 8–9 |
+| Velkora | 9–10 |
+| Valle de los Ecos | 10–12 |
+| Fuente del Norte | 12–13 |
+
+## Rumores útiles
+
+| d10 | Rumor |
+|:--:|:--|
+| 1 | La Fuente concede cualquier deseo, pero borra un recuerdo preciso a cambio. |
+| 2 | Nadie llega dos veces por el mismo camino; el norte cambia con quienes lo buscan. |
+| 3 | Metusta guarda un mapa que no muestra lugares, sino decisiones. |
+| 4 | La Fuente no escucha palabras; escucha lo que no te animas a decir. |
+| 5 | Un mercader del Consorcio Áureo compró un camino entero. |
+| 6 | Los faroles de Lanterra guardan nombres olvidados. |
+| 7 | Si cruzás el Valle de los Ecos sin despedirte, algo se queda contigo. |
+| 8 | El sonido de la campana decimotercera en Velkora puede cambiar el destino de un grupo. |
+| 9 | Un culto subterráneo cree que la Fuente no concede deseos; los almacena. |
+| 10 | La persona que traiga a Nerin Fortuna a la Fuente verá un futuro distinto. |
+
+{{pageNumber,auto}}
+
+\page
+
+No es una aventura donde los personajes reciben un mapa, caminan al norte y llegan a la Fuente.
+
+Es una historia de viaje.
+
+Una historia de hambre, de deudas, de trabajos improvisados, de ciudades extrañas, de gente que también desea algo, de caminos cortados, de posadas demasiado caras, de mapas contradictorios y de una joven llamada Nerin Fortuna que, por alguna razón, siempre termina encontrando la puerta correcta después de equivocarse tres veces.
+
+El grupo no viaja solo.
+
+Viaja con Nerin desde antes del inicio de esta campaña.
+
+Ya conocen sus rarezas.
+
+Ya saben que las casualidades la rodean.
+
+Ya vieron cómo una carreta rota terminó salvándolos de una emboscada.
+
+Ya vieron cómo Nerin confundió una dirección y aun así los llevó hasta el contacto que necesitaban.
+
+Ya vieron cómo una moneda que ella tiró al aire cayó dentro de la jarra del único hombre de la taberna que sabía algo importante.
+
+Lo que no saben es por qué ocurre.
+
+Y Nerin tampoco.
+
+## La idea central
+
+La campaña funciona con tres motores:
+
+**1. El deseo.**  
+Todos quieren llegar a la Fuente por una razón distinta.
+
+**2. El viaje.**  
+Llegar cuesta dinero, favores, suministros, contactos y reputación.
+
+**3. La casualidad.**  
+Nerin no resuelve la aventura, pero inclina el camino hacia los lugares donde la historia se vuelve más interesante.
+
+## Regla para el DM
+
+Nerin no debe ser usada para quitar agencia al grupo.
+
+No debe decirles qué hacer.
+
+No debe ganar combates por ellos.
+
+No debe revelar respuestas completas.
+
+Nerin debe funcionar como una brújula rota que, inexplicablemente, apunta al sitio correcto justo después de apuntar al peor sitio posible.
+
+> ##### Ejemplo de uso correcto
+> El grupo no sabe cómo entrar a una mansión.
+>
+> Nerin intenta comprar empanadas en una puerta equivocada.
+>
+> Esa puerta pertenece al proveedor de cocina de la mansión.
+>
+> Ahora el grupo tiene una oportunidad.
+>
+> La decisión sigue siendo de los jugadores.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Premisa para el DM</div>
+
+# 2. Premisa para el DM
+
+Al norte de Muvaria, más allá del Valle de los Ecos, existe un lugar llamado **la Fuente del Norte**.
+
+La mayoría cree que es un mito.
+
+Otros creen que es un milagro.
+
+Otros saben que es una herida.
+
+La Fuente puede cumplir cualquier deseo.
+
+Pero no escucha palabras.
+
+Escucha necesidades.
+
+No responde a lo que alguien pide.
+
+Responde a lo que alguien no puede dejar de querer.
+
+Durante siglos, la Fuente fue buscada por reyes, santos, criminales, familias desesperadas, magos, enfermos, viudos, conquistadores, niños perdidos y monstruos con memoria humana.
+
+Algunos regresaron transformados.
+
+Otros no regresaron.
+
+Otros volvieron sonriendo y nunca volvieron a dormir.
+
+## La campaña comienza realmente cuando...
+
+El grupo descubre que no son los únicos que buscan la Fuente.
+
+Varias facciones se están moviendo al mismo tiempo:
+
+* Una orden religiosa quiere sellarla para siempre.
+* Una compañía mercantil quiere monopolizarla.
+* Una casa noble quiere usarla para reclamar el trono.
+* Un archimago quiere eliminar el azar del mundo.
+* Un culto subterráneo cree que la Fuente no concede deseos, sino que alimenta a un dios dormido.
+
+Y en medio de todos ellos está Nerin Fortuna.
+
+La muchacha que cree que su padre la envió a buscar algo.
+
+La muchacha que habla de “papá” como si fuera un hombre común.
+
+La muchacha que, sin saberlo, es el avatar mortal de una deidad menor de la casualidad.
+
+## El secreto principal
+
+Nerin no fue enviada a encontrar la Fuente.
+
+Fue enviada a encontrar a las personas que puedan decidir qué hacer con ella.
+
+Orphin, su padre divino, no quiere que Nerin cumpla un destino.
+
+Quiere que tenga la libertad de perderse.
+
+Porque, en esta historia, perderse puede salvar al mundo.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Estado inicial del grupo</div>
+
+# 3. Estado inicial del grupo
+
+Al comenzar esta campaña, los personajes ya conocen a Nerin.
+
+No hace falta jugar el primer encuentro con ella, salvo que el DM quiera hacer un flashback.
+
+El grupo ya ha viajado con ella durante un tiempo.
+
+Puede que la hayan conocido en Dirinham.
+
+Puede que la hayan rescatado de un problema que ella misma causó.
+
+Puede que Nerin se haya unido al grupo porque “papá dijo que no conviene caminar sola cuando el camino está demasiado tranquilo”.
+
+Lo importante es esto:
+
+**El grupo confía en Nerin lo suficiente como para viajar con ella.**
+
+Aunque no necesariamente la entienden.
+
+## Lo que el grupo ya sabe de Nerin
+
+* Es alegre incluso en situaciones horribles.
+* No parece consciente de lo improbable que es todo lo que le ocurre.
+* Tiene una relación extraña con la suerte.
+* Habla constantemente de “papá”.
+* No sabe exactamente qué está buscando.
+* Cree que el norte tiene algo para ella.
+* Sus desvíos casi siempre terminan siendo útiles.
+
+## Lo que el grupo no sabe
+
+* Nerin es hija mortal de Orphin, una deidad menor de la casualidad, los caminos perdidos y los encuentros imposibles.
+* Su padre no manipula el mundo como un titiritero; apenas empuja pequeñas probabilidades.
+* La Fuente del Norte puede detectar la naturaleza divina de Nerin.
+* El enemigo principal quiere usar a Nerin como llave viviente.
+
+## Inicio sugerido de la campaña
+
+La campaña puede comenzar en el camino entre Dirinham y Muvaria.
+
+El grupo viaja hacia el norte porque ha oído un rumor serio sobre la Fuente.
+
+Sin embargo, hay un problema muy concreto:
+
+No tienen dinero suficiente.
+
+Llegar al norte implica pagar permisos, caravanas, comida, guías, herramientas, ropa de frío, peajes, sobornos, pasajes fluviales y protección.
+
+Nerin, con total naturalidad, propone la solución más peligrosa posible:
+
+> “Podríamos trabajar en cada ciudad. Papá dice que las mejores rutas son las que se pagan solas.”
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Nerin Fortuna</div>
+
+# 4. Nerin Fortuna
+
+{{imageMaskEdge8,--offset:2%,--rotation:270
+  ![Nerin Fortuna](https://julipincho.github.io/imagenesEltaris/images/muvaria-nerin-fortuna.png){height:100%,left:215px,top:0px}
+}}
+
+## Avatar de la Casualidad
+
+Nerin es una joven viajera de sonrisa contagiosa y optimismo inquebrantable.
+
+Allí donde aparece, las coincidencias comienzan a acumularse.
+
+No parece una heroína.
+
+No parece una profeta.
+
+No parece una hija divina.
+
+Parece simplemente una muchacha alegre que disfruta conocer personas y descubrir nuevos caminos.
+
+Y quizá por eso resulta tan fácil seguirla.
+
+## Cómo se comporta con el grupo
+
+Nerin no lidera.
+
+Acompaña.
+
+Pregunta cosas incómodas sin darse cuenta.
+
+Compra comida para todos cuando solo tenía dinero para una persona.
+
+Se queda hablando con animales, ancianos, mendigos, cocineras y guardias aburridos.
+
+Confía demasiado rápido.
+
+Se disculpa incluso cuando no tiene la culpa.
+
+Y cuando todo sale mal, mira alrededor con una calma absurda y dice algo como:
+
+> “Bueno. Todavía no estamos muertos. Eso suele ser una pista.”
+
+## La creencia fundamental de Nerin
+
+Nerin está convencida de que el mundo siempre intenta decir algo.
+
+Una puerta cerrada.
+
+Una moneda encontrada.
+
+Una tormenta inesperada.
+
+Una conversación escuchada por accidente.
+
+Nada de eso es casual para ella.
+
+Son pequeñas pistas.
+
+Migas de pan dejadas por papá.
+
+## Nerin y “papá”
+
+Nerin jamás habla de “el destino”.
+
+Jamás habla de “profecías”.
+
+Jamás habla de “voluntad divina”.
+
+Siempre habla de:
+
+> “Papá.”
+
+Como si fuese la cosa más normal del mundo.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Nerin Fortuna — Frases</div>
+
+## Frases de Nerin
+
+Usá estas frases durante toda la campaña.
+
+No las expliques.
+
+Dejá que el grupo se acostumbre a ellas.
+
+| d20 | Frase de Nerin |
+|:--:|:--|
+| 1 | “Papá dice que cuando una puerta no abre, quizá estaba intentando ser una pared.” |
+| 2 | “Papá siempre dice que nadie se pierde gratis.” |
+| 3 | “Si todos los caminos parecen malos, eso significa que ya estamos eligiendo bien.” |
+| 4 | “Papá dice que los mapas son cartas de amor escritas por gente con miedo.” |
+| 5 | “No sé por qué estamos acá. Pero seguro que acá sí sabe.” |
+| 6 | “Una vez papá me dijo que una coincidencia repetida es una conversación.” |
+| 7 | “Si la moneda cae de canto, comemos primero y decidimos después.” |
+| 8 | “No confío en los caminos demasiado rectos. Tienen cara de mentirosos.” |
+| 9 | “Papá dice que correr también es una forma de avanzar.” |
+| 10 | “A veces un error es una puerta que todavía no aprendió a presentarse.” |
+| 11 | “Eso salió mal. Bien. Ahora sabemos algo.” |
+| 12 | “Papá dice que la suerte no existe. Pero también dice que conviene saludarla.” |
+| 13 | “Si esto era una trampa, al menos era una trampa muy educada.” |
+| 14 | “Yo creo que ese señor malo está triste. Malo, pero triste.” |
+| 15 | “¿Y si preguntamos? La gente mala también se confunde.” |
+| 16 | “Papá dice que una posada barata puede costarte más que una cara.” |
+| 17 | “Cuando alguien dice ‘esto es imposible’, suele faltar una escalera.” |
+| 18 | “Si nos están siguiendo, al menos no estamos solos.” |
+| 19 | “Papá dice que los tesoros más peligrosos son los que contestan.” |
+| 20 | “No se preocupen. Tengo un presentimiento completamente injustificado.” |
+
+
+{{pageNumber,auto}}
+
+\page
+
+## Regla narrativa: las casualidades de Nerin
+
+Una vez por sesión, el DM puede usar una casualidad de Nerin.
+
+Esta casualidad no debe resolver el problema.
+
+Debe abrir una posibilidad.
+
+### Ejemplos
+
+* Nerin compra fruta y recibe una moneda antigua como vuelto.
+* Nerin se equivoca de calle y el grupo encuentra un símbolo de la facción enemiga.
+* Una paloma le roba un papel y lo deja caer en el patio correcto.
+* Nerin tropieza y descubre una baldosa hueca.
+* Nerin saluda a un desconocido que resulta ser primo de alguien importante.
+* Nerin pierde una bota y obliga al grupo a pasar por un taller donde escuchan una conversación clave.
+
+## Lo que Nerin jamás debe hacer
+
+* Revelar el camino exacto a la Fuente.
+* Decir “mi padre es un dios”.
+* Ganar un combate importante por el grupo.
+* Anular una decisión de los jugadores.
+* Convertirse en protagonista absoluta de la campaña.
+
+## Arco emocional de Nerin
+
+Al inicio, Nerin cree que busca algo.
+
+Un tesoro.
+
+Una señal.
+
+Una respuesta.
+
+Un lugar.
+
+A mitad de campaña, empieza a sospechar que quizá ella misma es parte de lo que todos buscan.
+
+Al final, descubre que no fue enviada a encontrar un objeto.
+
+Fue enviada a encontrar una familia elegida.
+
+Y a demostrar que el mundo no se salva por destino.
+
+Se salva porque alguien decide hacerlo, incluso cuando podría pedir cualquier otra cosa.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>El Reino de Muvaria</div>
+
+# 5. El Reino de Muvaria
+
+![Mapa de ruta de Muvaria](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-mapa-ruta.png){width:100%,margin-top:8px}
+
+Muvaria es el reino vecino de Dirinham.
+
+Donde Dirinham es ordenado, Muvaria es supersticioso.
+
+Donde Dirinham confía en murallas, Muvaria confía en caminos.
+
+Donde Dirinham registra leyes, Muvaria registra presagios.
+
+Muvaria es un reino largo, lleno de rutas comerciales, colinas, puentes, bosques húmedos, minas, bibliotecas, campanarios y valles donde los mapas empiezan a contradecirse.
+
+## La relación con Dirinham
+
+Dirinham y Muvaria no están en guerra.
+
+Pero tampoco se aman.
+
+Dirinham acusa a Muvaria de ser impredecible, teatral y poco confiable.
+
+Muvaria acusa a Dirinham de ser rígido, arrogante y espiritualmente sordo.
+
+En la frontera se comercia mucho.
+
+También se espía mucho.
+
+Los personajes pueden ser vistos como extranjeros útiles, mercenarios oportunos o posibles agentes de Dirinham.
+
+## Costumbres generales de Muvaria
+
+### 1. Los augurios importan
+
+Antes de cerrar un trato, muchos muvarios observan el clima, el vuelo de los pájaros, la forma de una vela o el modo en que cae una moneda.
+
+Esto no significa que todos sean crédulos.
+
+En Muvaria, la superstición es una forma de lenguaje social.
+
+### 2. Nadie desprecia un camino raro
+
+Un desvío puede ser una molestia.
+
+También puede ser una invitación.
+
+Por eso los muvarios suelen preguntar:
+
+> “¿Qué te trajo por esta ruta?”
+
+No es cortesía.
+
+Es interés real.
+
+### 3. Los deseos se dicen con cuidado
+
+En Muvaria, decir “deseo que...” en voz alta se considera imprudente.
+
+La gente usa frases alternativas:
+
+* “Sería amable del mundo que...”
+* “No me molestaría que...”
+* “Si las cosas quisieran acomodarse...”
+* “Ojalá, pero bajito.”
+
+Nerin ignora por completo esta costumbre.
+
+### 4. La hospitalidad tiene precio simbólico
+
+Una casa puede recibir viajeros, pero siempre pedirá algo menor a cambio:
+
+* contar una historia,
+* lavar los platos,
+* cantar una canción,
+* traer agua,
+* dejar una moneda debajo de una piedra,
+* prometer recordar el nombre del anfitrión.
+
+Rechazar el gesto se considera mala suerte.
+
+## Geografía de ruta
+
+La campaña sigue una ruta sur-norte:
+
+1. **Miravalle**, ciudad fronteriza y puerta de Muvaria.
+2. **Lanterra**, ciudad de puentes, canales y faroles.
+3. **Metusta**, la ciudad biblioteca, centro intelectual del reino.
+4. **Brammavik**, ciudad de hierro, minas y contratos cantados.
+5. **Velkora**, ciudad de campanas, última frontera civilizada.
+6. **Valle de los Ecos**, región salvaje donde los deseos toman forma.
+7. **Fuente del Norte**, lugar mítico más allá del valle.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>La economía del viaje</div>
+
+# 6. La economía del viaje
+
+Llegar al norte cuesta.
+
+No solo oro.
+
+También favores.
+
+Suministros.
+
+Reputación.
+
+Permisos.
+
+Mapas.
+
+Protección.
+
+Caballos.
+
+Ropa de abrigo.
+
+Medicinas.
+
+Silencio.
+
+Y, en algunos lugares, disculpas públicas.
+
+## Puntos de Travesía
+
+Para no convertir la campaña en contabilidad pesada, podés usar **Puntos de Travesía**.
+
+Un Punto de Travesía representa suficiente dinero, comida, transporte, permisos y suministros para avanzar una etapa importante del viaje.
+
+| Tramo | Costo sugerido |
+|:--|:--:|
+| Dirinham a Miravalle | ya pagado antes de iniciar |
+| Miravalle a Lanterra | 2 Puntos de Travesía |
+| Lanterra a Metusta | 3 Puntos de Travesía |
+| Metusta a Brammavik | 3 Puntos de Travesía |
+| Brammavik a Velkora | 4 Puntos de Travesía |
+| Velkora al Valle de los Ecos | 5 Puntos de Travesía |
+| Cruzar el Valle de los Ecos | no se compra; se sobrevive |
+
+## Cómo conseguir Puntos de Travesía
+
+Cada ciudad ofrece varias misiones.
+
+Las misiones pueden pagar en oro, pero lo más útil suele ser otra cosa:
+
+* un pasaje en caravana,
+* un salvoconducto,
+* mulas,
+* un mapa,
+* una carta de recomendación,
+* un guía,
+* herramientas,
+* ropa de invierno,
+* una deuda cobrada a futuro,
+* protección política.
+
+Cuando el grupo complete una misión importante, gana entre 1 y 3 Puntos de Travesía.
+
+## Opción con oro
+
+Si preferís usar oro, tomá esta equivalencia aproximada:
+
+**1 Punto de Travesía = 250 po por personaje.**
+
+A niveles altos, aumentá el costo a 500 po por personaje para los tramos hacia Velkora y el valle.
+
+## La bolsa de Nerin
+
+Nerin tiene una pequeña bolsa de cuero.
+
+Dentro guarda monedas sueltas, botones, semillas, una llave que no abre nada, una cuenta de vidrio azul, un caramelo viejo, una ficha de taberna, un diente de leche que jura que no es suyo y una moneda partida.
+
+Cada vez que el grupo esté completamente sin recursos, Nerin puede revisar la bolsa y encontrar algo ridículo pero útil.
+
+No debe ser mucho dinero.
+
+Debe ser una oportunidad.
+
+| d8 | Nerin encuentra... |
+|:--:|:--|
+| 1 | Un recibo viejo de una posada que ahora sirve como prueba de identidad. |
+| 2 | Una moneda extranjera que un coleccionista pagaría bien. |
+| 3 | Una llave que no abre la puerta, pero sí el baúl del guardia. |
+| 4 | Una semilla de árbol raro que un druida local quiere recuperar. |
+| 5 | Una ficha de juego de una casa de apuestas clandestina. |
+| 6 | Un botón con el símbolo de una facción enemiga. |
+| 7 | Un caramelo envuelto en un papel con un mapa dibujado por error. |
+| 8 | Una moneda que siempre cae del lado que más complica la situación. |
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Facciones principales</div>
+
+# 7. Facciones principales
+
+La Fuente del Norte no es un secreto absoluto.
+
+Varias organizaciones conocen fragmentos de la historia.
+
+Ninguna tiene toda la verdad.
+
+## La Línea Recta
+
+<!-- Imagen pendiente: IMAGEN_PENDIENTE - Imagen: emblema geométrico de una línea blanca atravesando un círculo negro -->
+
+**Líder:** Maer Valcor Senn  
+**Tipo:** círculo filosófico, red de espías, escuela de magia determinista  
+**Objetivo:** llegar a la Fuente y pedir un mundo sin azar  
+**Métodos:** predicción, chantaje, sobornos, asesinato preciso, magia de adivinación  
+**Criaturas y stat blocks sugeridos:** Mage, Veteran, Spy, Assassin, Knight, Helmed Horror, Shield Guardian, Invisible Stalker, Modron.
+
+La Línea Recta cree que el azar es una forma de crueldad.
+
+Una enfermedad del mundo.
+
+Una familia muere porque una rueda se rompe.
+
+Un niño sobrevive porque una flecha falla.
+
+Una guerra empieza porque una carta llega tarde.
+
+Para Maer Valcor Senn, eso no es belleza.
+
+Es horror.
+
+Su deseo es simple:
+
+> “Que nada vuelva a depender de la suerte.”
+
+Si llega a la Fuente, intentará imponer una realidad donde todo resultado sea calculable.
+
+No habría accidentes.
+
+No habría milagros.
+
+No habría encuentros imposibles.
+
+No habría Nerin.
+
+## El Consorcio Áureo
+
+**Líder local:** Jaska Mir, contadora de caravanas  
+**Tipo:** red mercantil transnacional  
+**Objetivo:** controlar el acceso a la Fuente como recurso económico  
+**Métodos:** contratos, deuda, compra de guías, bloqueo de rutas  
+**Criaturas y stat blocks sugeridos:** Bandit Captain, Veteran, Guard, Spy, Noble, Gladiator, Thug.
+
+El Consorcio no quiere destruir la Fuente.
+
+Quiere administrarla.
+
+Cobrar por ella.
+
+Regularla.
+
+Vender turnos.
+
+Ofrecer “paquetes de deseo seguro”.
+
+Sus agentes son educados, sonrientes y terribles.
+
+Jaska Mir puede convertirse en enemiga, aliada incómoda o patrocinadora temporal del grupo.
+
+## La Orden del Voto Blanco
+
+**Líder:** Madre Seralya de la Ceniza Clara  
+**Tipo:** orden religiosa y militar  
+**Objetivo:** sellar la Fuente para que nadie vuelva a usarla  
+**Métodos:** escoltas armadas, reliquias, exorcismos, censura de mapas  
+**Criaturas y stat blocks sugeridos:** Priest, Knight, Veteran, Acolyte, War Priest si está disponible, Deva como intervención extrema.
+
+La Orden cree que ningún deseo humano merece poder absoluto.
+
+No son villanos simples.
+
+Tienen razón en muchas cosas.
+
+Han visto pueblos enteros destruidos por deseos mal concedidos.
+
+Pero su solución es negar toda esperanza.
+
+Y eso también puede ser cruel.
+
+## La Casa Vardemir
+
+**Líder:** Lady Irielle Vardemir  
+**Tipo:** familia noble venida a menos  
+**Objetivo:** usar la Fuente para restaurar su linaje y reclamar derechos sobre Muvaria  
+**Métodos:** diplomacia, duelos, reliquias familiares, mercenarios elegantes  
+**Criaturas y stat blocks sugeridos:** Noble, Knight, Veteran, Swashbuckler si está disponible, Mage, Griffon como montura.
+
+Irielle Vardemir quiere pedir que su familia nunca haya caído.
+
+Eso reescribiría décadas de historia.
+
+Quizá restauraría justicia.
+
+Quizá borraría matrimonios, amistades, nacimientos y vidas completas.
+
+{{pageNumber,auto}}
+
+\page
+
+## Los Hijos del Pozo
+
+**Líder visible:** Hermano Lodo  
+**Líder real:** Aruun, el Pozo que Recuerda  
+**Tipo:** culto subterráneo  
+**Objetivo:** alimentar la corrupción bajo la Fuente  
+**Métodos:** sueños, secuestros, promesas personales, monstruos acuáticos  
+**Criaturas y stat blocks sugeridos:** Cultist, Cult Fanatic, Deep Scion si está disponible, Kuo-toa, Chuul, Aboleth, Gibbering Mouther, Otyugh.
+
+Los Hijos del Pozo no quieren pedir un deseo.
+
+Quieren que todos pidan.
+
+Cada deseo alimenta a Aruun.
+
+Cada deseo abre una grieta.
+
+Cada grieta recuerda algo que el mundo intentó olvidar.
+
+## Las Cartas Inclinadas
+
+**Líder:** Timo “Dos Veces” Lerr  
+**Tipo:** gremio menor de ladrones, estafadores y tahúres  
+**Objetivo:** sobrevivir a todo y robar lo que nadie esté mirando  
+**Métodos:** trampas, disfraces, cartas marcadas, información barata  
+**Criaturas y stat blocks sugeridos:** Spy, Bandit, Thug, Wererat, Kenku, Master Thief si está disponible.
+
+Las Cartas Inclinadas funcionan como alivio cómico, complicación urbana y fuente de información.
+
+Timo “Dos Veces” se presenta dos veces siempre.
+
+Primero con un nombre falso.
+
+Después con otro nombre falso.
+
+Nunca con el verdadero.
+
+Nerin le cae muy bien porque no puede hacerle trampas.
+
+No porque ella las detecte.
+
+Sino porque sus trampas siempre salen mal de una forma que lo beneficia a medias y lo humilla por completo.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Antagonistas recurrentes</div>
+
+# 8. Antagonistas recurrentes
+
+## Maer Valcor Senn
+
+<!-- Imagen pendiente: IMAGEN_PENDIENTE - Imagen: mago elegante de cabello blanco, capa oscura y bastón geométrico -->
+
+**Alias:** el Señor de la Línea Recta  
+**Rol:** antagonista principal  
+**Stat block sugerido:** comienza como Mage modificado; hacia el final usa Archmage con apoyo de Shield Guardian, Helmed Horror o efectos de la Fuente  
+**Deseo:** eliminar el azar del mundo  
+**Relación con Nerin:** al principio la considera una anomalía curiosa; luego entiende que puede ser una llave viviente.
+
+Maer Senn no grita.
+
+No amenaza de forma exagerada.
+
+No se ríe como villano.
+
+Es cortés.
+
+Paciente.
+
+Casi triste.
+
+Habla como alguien que ya hizo el cálculo moral y decidió que el sufrimiento de algunos es aceptable si con eso elimina el sufrimiento impredecible de todos.
+
+### Cómo presentarlo
+
+La primera vez que aparezca, no debe parecer el enemigo final.
+
+Puede estar comprando libros.
+
+Financiando una expedición.
+
+Escuchando música.
+
+Ayudando a una niña a cruzar una calle.
+
+Luego, cuando hable con el grupo, puede decir:
+
+> “No me opongo a ustedes. Me opongo a la idea de que el mundo deba seguir siendo una moneda en el aire.”
+
+### Rasgos de Maer
+
+* Nunca camina por calles curvas si puede evitarlas.
+* Ordena los cubiertos antes de hablar.
+* Recuerda fechas exactas de tragedias ajenas.
+* Odia los dados.
+* No cree en la suerte.
+* Se pone nervioso cerca de Nerin.
+
+### Evolución de Maer
+
+| Etapa | Comportamiento |
+|:--|:--|
+| Miravalle | aparece como patrocinador culto y distante |
+| Lanterra | intenta comprar la información que el grupo obtiene |
+| Metusta | ataca indirectamente la Biblioteca para robar el Mapa Palimpsesto |
+| Brammavik | bloquea suministros y ofrece financiar al grupo a cambio de control |
+| Velkora | intenta capturar a Nerin |
+| Valle de los Ecos | se obsesiona y empieza a perder compostura |
+| Fuente | intenta pedir un mundo sin azar |
+
+## Lady Irielle Vardemir
+
+<!-- Imagen pendiente: IMAGEN_PENDIENTE - Imagen: noble guerrera con capa azul, mirada cansada y espada ceremonial -->
+
+**Rol:** rival trágica  
+**Stat block sugerido:** Knight o Noble con escolta de Veterans; en niveles altos, combinar con Mage aliado  
+**Deseo:** restaurar a su familia y borrar la caída de su casa  
+**Posible arco:** enemiga, aliada, sacrificio o tragedia.
+
+Irielle no busca poder por vanidad.
+
+Busca reparar lo que considera una injusticia histórica.
+
+Su familia fue acusada de traición hace dos generaciones.
+
+Puede que la acusación haya sido falsa.
+
+Puede que haya sido cierta.
+
+Lo terrible es que Irielle no quiere justicia.
+
+Quiere corrección.
+
+Quiere que nunca haya pasado.
+
+### Cómo usarla
+
+Irielle debe sentirse humana.
+
+Puede salvar civiles.
+
+Puede pagar deudas de campesinos.
+
+Puede defender al grupo ante un noble corrupto.
+
+Y aun así, si llega a la Fuente, su deseo podría borrar a miles de personas de la historia.
+
+## Jaska Mir
+
+<!-- Imagen pendiente: IMAGEN_PENDIENTE - Imagen: mercader sonriente con lentes, papeles y una pluma dorada -->
+
+**Rol:** antagonista comercial y aliada incómoda  
+**Stat block sugerido:** Noble o Spy con guardaespaldas Veterans/Gladiator  
+**Deseo:** no desea beber de la Fuente; desea poseer el camino hasta ella.
+
+Jaska Mir es peligrosa porque siempre ofrece soluciones.
+
+Si el grupo no tiene dinero, ella tiene crédito.
+
+Si no tiene permisos, ella tiene contactos.
+
+Si no tiene guía, ella conoce a tres.
+
+El problema es que cada favor queda escrito.
+
+Y en Muvaria, un contrato también puede ser una cadena.
+
+{{pageNumber,auto}}
+
+\page
+
+## Hermano Lodo
+
+<!-- Imagen pendiente: IMAGEN_PENDIENTE - Imagen: sacerdote cubierto de barro seco, ojos acuosos y sonrisa tranquila -->
+
+**Rol:** emisario del culto  
+**Stat block sugerido:** Cult Fanatic; luego Warlock of the Great Old One si está disponible, o Mage con conjuros mentales  
+**Deseo:** que todos pidan lo que realmente quieren.
+
+Hermano Lodo habla con ternura.
+
+No obliga.
+
+Invita.
+
+Dice cosas como:
+
+> “No tengas vergüenza de querer. La vergüenza es una jaula construida por los que ya recibieron lo suyo.”
+
+El culto puede tentar a personajes que tengan deseos personales fuertes.
+
+No hace falta que el culto gane por combate.
+
+Puede ganar haciendo preguntas.
+
+## Timo “Dos Veces” Lerr
+
+**Rol:** pícaro cómico recurrente  
+**Stat block sugerido:** Spy, Bandit Captain o Master Thief si está disponible  
+**Deseo:** dice que quiere riquezas, pero en realidad quiere que alguien confíe en él.
+
+Timo puede robar al grupo, ayudarlos, venderles información falsa, disculparse, volver a robarles, salvarles la vida por accidente y luego pasarles una factura.
+
+Nerin lo considera “un amigo con mal vocabulario moral”.
+
+Timo considera a Nerin “la peor jugadora de cartas del mundo y la persona más peligrosa que conocí”.
+
+## Calo Bronce, el Martillo Afable
+
+**Rol:** estafador mercantil recurrente y aliado situacional  
+**Facción actual:** liquidador irregular del Consorcio Áureo  
+**Vínculo anterior:** exmiembro de las Cartas Inclinadas  
+**Stat block sugerido:** Spy o Bandit Captain en niveles bajos; Master Thief si reaparece más adelante  
+**Deseo verdadero:** no volver a pertenecerle a nadie.
+
+Calo dirigió la subasta de Fulka con una licencia falsa. Preparó el apagón, introdujo varios lotes animados y huyó con la recaudación. El robo era solo la parte visible: cada paleta de puja estaba encantada para registrar nombres, intereses y precios máximos. El Consorcio llama al resultado **Inventario de Deseos Menores**.
+
+Viste abrigo color vino, chaleco de brocado dorado y guantes negros. Lleva un martillo de plata con una grieta fina. Sonríe como si acabara de recordar una cláusula favorable. Nunca dice “robar”: dice **cerrar**, **liquidar** o **corregir la propiedad**.
+
+Calo creció como garantía de una deuda familiar. Años después, Jaska Mir compró la condena que pesaba sobre él y le ofreció trabajo. Desde entonces cree que cualquier prisión puede abrirse si alguien consigue ponerle precio. Timo lo conoce como **Tercera Mano**: Calo vendió al Consorcio un registro de refugios de las Cartas Inclinadas para salvarse de la horca. Timo todavía no decidió si quiere matarlo o cobrarle intereses.
+
+### Tres golpes
+
+Calo golpea el martillo tres veces: una para llamar la atención, otra para cerrar el precio y una tercera cuando todos creen que el asunto terminó. Ese tercer golpe activa su trampa, su ruta de escape o su oferta real.
+
+Puede ayudar al grupo contra la Línea Recta, los Hijos del Pozo o incluso Jaska, pero nunca gratis. Si se vuelve aliado, cumple exactamente lo prometido y aprovecha todo lo que nadie haya preguntado.
+
+| Etapa | Posible reaparición |
+|:--|:--|
+| Lanterra | remata un cargamento recuperado y vende una pista verdadera entre diez falsas |
+| Metusta | ofrece un índice robado de la Biblioteca a cambio de borrar su propio expediente |
+| Brammavik | liquida deudas mineras para Jaska, pero conoce la cláusula que puede romper los contratos |
+| Velkora | vende los últimos lugares de caravana; puede traicionar al Consorcio si Jaska intenta inventariar personas |
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>La verdad sobre la Fuente</div>
+
+# 9. La verdad sobre la Fuente
+
+La Fuente del Norte existe.
+
+Pero no es un simple manantial mágico.
+
+Hace siglos, en el lugar donde el Plano Material se rozaba con una corriente de posibilidad pura, brotó un agua imposible.
+
+Esa agua no curaba heridas.
+
+Curaba contradicciones.
+
+Si alguien no podía aceptar una pérdida, el agua ofrecía una forma de negarla.
+
+Si alguien no podía vivir con una culpa, el agua ofrecía una forma de reescribirla.
+
+Si alguien quería salvar un pueblo, el agua ofrecía una forma de alterar el precio.
+
+Durante un tiempo, fue un milagro.
+
+Después se convirtió en una adicción sagrada.
+
+## Ishmara, la Voz Azul
+
+La primera guardiana de la Fuente fue **Ishmara**, una entidad elemental del agua vinculada a promesas, nacimientos y cambios.
+
+Ishmara no era maligna.
+
+Tampoco era humana.
+
+Creía que el deseo era una forma de movimiento.
+
+Que todo lo vivo desea porque todo lo vivo cambia.
+
+Cuando vio que los mortales empezaban a pedir no cambiar nunca, comprendió que algo se había corrompido.
+
+## Aruun, el Pozo que Recuerda
+
+Bajo la Fuente duerme Aruun.
+
+No es un dios.
+
+No exactamente.
+
+Es una memoria hambrienta.
+
+Un aboleth antiguo, una conciencia subterránea o una entidad anterior a los nombres, según la versión que el DM prefiera.
+
+Aruun no concede deseos.
+
+Los interpreta.
+
+Los retuerce.
+
+Los convierte en habitaciones donde la persona queda encerrada con aquello que no pudo soltar.
+
+## La regla de la Fuente
+
+> ##### Regla del deseo verdadero
+> La Fuente no escucha lo que una persona dice.
+>
+> Escucha lo que una persona no se atreve a admitir.
+
+Por eso pedir “quiero ser invencible” puede producir algo muy distinto si el deseo real es “no quiero volver a sentir miedo”.
+
+Por eso pedir “quiero recuperar a mi madre” puede convertirse en “quiero volver a ser la persona que era antes de perderla”.
+
+Por eso pedir “quiero salvar el mundo” puede esconder “quiero que el mundo me perdone”.
+
+## Las tres llaves simbólicas
+
+Para llegar a la Fuente sin ser devorado por el Valle de los Ecos, el grupo debe reunir tres llaves.
+
+No son llaves comunes.
+
+Son permisos metafísicos.
+
+### 1. La Llave del Nombre
+
+Se obtiene en Metusta.
+
+Permite recordar quién sos cuando el valle intenta llamarte por tus deseos.
+
+### 2. La Llave del Peso
+
+Se obtiene en Brammavik.
+
+Permite distinguir entre lo que querés y lo que estás dispuesto a cargar.
+
+### 3. La Llave del Adiós
+
+Se obtiene en Velkora.
+
+Permite cruzar el último umbral sin que el pasado te reclame por completo.
+
+El grupo puede llegar sin las tres llaves, pero cada llave que falte aumenta la dificultad del Valle y de la Fuente.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Estructura de niveles</div>
+
+# 10. Estructura de niveles
+
+La campaña está pensada para avance por hitos.
+
+| Tramo | Nivel sugerido | Hito de subida |
+|:--|:--:|:--|
+| Inicio en ruta / llegada a Miravalle | 5 | El grupo ya es competente y conocido por pequeñas hazañas. |
+| Final de Miravalle | 6 | Obtienen el primer mapa útil y financian el viaje a Lanterra. |
+| Final de Lanterra | 7 | Descubren que la Fuente tiene facciones rivales detrás. |
+| Final de Metusta | 8 | Consiguen la Llave del Nombre y el Mapa Palimpsesto. |
+| Mitad o final de Brammavik | 9 | Consiguen la Llave del Peso y sobreviven al conflicto de hierro. |
+| Final de Velkora | 10 | Consiguen la Llave del Adiós y cruzan al valle. |
+| Mitad del Valle de los Ecos | 11 | Superan la primera gran prueba de deseo. |
+| Entrada a la Fuente | 12 | Llegan al santuario final. |
+| Final opcional | 13 | Si la campaña continúa después del deseo. |
+
+## Ritmo recomendado
+
+Cada ciudad puede durar entre 4 y 7 sesiones.
+
+La estructura sugerida de cada ciudad es:
+
+1. Llegada y choque cultural.
+2. Problema económico o logístico.
+3. Misión menor o cómica.
+4. Misión principal.
+5. Encuentro con una facción rival.
+6. Revelación sobre la Fuente.
+7. Salida hacia la siguiente ciudad.
+
+{{pageNumber,auto}}
+
+\page
+
+{{partCover}}
+
+# {{font-family:NodestoCapsCondensed,font-size:31pt, Miravalle}}
+## La puerta de Muvaria
+
+___
+
+{{imageMaskEdge7,--offset:10cm,--rotation:180
+  ![Miravalle](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-miravalle.png){position:absolute,bottom:0,height:125%,left:-5px,top:-px,opacity:92%}
+}}
+:::::::::::::::::::::::::::::::::::::::::::::::::::
+{{descriptive
+##### Uso de Miravalle
+Miravalle introduce el tono de Muvaria: rutas raras, burocracia absurda, deudas pequeñas y casualidades que abren puertas.  
+La ciudad debe sentirse cálida, viva y peligrosa, como si cada cartel estuviera a punto de dar una opinión.
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Miravalle — Ciudad I</div>
+
+## Miravalle — La puerta torcida
+
+**Nivel sugerido:** 5  
+**Función narrativa:** introducir Muvaria, la economía del viaje, las facciones y el tono de casualidad/comedia/peligro.  
+**Puntos de Travesía para salir:** 2  
+**Recompensa principal:** mapa parcial hacia Lanterra, salvoconducto comercial, 2 Puntos de Travesía.  
+**Monstruos sugeridos:** Bandits, Bandit Captain, Ogres, Bugbears, Goblins, Mimics, Animated Armor, Wererats, Giant Spiders.
+
+Miravalle es la primera ciudad importante de Muvaria después de cruzar desde Dirinham. No tiene una muralla continua: tiene muchas murallas pequeñas, construidas por barrios que nunca se pusieron de acuerdo. Como resultado, parece una ciudad hecha de entradas: arcos, puertas, pasajes, escaleras, peajes, puestos de control y carteles contradictorios.
+
+> “Bienvenidos a Miravalle.”  
+> Tres metros después, otro cartel dice:  
+> “Todavía no.”
+
+### Cultura de llegada
+
+Miravalle vive de recibir gente: mercaderes, caravanas, peregrinos, contrabandistas, artistas, fugitivos y aventureros que aseguran estar “solo de paso” desde hace veinte años.
+
+Al llegar, los guardias no preguntan solamente el nombre. Preguntan:
+
+> “¿Qué te trajo por esta ruta?”
+
+Si un personaje dice “problemas”, hacen una marca roja. Si dice “oro”, una verde. Si dice “destino”, llaman a un supervisor. Si Nerin responde, dirá:
+
+> “Pan, creo. Y quizá una señal.”
+
+Los guardias escribirán ambas cosas.
+
+\column
+
+### Barrios y costumbres
+
+* **Barrio del Peaje:** donde se discute el precio de todo, desde una barra de pan hasta la ruta al norte.
+* **Calle de los Carteles:** murales y anuncios que se actualizan solos. Algunos venden servicios. Otros aconsejan. Algunos se quejan de la lluvia.
+* **Mercado de las Historias:** bazar de rumores donde se paga con relatos, no con monedas.
+* **Patio del Gallo Azul:** corazón social. Cada noche se representa un “error famoso” de la ciudad.
+
+### Rituales útiles
+
+* **La Noche de las Puertas:** la ciudad canta frente a sus entradas para agradecer rutas abiertas.
+* **El Día de las Marcas:** los emigrantes dejan prendas viejas como prueba de que fueron bienvenidos.
+* **El Peaje de la Verdad:** el primer visitante que atraviesa cada puerta debe contar una verdad vergonzosa.
+
+{{note
+##### La moneda de entrada
+Cada visitante deja una moneda en una fuente seca. No es impuesto: es “para que la ciudad sepa que no viniste vacío”.  
+Nerin deja un botón. Al día siguiente, ese botón aparece cosido en la chaqueta de un funcionario importante.
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Miravalle — Lugares y PNJ</div>
+
+## Lugares importantes
+
+### La Plaza de las Siete Entradas
+Centro comercial de la ciudad. Tiene siete arcos de piedra. Dicen que si cruzás los siete en el orden correcto, llegás a donde necesitás ir. Nadie recuerda el orden. Nerin lo intenta siguiendo a una gallina. Funciona a medias.
+
+### Posada El Gallo Azul
+Posada ruidosa, barata y peligrosa. La dueña, **Bruna Salvecamino**, fue contrabandista y ahora cobra por cama, comida y consejos. El caldo no tiene personalidad, pero sí demasiada pimienta.
+
+### Oficina de Peajes Improbables
+Un edificio lleno de sellos, filas y empleados agotados. Allí se consiguen permisos de caravana. También se pierden, se falsifican y se venden por debajo de la mesa.
+
+### Mercado de Reliquias Casi Verdaderas
+Todo vendedor jura que su objeto perteneció a alguien famoso. La mayoría es falso. Algunas cosas no.
+
+\column
+
+## PNJ principales
+
+**Bruna Salvecamino.** Dueña de posada, excontrabandista. Directa, maternal cuando nadie mira, brutalmente práctica. Quiere mantener su posada fuera de los juegos de facciones. Una vez buscó la Fuente y volvió antes de cruzar el valle.
+
+**Alguacil Toren Barda.** Autoridad local. Cansado, honesto, supersticioso en privado. Quiere evitar una crisis fronteriza con Dirinham. Sus guardias están siendo sobornados por el Consorcio Áureo.
+
+**Fulka Tresdientes.** Vendedora de mapas falsos y verdaderos mezclados. Rápida, graciosa, imposible de intimidar. Posee un fragmento real del Camino del Norte, pero cree que es decoración.
+
+**Pero Vintia.** Escribano de peajes. Nervioso, obsesionado con sellos. Cada vez que aparece tiene tinta en una parte distinta de la cara.
+
+**Lira de Cinco Llaves.** Ladrona de las Cartas Inclinadas. Nerviosa, veloz, siempre buscando un atajo. Una de sus cartas robadas apunta hacia una ruta secreta al norte.
+
+{{descriptive
+##### Situación al llegar
+El grupo necesita permiso para unirse a una caravana hacia Lanterra, pero el costo es demasiado alto y el camino está bloqueado por peajes ilegales. Toren ofrece ayuda si despejan el camino; Bruna sugiere comprar un mapa raro; Nerin propone ganar una mula en un concurso de tartas.  
+La mula será importante.
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Miravalle — Hoja rápida del DM</div>
+
+## Hoja rápida: hacer que todo cuadre
+
+**Estado previsto para este cierre:** el grupo resolvió el peaje de Brom y Gruda, consiguió a Duquesa, vio a la Línea Recta durante la subasta y dejó pendiente a Calo Bronce.
+
+### La verdad en una frase
+
+El **Consorcio Áureo** encareció los caminos para cobrar por ellos. La **Línea Recta** quiere secuestrar esa infraestructura y convertir las siete salidas de Miravalle en una sola ruta previsible. **Calo es la bisagra entre los planes, no su aliado común.**
+
+### Lo jugado vuelve
+
+* **Ogros:** el libro de los bandidos lleva el código F-7, Aforo de Siete Puertas. Brom, Gruda o el pase obtenido pueden romper un anclaje final.
+* **Mula:** Duquesa muerde al mensajero de Calo y luego reconoce las cadenas de agrimensura. Puede desactivar una capacidad del jefe, pero necesita que el grupo le abra paso.
+* **Mapa:** cerca de la Línea Recta dibuja una línea blanca que atraviesa siete arcos. Revela intención, no solución.
+* **Calo:** su Inventario demuestra que seis puertas ya tienen concesiones comerciales y que la séptima sigue siendo pública.
+
+{{note
+##### Regla de dirección
+No escondas una revelación necesaria detrás de una tirada. La tirada da rapidez, contexto o ventaja; la pista mínima aparece siempre.
+}}
+
+\column
+
+### Orden de la próxima sesión
+
+1. **El tercer golpe:** seguir a Calo al Depósito Nueve.
+2. **La página de concesiones:** decidir qué hacer con Calo y descubrir el plan de las puertas.
+3. **La carta que no llegó:** recuperar el título de la séptima puerta.
+4. **La noche de la Línea Única:** romper anclajes y enfrentar al Agrimensor Imposible.
+5. **Salida:** nivel 6 y ruta segura hacia Lanterra.
+
+### Qué revelar y qué guardar
+
+| Revelar ahora | Guardar para después |
+|:--|:--|
+| Las facciones compiten | El origen divino de Nerin |
+| El Consorcio compró seis puertas | La verdad completa de la Fuente |
+| La Línea quiere una sola ruta | El plan final de Maer Senn |
+| Calo no conocía todo el plan | Si Jaska lo considera descartable |
+
+### Si los jugadores se desvían
+
+* Si no persiguen a Calo, Toren recibe el vale mordido y pide ayuda.
+* Si Calo escapa, una paleta conserva calcada la página importante.
+* Si destruyen el Inventario, una armadura repite en voz alta su última entrada.
+* Si pierden la carta, el jefe aparece completo, pero los anclajes siguen accesibles.
+* Si capturan a Silex, la orden ya fue enviada y el jefe aparece debilitado.
+
+El fracaso cambia la dificultad o las relaciones. **Nunca cancela el cierre.**
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Miravalle — Misión 1</div>
+
+{{imageMaskEdge3,--offset:-3%,--rotation:180
+  ![El peaje de los ogros educados](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-mision-1-peaje.png){height:130%,top:-390px,opacity:100%}
+}}
+:::::::::::::::::::::::::::::::::::::::::::::::::
+## Misión 1: El peaje de los ogros educados
+
+> *“Por uso excesivo de piernas, tres monedas. Por cara de héroe, cinco. Por queja administrativa, una disculpa escrita.”*
+
+### Gancho
+
+El camino norte está bloqueado por dos ogros que han aprendido a cobrar peaje. El problema es que usan un manual de impuestos de Dirinham que no entienden. A veces cobran por número de sombreros, por “cantidad aparente de heroicidad” o por “uso excesivo de piernas”.
+
+### Desarrollo
+
+Los ogros, **Brom** y **Gruda**, no son los verdaderos líderes. Un grupo de bandidos los usa como fachada. Los bandidos pertenecen a una célula menor del **Consorcio Áureo** que intenta encarecer el camino para que todos dependan de sus caravanas.
+
+\column
+:::::::::::::::::::::::::::::::::::::
+{{note
+##### Objetivos
+1. Abrir el camino norte sin enemistarse con toda Miravalle.  
+2. Descubrir quién usa a Brom y Gruda como fachada.  
+3. Ganar al menos 1 Punto de Travesía o un pase temporal hacia Lanterra.
+}}
+
+### Opciones de resolución
+
+* Negociar con los ogros y demostrarles que les están pagando mal.
+* Combatir contra ogros y bandidos.
+* Infiltrarse en el campamento del Consorcio.
+* Usar el manual de impuestos para confundirlos legalmente.
+* Hacer que Nerin lea el manual y encuentre una cláusula absurda pero válida.
+
+### Encuentro sugerido
+
+* 2 Ogres.
+* 1 Bandit Captain.
+* 6 Bandits.
+* 2 Scouts o Wererats como exploradores.
+
+### Casualidad de Nerin
+
+Nerin descubre que uno de los ogros ama la poesía porque lo escucha rimar “peaje” con “brebaje”. Si el grupo usa esto, puede evitar combate o dividir enemigos.
+
+### Recompensa
+
+1 Punto de Travesía, gratitud del Alguacil, un pase temporal por el camino norte. Brom y Gruda pueden reaparecer como guardias honestos, muy malos con los números.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Miravalle — Misión 2</div>
+
+{{imageMaskEdge7,--offset:2%,--rotation:90
+  ![The Roman Theater at Taormina, 1828, by Louise-Joséphine sarazin de Belmont](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-mision-2-mapa.png){height:100%,top:1px,left:-50px}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+
+\column
+## Misión 2: El mapa inútil que no lo es
+
+> *“No conviene mirarlo de noche. De día tampoco, si uno aprecia la tranquilidad.”*  
+> — Fulka Tresdientes
+
+### Gancho
+
+Fulka Tresdientes vende un mapa llamado **Mapa del Norte que no conviene mirar de noche**. Varios compradores están interesados: un agente de la Línea Recta, una escriba de Metusta, Timo “Dos Veces” y una anciana que solo quiere el marco.
+
+### Desarrollo
+
+El mapa es incompleto, pero real. Fue arrancado de una copia menor del **Mapa Palimpsesto de Metusta**. El papel reacciona cuando Nerin se acerca: no muestra un camino, sino una gota de agua que cae hacia arriba.
+
+
+
+{{note
+##### La subasta se rompe
+Durante la subasta, varios objetos falsos despiertan. Un cofre es un Mimic, una armadura decorativa se anima, una alfombra intenta estrangular a un noble y alguien apaga las luces para robar el mapa.
+}}
+
+### Encuentro sugerido
+
+* 1 Mimic.
+* 2 Animated Armor.
+* 1 Rug of Smothering.
+* 4 Thugs o Spies en medio del caos.
+
+### Consecuencia adicional
+
+Si el grupo vende el mapa a otro comprador, gana dinero pero pierde información: la ruta al norte se vuelve menos segura, la Línea Recta obtiene una pista y Fulka puede volverse enemiga o aliada resentida.
+
+### Casualidad de Nerin
+
+Nerin levanta la mano para pujar por “la piedra que vio un dragón” y accidentalmente gana el lote donde estaba escondido el mapa.
+
+### Recompensa
+
+Fragmento real del camino hacia Metusta, contacto con Fulka, primer encuentro claro con la Línea Recta y 1 Punto de Travesía si salvan el mercado.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Miravalle — Misión 2B</div>
+
+{{imageMaskEdge8,--offset:2%,--rotation:270
+  ![Calo Bronce en el Depósito Nueve](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-deposito-nueve.png){height:108%,left:175px,top:-35px}
+}}
+
+## Misión 2B: El tercer golpe
+
+> *“El primer golpe llama. El segundo vende. El tercero decide quién entendió tarde.”*  
+> — Calo Bronce
+
+### Gancho
+
+Cuando termina el caos de la subasta, Fulka descubre que el hombre que la dirigía usó una licencia falsa. **Calo Bronce** se llevó la recaudación, las garantías de los vendedores y todas las paletas de puja. No escapó solo con dinero: escapó con los nombres de quienes están dispuestos a pagar por una ruta al Norte.
+
+### Lo que ocurrió realmente
+
+Calo trabaja como liquidador irregular del **Consorcio Áureo**. Preparó el apagón y colocó varios objetos animados para vaciar el mercado. El intento de la Línea Recta de robar el mapa no formaba parte del plan y casi lo arruina.
+
+Cada paleta registró el nombre del postor, el lote deseado y su oferta máxima. Calo debe llevarlas al **Depósito Nueve** antes de medianoche y convertirlas en el Inventario de Deseos Menores.
+
+Una página registra derechos de paso. Seis puertas de Miravalle ya figuran bajo concesiones del Consorcio; la séptima sigue marcada como dominio público.
+
+### Seguir el martillo
+
+* Una gota de cera gris oculta el sol partido del Consorcio.
+* Duquesa muerde a un mensajero que lleva un vale para el Depósito Nueve.
+* Timo reconoce los tres golpes del martillo y revela el pasado de Calo si recibe una página del inventario.
+* El código **F-7** del libro de los bandidos significa Aforo de Siete Puertas.
+
+### El Depósito Nueve
+
+Parece una oficina municipal de bienes perdidos. En realidad almacena mercancía embargada, identidades falsas y contratos que nadie recuerda haber firmado. Calo todavía está allí porque debe apoyar cada moneda sobre el inventario para validarlo.
+
+Obstáculos sugeridos: una puerta que exige declarar qué objeto jamás venderías, 2 Animated Armors con etiquetas de precio y 4 Thugs disfrazados de tasadores.
+
+### La oferta real
+
+Al llegar el grupo, **Silex Varo**, el Spy de la Línea Recta visto en la subasta, intenta apoderarse de la página **Concesiones de entrada**. Calo comprende que su operación fue aprovechada sin su conocimiento y propone una alianza inmediata:
+
+> “Podemos discutir quién estafó a quién después de impedir que esa gente vuelva ilegal la negociación.”
+
+Si aceptan, lucha solo para abrir rutas de escape. Si rechazan, la escena se convierte en un conflicto de tres bandos. Nerin descubre que su paleta quedó sin firmar; al colocarla sobre el libro, todos los contratos de la subasta quedan temporalmente suspendidos.
+
+{{note
+##### Pista que siempre sobrevive
+La página menciona la **Carta de Tránsito Vintia**, título mágico de la séptima puerta. Aunque el libro arda o alguien escape, la información queda calcada en una paleta o grabada en una armadura. Conduce a la Misión 4.
+}}
+
+### Resoluciones
+
+* **Entregar a Calo:** Toren recupera casi todo el dinero. Si Calo debe volver, su celda queda cerrada y vacía después de tres golpes nocturnos.
+* **Negociar:** devuelve la recaudación menos una “comisión razonable”, entrega una página del inventario y promete un favor futuro.
+* **Robar el inventario:** el grupo descubre compradores de varias facciones, pero Jaska Mir empieza a interesarse personalmente en ellos.
+* **Salvarlo y dejarlo ir:** Calo se convierte en aliado situacional. Ayudará una vez y cobrará cuando más incomode.
+
+**Recompensa:** dinero recuperado, una pista sobre el Consorcio o la Línea Recta, 1 Punto de Travesía si protegen a los estafados y la enemistad o deuda de Calo Bronce.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Miravalle — Misión 3</div>
+
+
+{{imageMaskEdge5,--offset:1%,--rotation:270
+  ![The Roman Theater at Taormina, 1828, by Louise-Joséphine sarazin de Belmont](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-mision-3-mula.png){height:100%,left:121px}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+
+## Misión 3: La mula del concurso
+
+> *“Papá dice que nunca hay que despreciar comida con premio.”*  
+> — Nerin Fortuna
+
+### Gancho
+
+El concurso de tartas de Miravalle ofrece como premio una mula llamada **Duquesa**. Duquesa es terca, inteligente y odia a los ladrones. Nerin insiste en participar porque está convencida de que una tarta puede financiar una expedición.
+
+### Tono
+
+Esta misión es principalmente cómica. Funciona como descanso entre conflictos, pero también introduce a Duquesa como recurso de viaje y running gag.
+
+
+### Pruebas sugeridas
+
+* Recolectar ingredientes raros en un huerto invadido por Giant Wasps.
+* Evitar que Timo “Dos Veces” robe la receta.
+* Convencer a un juez halfling de que “quemado” también es una textura.
+* Descubrir que una tarta rival fue encantada con Sleep.
+
+### Encuentro sugerido
+
+* 2 Giant Wasps.
+* 1 Thug o Spy como rival culinario.
+* 1 Animated Armor en un puesto de cocina encantada.
+
+{{descriptive
+##### Resultado
+El grupo puede ganar o perder. Pero Nerin termina quedándose con Duquesa porque la mula la sigue. Nadie sabe por qué. Duquesa será útil durante el viaje, y también será una broma recurrente con patas y muy mal carácter.
+}}
+
+### Recompensa
+
+1 Punto de Travesía si ganan, Duquesa como mula de carga resistente y un contacto en el Mercado de Reliquias que les debe un favor culinario.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Miravalle — Misión 4</div>
+
+{{imageMaskEdge5,--offset:1%,--rotation:270
+  ![La séptima puerta de Miravalle](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-septima-puerta.png){height:104%,left:210px,top:-20px}
+}}
+
+## Misión 4: La carta que no llegó
+### La séptima puerta no se vende
+
+> *Seis campanas responden desde calles distintas. Duquesa muerde una cadena de bronce. Al final de la cadena, una puerta entera empieza a moverse.*
+
+Pero Vintia creía haber perdido un salvoconduct. La **Carta de Tránsito Vintia** es en realidad el título mágico que mantiene pública la séptima puerta. Las otras seis ya fueron cedidas, hipotecadas o concesionadas al Consorcio Áureo.
+
+**Silex Varo**, el agente de la Línea Recta visto en la subasta, obtuvo del Inventario la ubicación de cada concesión. Quiere reunirlas y ordenar al antiguo **Contador de Caminos** que alinee las siete puertas.
+
+La Línea Recta está secuestrando una máquina comercial del Consorcio. No son aliados: el Consorcio quiere siete rutas cobrables; Silex quiere una sola ruta inevitable.
+
+### Tres escenas
+
+1. **Oficina de Pero:** el registro revela que Lira de Cinco Llaves robó la carta.
+2. **La copia torcida:** Lira vendió el original a Silex, pero guardó una copia. Puede entregarla por gratitud, pago o una promesa a las Cartas Inclinadas.
+3. **Carrera entre puertas:** desafío de 5 éxitos antes de 3 fallos, CD 13–14. Atletismo sostiene arcos, Arcana corta líneas, Investigación anticipa movimientos, Persuasión evacua y herramientas de ladrón sueltan cadenas.
+
+El pase F-7, la copia de Lira o una página del Inventario dan un éxito automático, una vez cada uno. Los fallos causan daño, separan al grupo o adelantan la crisis; nunca bloquean el final.
+
+{{note
+##### Resultado
+Si recuperan el original, el Agrimensor comienza con 20 PG menos y sin acción de guarida en la ronda 1. Si solo tienen la copia, desactivan automáticamente un anclaje. Si Silex conserva ambas, el jefe aparece completo, pero puede ser debilitado durante la pelea.
+}}
+
+Silex usa el perfil de Spy con CA 15, 45 PG y *misty step* 2/día. No lucha hasta morir. Si lo capturan, la orden ya fue enviada, pero queda incompleta.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Miravalle — Evento final</div>
+
+{{imageMaskEdge5,--offset:1%,--rotation:270
+  ![El Agrimensor Imposible](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-final-linea-unica.png){height:105%,left:205px,top:-20px}
+}}
+
+## La noche de la Línea Única
+
+> *Las siete puertas se ven a la vez. Una detrás de otra forman un corredor que no debería caber en la ciudad. Bajo la plaza, algo cuenta hasta siete.*
+
+El **Agrimensor Imposible** era el Contador de Caminos municipal, construido para medir tránsito y evitar derrumbes. Las concesiones del Consorcio le dieron autoridad sobre seis puertas. La magia de la Línea Recta convirtió toda alternativa en un error que debe corregir.
+
+### Objetivos del combate
+
+1. Proteger la plaza y completar la evacuación.
+2. Romper tres anclajes que alimentan al constructo.
+3. Impedir que las puertas terminen de fusionarse.
+4. Elegir a quién salvar o perseguir cuando Silex, Calo y el mapa queden en peligro al mismo tiempo.
+
+### Campo de batalla
+
+* **Corredor blanco:** terreno difícil; terminar turno sobre él causa 1d6 de fuerza.
+* **Fuente seca:** cobertura media. La moneda de entrada señala el anclaje más cercano.
+* **Pedestal de aforo:** una criatura adyacente puede gastar su acción para romper un anclaje, CD 14.
+* **Séptima puerta:** Brom y Gruda pueden sostenerla. Si cae, el daño del corredor aumenta a 2d6.
+
+### Los tres anclajes
+
+| Anclaje | Recurso | Capacidad anulada |
+|:--|:--|:--|
+| Aforo F-7 | Pase u ogros | 7 PG temporales por turno |
+| Cadena | Duquesa o Atletismo | Cadena de cobro |
+| Concesiones | Carta o martillo de Calo | Reacción predictiva |
+
+Brom, Gruda y Duquesa no ganan el combate. Cada aliado necesita que un personaje le abra paso, presente el objeto o gaste una acción.
+
+### Nerin
+
+Una vez, Nerin nota un pliegue imposible en el mapa. El grupo decide si eso concede un éxito automático contra un anclaje o ventaja a todos contra un uso del ataque de línea. Ella abre una posibilidad; los jugadores la convierten en acción.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Miravalle — Agrimensor Imposible</div>
+
+## Agrimensor Imposible
+
+*Constructo Grande, sin alineamiento*  
+**CA** 18; **PG** 136; **velocidad** 9 m  
+**Fue** 20 (+5), **Des** 9 (−1), **Con** 18 (+4), **Int** 10 (+0), **Sab** 14 (+2), **Car** 5 (−3)  
+**Salvaciones** Fue +8, Con +7, Sab +5  
+**Resistencias** psíquico; daño físico no mágico mientras conserve dos anclajes  
+**Inmunidades de condición** asustado, hechizado, envenenado, paralizado, petrificado  
+**Desafío sugerido** 8
+
+### Rasgos
+
+**Resistencia legendaria (1/día).** Convierte una salvación fallida en éxito.
+
+**Recaudación automática.** Con F-7 activo, gana 7 PG temporales al comienzo de su turno.
+
+**Segunda fase.** Al bajar de 68 PG, su CA pasa a 16 y deja de ganar PG temporales, pero recarga inmediatamente Trazar la única ruta.
+
+### Acciones
+
+**Ataque múltiple.** Dos ataques de Bastón de medida.
+
+**Bastón de medida.** +8 al ataque, alcance 3 m; 2d8 + 5 contundente más 1d6 de fuerza.
+
+**Cadena de cobro (recarga 4–6).** Hasta dos criaturas a 9 m, Destreza CD 15. Al fallar: 2d6 + 5 contundente, arrastrada 3 m y apresada. Escapar requiere una acción y Atletismo o Acrobacias CD 15.
+
+**Trazar la única ruta (recarga 5–6).** Línea de 18 m por 1,5 m; Destreza CD 15. Inflige 4d8 + 4 de fuerza y empuja 3 m; mitad de daño sin empuje con éxito.
+
+**Resultado previsto (reacción).** Impone desventaja a un ataque que vea. Si falla, se mueve 3 m sin provocar ataques de oportunidad.
+
+\column
+
+### Acciones legendarias
+
+Tiene 2 por ronda, al final del turno de otra criatura.
+
+* **Paso calculado (1):** se mueve media velocidad.
+* **Cerrar el ángulo (1):** un espacio de 3 m se vuelve terreno difícil hasta la ronda siguiente.
+* **Bastón (2):** realiza un ataque de Bastón.
+
+### Acción de guarida, iniciativa 20
+
+Elegí una distinta cada ronda: una puerta derriba y desplaza a una criatura, una línea causa 2d8 de fuerza con Destreza CD 14, o las cadenas atraen 3 m con Fuerza CD 14. Termina al romper dos anclajes.
+
+### Ajuste
+
+* **3–4 PJ de nivel 5:** 115 PG, 1 acción legendaria, sin esbirros.
+* **5 PJ o nivel 6:** perfil normal.
+* **6 o más:** 155 PG y 2 Animated Armors en ronda 2.
+
+No aumentes PG, esbirros y acciones a la vez.
+
+### Consecuencias
+
+Al caer el Agrimensor, las puertas vuelven a su sitio. La séptima revela una ruta hacia Lanterra. Toren anula las concesiones; Jaska Mir culpa al grupo por destruir una inversión, y la Línea Recta confirma que Nerin y el mapa alteran caminos.
+
+Si Silex escapa, deja una tarjeta:
+
+> *“Siete puertas para una ciudad que necesita una. Conservan alternativas porque todavía no han contado su costo. — M. V. S.”*
+
+### Recompensa y salida
+
+* Nivel 6 y los Puntos de Travesía que falten.
+* Ruta segura y salvoconduct hacia Lanterra.
+* **Sello de la Séptima Puerta:** una vez por tramo, cancela un peaje ilegal o permite repetir una prueba para no perderse.
+
+> *Miravalle vuelve a tener demasiadas entradas. Duquesa se sienta sobre el último eslabón. En la fuente seca cae la moneda que dejaron al llegar. Ahora dice: **NORTE**.*
+
+{{pageNumber,auto}}
+
+\page
+<div class='footnote'>Lanterra — Ciudad II</div>
+
+# 12. Ciudad II: Lanterra
+## La ciudad de los puentes y los faroles
+
+<!-- Imagen pendiente: IMAGEN_PENDIENTE - Imagen: ciudad nocturna de canales, puentes altos y miles de faroles reflejados en el agua -->
+
+**Nivel sugerido:** 6  
+**Función narrativa:** convertir el viaje en una competencia; mostrar que el agua, los recuerdos y los deseos están conectados.  
+**Puntos de Travesía requeridos para salir:** 3  
+**Recompensa principal:** ruta fluvial hacia Metusta, pista sobre la Llave del Nombre, 3 Puntos de Travesía.  
+**Monstruos sugeridos:** Will-o'-Wisps, Shadows, Crocodiles, Giant Crocodile, Merrow, Water Weird, Sea Hag, Green Hag, Ettercaps, Giant Spiders, Wererats, Kenku, Bandits.
+
+Lanterra fue construida sobre un delta de ríos lentos.
+
+La ciudad está hecha de puentes.
+
+Puentes de piedra.
+
+Puentes de madera.
+
+Puentes colgantes.
+
+Puentes privados.
+
+Puentes que se alquilan por hora.
+
+Puentes que solo existen cuando la marea baja.
+
+Puentes que nadie usa porque se rumorea que recuerdan tus pasos.
+
+Cada casa tiene un farol.
+
+Cada farol tiene un nombre.
+
+Cada nombre pertenece a alguien que alguna vez encontró el camino de regreso.
+
+## Cultura de Lanterra
+
+Lanterra cree que la luz no sirve para ver.
+
+Sirve para recordar.
+
+Cuando alguien nace, su familia enciende un pequeño farol con aceite perfumado.
+
+Cuando alguien muere, su farol se cuelga en el Puente Largo durante una noche.
+
+Cuando alguien se pierde, los vecinos dejan faroles en las ventanas para que el camino “tenga suficientes ojos”.
+
+## Costumbres locales
+
+### Llevar una luz prestada
+
+Los viajeros deben alquilar o recibir un farol al entrar.
+
+No por seguridad.
+
+Por respeto.
+
+Caminar sin luz de noche se considera una declaración de mala intención.
+
+Nerin se encariña con un farol pequeño al que llama **Tito**.
+
+Tito se apaga cada vez que alguien miente cerca de ella.
+
+Al principio parece una broma.
+
+No lo es.
+
+### No silbar en los puentes
+
+Dicen que los puentes responden.
+
+Si un personaje silba en un puente de noche, puede oír un silbido igual desde abajo.
+
+Puede ser viento.
+
+Puede no serlo.
+
+### Cena de reflejos
+
+En algunas posadas se sirve la cena sobre mesas pulidas con espejos de agua.
+
+Antes de comer, cada persona debe mirar su reflejo y decir algo que no quiere olvidar.
+
+Si alguien se niega, se considera que esa persona está huyendo de sí misma.
+
+## Lugares importantes
+
+### El Puente Largo
+
+Cruza el canal principal.
+
+Miles de faroles cuelgan de sus barandas.
+
+Por la noche, parece una serpiente de fuego sobre el agua.
+
+### El Barrio Bajo
+
+Zona de canales estrechos, talleres, contrabando y casas apoyadas sobre pilotes.
+
+Las Cartas Inclinadas tienen presencia aquí.
+
+### La Casa de los Faroleros
+
+Gremio encargado de mantener las luces de la ciudad.
+
+Sus miembros conocen todos los caminos nocturnos.
+
+También conocen todos los secretos escuchados mientras cambiaban aceite.
+
+### El Canal Negro
+
+Canal antiguo, cubierto por puentes bajos.
+
+Nadie cuelga faroles allí.
+
+El agua no refleja rostros.
+
+Refleja posibilidades.
+
+### El Taller de las Cadenas Azules
+
+Una forja flotante donde se reparan grilletes y se crean amuletos de paso.
+
+Los artesanos creen que el metal canta cuando la marea sube.
+
+Muchos viajeros compran allí una cadena ligera antes de cruzar la ciudad.
+
+No por protección.
+
+Por buena fe.
+
+{{pageNumber,auto}}
+
+\page
+
+### El Oráculo de Luz
+
+Una mujer ciega que vive en un farol retirado.
+
+No lee el futuro.
+
+Escucha lo que las luces cuentan.
+
+Dice frases como:
+
+> “Tus pasos ya hicieron ruido en el agua.”
+
+Si el grupo la encuentra, puede recibir una pista sobre quién robó los faroles.
+
+## NPC principales de Lanterra
+
+### Maestra Olevia Luzquieta
+
+**Rol:** líder de los Faroleros.  
+**Personalidad:** serena, observadora, difícil de engañar.  
+**Quiere:** recuperar los faroles robados antes de que la ciudad entre en pánico.  
+**Secreto:** sabe que el agua de Lanterra está conectada simbólicamente con la Fuente.
+
+Olevia considera a Nerin una curiosidad peligrosa.
+
+No odia sus casualidades.
+
+Las teme.
+
+### Rulo Barcaza
+
+**Rol:** barquero, contrabandista retirado, posible guía.  
+**Personalidad:** habla con su bote como si fuera su esposa.  
+**Quiere:** dinero para reparar su barca, La Terquedad.  
+**Uso cómico:** discute con La Terquedad y pierde.
+
+Rulo puede ofrecer transporte si el grupo recupera un cargamento robado.
+
+### Sivia Rencor
+
+**Rol:** líder de una banda de contrabandistas.  
+**Personalidad:** elegante, cruel, sentimental con los gatos.  
+**Quiere:** controlar el Canal Negro.  
+**Secreto:** trabaja para el Consorcio Áureo, pero odia a Jaska Mir.
+
+Sivia valora la información más que el dinero.
+
+Un favor suyo puede cambiar una persecución en la ciudad.
+
+### Palem de los Nudos
+
+**Rol:** anciano fabricante de cuerdas.  
+**Personalidad:** habla en metáforas de nudos.  
+**Quiere:** que alguien escuche su advertencia sobre “el puente que cobra recuerdos”.  
+**Pista:** conoce una canción antigua sobre Metusta.
+
+Palem ha visto a faroles desaparecer en silencio.
+
+Cree que el valle susurra a través del agua.
+
+### Soressa del Farol
+
+**Rol:** aprendiz de Olevia, guardiana de Tito.  
+**Personalidad:** nerviosa, leal, fascinada por Nerin.  
+**Quiere:** demostrar que tiene valor sin ser reemplazada.  
+**Secreto:** Tito eligió su farol anteriormente cuando ella estaba perdida.
+
+Soressa puede acompañar al grupo como ayudante o espía.
+
+## Situación al llegar
+
+El grupo llega sin recursos suficientes para pagar el viaje fluvial hacia Metusta.
+
+Los caminos terrestres están inundados por lluvias fuera de temporada.
+
+La única forma rápida de avanzar es conseguir pasaje en una barcaza o caravana fluvial.
+
+Pero Lanterra está en crisis.
+
+Han desaparecido faroles del Puente Largo.
+
+Eso nunca ocurre.
+
+Cada farol robado representa una memoria perdida.
+
+Y algunas familias empiezan a olvidar nombres.
+
+## Misión 1: Los faroles robados
+
+### Gancho
+
+Maestra Olevia contrata al grupo para investigar la desaparición de faroles.
+
+Paga poco oro, pero ofrece lo más importante:
+
+una carta de paso para la ruta fluvial.
+
+### Investigación
+
+El grupo puede descubrir:
+
+* marcas de barro negro en los postes,
+* testigos que vieron luces flotando bajo el puente,
+* un niño que olvidó el rostro de su abuelo,
+* un farol apagado que susurra cuando Nerin se acerca.
+
+### Culpables aparentes
+
+Los habitantes culpan a contrabandistas.
+
+Los contrabandistas culpan a los Faroleros.
+
+Los Faroleros culpan al Canal Negro.
+
+La verdad involucra a los Hijos del Pozo.
+
+Están usando los faroles para alimentar un ritual menor que debilita la memoria colectiva de la ciudad.
+
+Si Lanterra olvida ciertos nombres, el camino hacia la Fuente se vuelve más fácil para el culto.
+
+{{pageNumber,auto}}
+
+\page
+
+### Encuentro sugerido
+
+En las pasarelas bajo el Puente Largo:
+
+* 2 Will-o'-Wisps
+* 4 Shadows
+* 1 Cult Fanatic
+* 4 Cultists
+* 1 Water Weird o Merrow como guardián del canal
+
+### Dilema menor
+
+Una de las luces robadas guarda una memoria forzada.
+
+Si la devuelven, la familia la recupera, pero el culto recibe una pista.
+
+Si la retienen, pueden usarla para chantajear a un líder local.
+
+### Casualidad de Nerin
+
+Nerin deja caer su farol Tito.
+
+El farol rueda, no se rompe, cruza una rendija y se detiene justo sobre una tabla falsa.
+
+Debajo está el acceso al escondite del culto.
+
+### Recompensa
+
+* 1 Punto de Travesía.
+* Gratitud de los Faroleros.
+* Farol Tito queda con el grupo y puede detectar mentiras una vez por día, apagándose ante una mentira directa.
+* Soressa de Soressa como contacto para futuros problemas en la ciudad.
+
+## Misión 2: El puente que cobra recuerdos
+
+### Gancho
+
+Palem de los Nudos advierte que un puente viejo empezó a cobrar peaje.
+
+No cobra oro.
+
+Cobra recuerdos pequeños.
+
+Al principio nadie se preocupó.
+
+La gente olvidaba una canción, un cumpleaños, una cara vista una vez.
+
+Después alguien olvidó cómo volver a casa.
+
+### Desarrollo
+
+El puente fue maldito por una Green Hag que vive en una casa inclinada bajo el canal.
+
+La bruja recolecta recuerdos para venderlos a los Hijos del Pozo.
+
+Puede negociar.
+
+Puede mentir.
+
+Puede ofrecer a cada personaje un recuerdo que perdió.
+
+### Encuentro sugerido
+
+* 1 Green Hag o Sea Hag, según tono
+* 2 Water Weirds
+* 4 Giant Spiders o Ettercaps en los pilares
+* 2 Shadows como ecos de recuerdos
+
+### Opción emocional
+
+La bruja ofrece a un personaje un recuerdo que no es suyo.
+
+Puede ser una ventaja útil… a cambio de una deuda personal.
+
+### Dilema
+
+La bruja tiene frascos con recuerdos.
+
+Romperlos libera memorias, pero mezcladas.
+
+Alguien puede recuperar un recuerdo ajeno.
+
+Un personaje puede ver un fragmento del pasado de Nerin:
+
+una niña pequeña preguntando a una sombra luminosa:
+
+> “Papá, ¿por qué las cosas se pierden?”
+
+La sombra responde:
+
+> “Para que alguien tenga la oportunidad de encontrarlas.”
+
+No expliques más.
+
+### Recompensa
+
+* 1 Punto de Travesía.
+* Canción antigua sobre Metusta.
+* Posible bendición menor de los Faroleros.
+* Una cuerda especial de Palem que ayuda en el valle.
+
+## Misión 3: Regata en el Canal Negro
+
+### Gancho
+
+Rulo Barcaza puede llevar al grupo hacia Metusta.
+
+Pero necesita dinero para reparar La Terquedad.
+
+Hay una regata clandestina en el Canal Negro.
+
+El premio: suficiente oro y un permiso fluvial.
+
+### Tono
+
+Aventura de acción y comedia.
+
+El grupo compite en barcas inestables contra contrabandistas, tahúres y una tripulación de kenku que imita insultos de carreras pasadas.
+
+{{pageNumber,auto}}
+
+\page
+
+### Obstáculos
+
+| d8 | Obstáculo |
+|:--:|:--|
+| 1 | Puente demasiado bajo. Todos deben agacharse o perder algo importante. |
+| 2 | Cocodrilos en el canal. |
+| 3 | Faroles encantados que ciegan si alguien dice una mentira. |
+| 4 | Kenku imitan la voz de un personaje para confundir órdenes. |
+| 5 | Una corriente imposible empuja la barca hacia atrás. |
+| 6 | Sivia Rencor intenta sabotear a todos con aceite resbaladizo. |
+| 7 | Nerin cree que están saludando y saluda de vuelta a una banda enemiga. |
+| 8 | Una ola muestra por un segundo el reflejo de la Fuente. |
+
+### Encuentros sugeridos
+
+* Crocodiles o Giant Crocodile
+* Bandits, Spies, Thugs
+* Kenku
+* Merrow si la regata se vuelve peligrosa
+
+### Recompensas
+
+* 1 Punto de Travesía.
+* Rulo Barcaza como aliado.
+* La Terquedad como transporte recurrente.
+* Acceso a un atajo fluvial hacia Metusta.
+
+## Misión 4: El paquete desaparecido
+
+### Gancho
+
+Una caravana que llevaba suministros para Metusta desapareció entre Miravalle y Lanterra.
+
+El cargamento incluye un paquete de pergaminos religiosos y un barril de aceite especial para faroles.
+
+### Desarrollo
+
+La caravana fue emboscada por guardias corruptos de Sivia Rencor.
+
+Ella planea vender el cargamento al Consorcio.
+
+El paquete también incluye una carta sellada de Olevia.
+
+Si la recuperan, Olevia les dará un trato mejor.
+
+### Opciones de resolución
+
+* Rescatar la caravana por la fuerza.
+* Seguir la ruta y tender una trampa a los ladrones.
+* Negociar con Sivia a cambio de un favor futuro.
+
+### Encuentro sugerido
+
+* 2 Veterans de contrabandistas
+* 4 Thugs
+* 1 Swarm of Ravens si alguien dispara al convoy
+
+### Recompensa
+
+* 1 Punto de Travesía.
+* Orde de paso con tintura de faroles especiales.
+* Sivia como contacto complicado.
+
+## Evento final de Lanterra: El trato bajo la lluvia
+
+Cuando el grupo está por partir, Jaska Mir se presenta con una sombrilla perfecta.
+
+Ofrece comprar su deuda de viaje.
+
+Si el grupo acepta, gana recursos inmediatos pero queda atado al Consorcio.
+
+Si rechaza, Jaska sonríe y dice:
+
+> “Todos viajan con alguien. Ustedes todavía no decidieron con quién.”
+
+Luego aparece Maer Senn al otro lado del canal.
+
+No se acerca.
+
+Solo observa a Nerin.
+
+Por primera vez, su expresión no es calma.
+
+Es cálculo.
+
+### Consecuencia narrativa
+
+* Si aceptan el trato, el Consorcio obtiene influencia sobre la expedición.
+* Si rechazan, la Línea Recta puede poner precio sobre su información.
+* Si negocian un acuerdo parcial, obtienen dinero y un enemigo en la ciudad.
+
+{{pageNumber,auto}}
+
+\page
+
+## Salida de Lanterra
+
+El grupo zarpa hacia Metusta.
+
+Durante la primera noche en el río, todos los faroles se apagan menos el de Nerin.
+
+Tito proyecta una sombra que no coincide con su cuerpo.
+
+La sombra tiene una mano adulta apoyada sobre su hombro.
+
+Cuando alguien mira directamente, desaparece.
+
+Subí al grupo a nivel 7 al cerrar Lanterra.
+
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Metusta — Ciudad III</div>
+
+# 13. Ciudad III: Metusta
+## La biblioteca inmensa
+
+<!-- Imagen pendiente: IMAGEN_PENDIENTE - Imagen: ciudad-biblioteca con torres de libros, puentes de piedra y escaleras imposibles -->
+
+**Nivel sugerido:** 7  
+**Función narrativa:** revelar la historia profunda de la Fuente, entregar la Llave del Nombre y convertir el viaje en una carrera abierta.  
+**Puntos de Travesía requeridos para salir:** 3  
+**Recompensa principal:** Mapa Palimpsesto, Llave del Nombre, acceso a rutas hacia Brammavik.  
+**Monstruos sugeridos:** Spectator, Gargoyles, Animated Armor, Flying Sword, Mimic, Helmed Horror, Ghost, Wraith, Basilisk, Medusa, Grell, Cloaker, Swarm of Insects.
+
+Metusta está en el centro de Muvaria.
+
+Y para muchos muvarios, Metusta es el centro del mundo.
+
+No porque sea la capital.
+
+No porque sea la más rica.
+
+Sino porque todo lo que el reino quiso recordar terminó allí.
+
+Metusta no tiene una biblioteca.
+
+Metusta es una biblioteca.
+
+Las casas tienen estantes exteriores.
+
+Las plazas tienen índices.
+
+Las calles cambian de nombre según la sección.
+
+Los niños aprenden a leer antes de aprender a mentir correctamente.
+
+Y cada campana de la ciudad no marca la hora.
+
+Marca el inicio de una nueva página.
+
+## Cultura de Metusta
+
+Metusta cree que olvidar es una forma de muerte.
+
+Por eso todo se registra.
+
+Nacimientos.
+
+Muertes.
+
+Contratos.
+
+Recetas.
+
+Sueños notables.
+
+Insultos famosos.
+
+Promesas rotas.
+
+Mapas falsos.
+
+Mapas que fueron verdaderos antes de que el mundo cambiara.
+
+## Costumbres locales
+
+### El pago de entrada
+
+Para acceder a ciertas zonas de la Biblioteca Inmensa, no se paga con oro.
+
+Se paga con una información que no esté registrada.
+
+Puede ser:
+
+* una historia familiar,
+* el nombre de un monstruo local,
+* una receta de Dirinham,
+* un secreto menor,
+* una canción de infancia,
+* una descripción de Nerin escrita por un personaje.
+
+Si alguien intenta mentir, los escribas lo registran igual bajo la categoría “mentiras útiles”.
+
+### Los duelos de nota al pie
+
+Los académicos de Metusta no se desafían con espadas.
+
+Se desafían con referencias.
+
+Un duelo formal consiste en probar que la afirmación del rival depende de una fuente mal citada.
+
+Puede ser dramático.
+
+Puede ser ridículo.
+
+Puede terminar en combate si alguien invoca un libro maldito.
+
+### Silencio no significa callar
+
+En Metusta se puede hablar.
+
+Pero hay que hacerlo en el volumen adecuado para cada sección.
+
+Gritar en la Sección de Cartografía puede provocar que los mapas se replieguen por vergüenza.
+
+Reír demasiado fuerte en Necrología hace que los fantasmas pidan contexto.
+
+## Lugares importantes
+
+### La Biblioteca Inmensa
+
+Ocupa el centro de la ciudad.
+
+Tiene doce torres visibles y, según los bibliotecarios, al menos cinco torres que solo aparecen para quienes ya saben qué buscan.
+
+Nerin encuentra una de ellas buscando el baño.
+
+### Plaza del Índice
+
+La plaza principal.
+
+En el suelo hay un índice de mármol de toda la ciudad.
+
+Algunas entradas cambian cuando nadie mira.
+
+### El Barrio de Tinta
+
+Talleres de copistas, encuadernadores, cartógrafos, falsificadores y vendedores de plumas.
+
+Timo “Dos Veces” tiene contactos aquí.
+
+También deudas.
+
+Muchas.
+
+{{pageNumber,auto}}
+
+\page
+
+### La Subbiblioteca
+
+Niveles inferiores donde se guardan textos peligrosos.
+
+No está prohibida.
+
+Está “fuertemente desaconsejada para personas con apego a la cordura”.
+
+### El Patio de los Libros Devueltos Tarde
+
+Patio donde se exhiben libros recuperados después de décadas o siglos.
+
+Algunos volvieron solos.
+
+## NPC principales de Metusta
+
+### Archibibliotecaria Maedra Sul
+
+**Rol:** máxima autoridad intelectual de Metusta.  
+**Personalidad:** elegante, seca, capaz de insultar con gramática perfecta.  
+**Quiere:** proteger el Mapa Palimpsesto de las facciones.  
+**Secreto:** conoce el apellido divino de Nerin, pero no se atreve a decirlo.
+
+Maedra no se impresiona con héroes.
+
+Sí se impresiona con personas que devuelven libros.
+
+### Orris Páginasuelto
+
+**Rol:** aprendiz de bibliotecario.  
+**Personalidad:** ansioso, entusiasta, siempre cargando demasiados libros.  
+**Quiere:** vivir una aventura para poder escribir una tesis.  
+**Uso cómico:** toma notas de todo lo que el grupo hace, incluso errores.
+
+Orris puede acompañar al grupo en una misión corta.
+
+Es útil, pero se distrae con títulos interesantes.
+
+### Mircia de las Comas
+
+**Rol:** correctora profesional.  
+**Personalidad:** intensa, rápida, aterradora con una pluma.  
+**Quiere:** corregir todos los carteles mal escritos de Muvaria.  
+**Uso cómico:** persigue a Timo porque falsificó un documento con tres errores de puntuación.
+
+### Don Vellum
+
+**Rol:** fantasma encuadernador.  
+**Personalidad:** amable, melancólico, lleno de pegamento espectral.  
+**Quiere:** terminar un libro que empezó antes de morir.  
+**Pista:** sabe que el Mapa Palimpsesto fue escrito sobre piel de una criatura que soñaba caminos.
+
+### Sira Nueve Nudos
+
+**Rol:** agente de la Línea Recta.  
+**Stat block sugerido:** Assassin o Spy con magia de apoyo.  
+**Personalidad:** precisa, fría, siempre deja una cuerda atada en algún sitio.  
+**Quiere:** robar el Mapa Palimpsesto para Maer Senn.
+
+## Situación al llegar
+
+El grupo llega a Metusta con pistas incompletas.
+
+Saben que la Fuente existe o al menos que demasiada gente importante cree en ella.
+
+Necesitan consultar la Biblioteca Inmensa.
+
+Pero acceder al archivo adecuado requiere:
+
+1. una recomendación,
+2. un pago de información,
+3. resolver un problema interno,
+4. sobrevivir a la burocracia académica.
+
+Nerin, por supuesto, consigue una ficha de acceso porque ayuda a levantar libros caídos y uno de ellos era el formulario exacto que necesitaban.
+
+## Misión 1: El catálogo devorado
+
+### Gancho
+
+El catálogo de la Sección de Cartografía Antigua está desapareciendo.
+
+No los libros.
+
+El catálogo.
+
+Las fichas, índices y referencias están siendo devorados por algo que se mueve entre estantes.
+
+Sin catálogo, nadie puede encontrar el Mapa Palimpsesto.
+
+Maedra ofrece acceso restringido si el grupo soluciona el problema.
+
+### Investigación
+
+El grupo puede encontrar:
+
+* fichas mordidas,
+* tinta con olor a moho,
+* libros que se esconden cuando alguien dice “norte”,
+* un pasillo que aparece dos veces,
+* una nota escrita por alguien que todavía no la escribió.
+
+{{pageNumber,auto}}
+
+\page
+
+### La verdad
+
+Un Spectator fue invocado décadas atrás para custodiar una colección.
+
+Con el paso del tiempo, su orden se degradó.
+
+Ahora cree que proteger los libros significa impedir que nadie los encuentre.
+
+Ha estado alimentando a pequeños Mimics de papel con fichas de catálogo.
+
+### Encuentro sugerido
+
+* 1 Spectator
+* 2 Mimics pequeños usando stat block de Mimic con menos PG si querés
+* 4 Flying Swords representando abrecartas animados
+* 2 Animated Armor como guardias de sección
+
+### Resoluciones alternativas
+
+* Convencer al Spectator de que el verdadero peligro son quienes buscan la Fuente para dominarla.
+* Reescribir la orden de custodia.
+* Derrotarlo y luego reorganizar el catálogo.
+* Hacer que Nerin le pregunte si no está cansado de mirar siempre lo mismo.
+
+### Recompensa
+
+* Acceso a Cartografía Antigua.
+* 1 Punto de Travesía por pago de Maedra.
+* Orris se ofrece como ayudante temporal.
+
+## Misión 2: La tesis del basilisco
+
+### Gancho
+
+Un investigador llamado **Profesor Caldrio Hume** asegura haber encontrado una referencia al Valle de los Ecos.
+
+El problema es que su tesis quedó en una sala de la Subbiblioteca donde varias páginas se han convertido en piedra.
+
+Literalmente.
+
+### Desarrollo
+
+La Subbiblioteca contiene un archivo de tratados sobre monstruos petrificantes.
+
+Un Basilisk escapó de una ilustración encantada.
+
+Peor todavía: una Medusa retirada vive allí como curadora, y no quiere que la molesten.
+
+### Tono
+
+Mezcla de peligro y absurdo académico.
+
+Los personajes deben evitar mirar criaturas, rescatar documentos y lidiar con discusiones sobre si una nota al pie petrificada sigue siendo citable.
+
+### Encuentro sugerido
+
+* 1 Basilisk
+* 1 Medusa como NPC neutral o antagonista según el tono
+* Gargoyles disfrazadas de estatuas
+* Swarm of Insects saliendo de libros podridos
+
+### La Medusa Archivista
+
+La medusa se llama **Euriale de Lomo Gris**.
+
+No es malvada.
+
+Está harta.
+
+Fue contratada para proteger textos peligrosos y todo el mundo la culpa cuando algo se convierte en piedra.
+
+Puede ayudar al grupo si la tratan con respeto.
+
+Nerin le ofrece una venda bonita “para que la gente deje de ser tan dramática”.
+
+Euriale se ríe por primera vez en años.
+
+### Recompensa
+
+La tesis contiene una frase clave:
+
+> “Nadie cruza el Valle de los Ecos con un nombre prestado.”
+
+Esto apunta a la Llave del Nombre.
+
+## Misión 3: Deuda de silencio
+
+### Gancho
+
+Para consultar el Mapa Palimpsesto, el grupo necesita autorización de tres sellos.
+
+Uno de esos sellos pertenece a un noble académico, **Lord Padrien Tinta Alta**, que se niega a firmar porque un libro suyo fue robado.
+
+En realidad, lo perdió jugando cartas con Timo “Dos Veces”.
+
+Timo lo vendió.
+
+El comprador murió.
+
+El libro ahora está en una casa encantada.
+
+### Desarrollo
+
+Esta misión puede jugarse como investigación social, robo o exploración de mansión.
+
+El libro se llama **Tratado Breve sobre Caminos que No Deberían Estar Ahí**.
+
+Tiene dientes.
+
+No muerde si le leen en voz alta.
+
+### Encuentro sugerido
+
+* Ghost o Specter del comprador muerto
+* Animated Armor
+* Rug of Smothering
+* Crawling Claw si querés un detalle macabro
+
+{{pageNumber,auto}}
+
+\page
+
+### Recompensa
+
+* Sello de autorización.
+* Timo queda en deuda con el grupo.
+* El libro susurra una pista a Nerin:
+
+> “La Fuente no está al norte. El norte está aprendiendo a rodearla.”
+
+## Misión principal: El Mapa Palimpsesto
+
+### Acceso
+
+Cuando el grupo consigue los sellos y resuelve al menos una misión importante, Maedra permite ver el Mapa Palimpsesto.
+
+No se encuentra en una sala.
+
+Se encuentra en una mesa dentro de una sala que se encuentra dentro de un libro.
+
+Para entrar, los personajes deben escribir sus nombres en una página blanca.
+
+Nerin escribe:
+
+> “Nerin Fortuna, hija de papá.”
+
+La tinta tiembla.
+
+Maedra palidece.
+
+No dice nada.
+
+### El Mapa
+
+El Mapa Palimpsesto no muestra territorio.
+
+Muestra decisiones.
+
+Líneas de camino aparecen y desaparecen según quién lo mira.
+
+Cuando los personajes lo observan, cada uno ve una ruta distinta.
+
+Cuando Nerin lo observa, el mapa se moja.
+
+Una gota de agua cae hacia arriba.
+
+Y aparece una frase:
+
+> “Cinco ciudades para recordar. Tres llaves para no ser devorados. Un deseo para no mentirse.”
+
+### Revelaciones
+
+El grupo aprende:
+
+* La Fuente existe.
+* Se encuentra más allá del Valle de los Ecos.
+* El valle responde a deseos no resueltos.
+* La Fuente fue custodiada por Ishmara, la Voz Azul.
+* Algo llamado Aruun corrompió la raíz de la Fuente.
+* Para cruzar con seguridad necesitan la Llave del Nombre, la Llave del Peso y la Llave del Adiós.
+* La primera llave está en Metusta.
+
+## Ataque a la Biblioteca
+
+Mientras el grupo estudia el mapa, Sira Nueve Nudos ataca.
+
+No busca matar a todos.
+
+Busca robar o copiar el mapa.
+
+Usa cuerdas, sigilo, guardias comprados y constructos.
+
+### Encuentro sugerido
+
+* Sira Nueve Nudos usando Assassin o Spy mejorado
+* 2 Helmed Horrors o Animated Armor
+* 4 Veterans o Thugs
+* 2 Gargoyles entrando por vitrales
+
+### Escenario dinámico
+
+Durante el combate:
+
+| d6 | Complicación |
+|:--:|:--|
+| 1 | Un estante cae y crea cobertura. |
+| 2 | Un libro grita spoilers del futuro. |
+| 3 | El mapa cambia de mesa. |
+| 4 | Un fantasma bibliotecario exige silencio a todos. |
+| 5 | Una escalera se mueve sola. |
+| 6 | Nerin intenta salvar un libro y descubre una salida secreta. |
+
+## La Llave del Nombre
+
+Tras salvar el mapa o impedir que sea robado por completo, Maedra entrega la Llave del Nombre.
+
+No es una llave física.
+
+Es una ceremonia.
+
+Cada personaje debe decir su nombre verdadero, el nombre por el que quiere ser recordado o el nombre que teme perder.
+
+Maedra registra esos nombres en un libro de tapas azules.
+
+Luego arranca las páginas.
+
+Las páginas se convierten en pequeñas cintas de papel resistente al agua.
+
+Cada personaje recibe una.
+
+Nerin recibe una cinta en blanco.
+
+Cuando pregunta por qué, Maedra responde:
+
+> “Porque algunos nombres todavía no terminaron de caer.”
+
+## Salida de Metusta
+
+El grupo sale hacia Brammavik con el Mapa Palimpsesto, o con una copia parcial si el original fue robado.
+
+Si Sira escapó, Maer Senn tiene parte de la información.
+
+Si Sira fue capturada, Maer usará otros medios.
+
+Antes de partir, Nerin devuelve por accidente un libro que llevaba en su mochila desde antes de conocer al grupo.
+
+El libro estaba registrado como perdido hace 300 años.
+
+El título:
+
+> “Los hijos de la casualidad no deben beber primero.”
+
+Subí al grupo a nivel 8 al cerrar Metusta.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Brammavik — Ciudad IV</div>
+
+# 14. Ciudad IV: Brammavik
+## La ciudad de hierro y canciones de contrato
+
+<!-- Imagen pendiente: IMAGEN_PENDIENTE - Imagen: ciudad minera entre montañas, chimeneas, puentes de hierro y forjas encendidas -->
+
+**Nivel sugerido:** 8 a 9  
+**Función narrativa:** poner peso material al viaje; mostrar el costo de cargar un deseo; entregar la Llave del Peso.  
+**Puntos de Travesía requeridos para salir:** 4  
+**Recompensa principal:** equipo de montaña, guías, Llave del Peso, ruta hacia Velkora.  
+**Monstruos sugeridos:** Xorn, Rust Monsters, Earth Elemental, Galeb Duhr, Trolls, Ettin, Ogres, Chimera, Wyvern, Young Remorhaz, Fire Elemental, Azers si están disponibles.
+
+Brammavik no fue construida.
+
+Fue excavada.
+
+La ciudad está incrustada en una cadena de montañas oscuras.
+
+Sus calles son terrazas de piedra.
+
+Sus plazas son plataformas de hierro.
+
+Sus templos tienen yunques.
+
+Sus canciones suenan como martillos.
+
+En Brammavik, todo tiene peso.
+
+Las palabras.
+
+Las deudas.
+
+Las promesas.
+
+Las mentiras.
+
+Los muertos.
+
+Los deseos.
+
+## Cultura de Brammavik
+
+Brammavik cree que una persona se conoce por lo que está dispuesta a cargar.
+
+Por eso sus habitantes usan brazaletes de peso.
+
+Cada brazalete representa una promesa cumplida, una deuda aceptada o una responsabilidad pública.
+
+Un herrero importante puede llevar diez.
+
+Un juez puede llevar veinte.
+
+Una persona que no lleva ninguno no es libre.
+
+Es sospechosa.
+
+## Costumbres locales
+
+### Contratos cantados
+
+Los contratos importantes no se firman.
+
+Se cantan.
+
+Cada parte entona una estrofa con su promesa.
+
+Un testigo marca el ritmo con un martillo.
+
+Si alguien rompe el contrato, la canción se vuelve burla pública.
+
+Nerin es pésima cantando contratos.
+
+Pero por alguna razón, todos recuerdan sus estrofas.
+
+### La cena pesada
+
+Antes de una negociación importante, los invitados comen pan denso con sal negra.
+
+Simboliza aceptar el peso de la conversación.
+
+Si alguien deja el pan sin terminar, se interpreta como falta de compromiso.
+
+### No se pregunta “cuánto vale”
+
+Se pregunta:
+
+> “¿Cuánto pesa?”
+
+El precio es económico, moral y social.
+
+## Lugares importantes
+
+### La Forja Mayor
+
+Corazón de la ciudad.
+
+Un horno gigantesco alimentado por fuego elemental.
+
+Allí se fabrican herramientas, armas y piezas de puentes.
+
+### Las Minas Cantantes
+
+Túneles donde el viento produce notas musicales.
+
+Los mineros usan esas notas para orientarse.
+
+Cuando la canción cambia, algo está mal.
+
+### El Tribunal del Yunque
+
+Lugar donde se resuelven disputas.
+
+No con discursos largos.
+
+Con pruebas de carga, memoria y responsabilidad.
+
+### El Mercado de Escoria
+
+Mercado de piezas rotas, armas usadas, minerales raros y objetos encontrados demasiado profundo.
+
+Algunos vienen del Underdark.
+
+Algunos no deberían haber subido.
+
+## NPC principales de Brammavik
+
+### Jorunn Martillonegro
+
+**Rol:** maestra de forja y autoridad respetada.  
+**Personalidad:** severa, justa, no tolera excusas.  
+**Quiere:** salvar las Minas Cantantes sin entregar la ciudad al Consorcio.  
+**Secreto:** su hijo desapareció buscando una veta que “cantaba como agua”.
+
+### Capitán Tosk Randa
+
+**Rol:** líder de una compañía mercenaria.  
+**Personalidad:** carismático, arrogante, práctico.  
+**Quiere:** controlar la seguridad de la ruta norte.  
+**Secreto:** negocia con Jaska Mir.
+
+{{pageNumber,auto}}
+
+\page
+
+### Pipa Carbón
+
+**Rol:** escriba goblin de contratos cantados.  
+**Personalidad:** hiperactivo, legalista, encantado con los errores ajenos.  
+**Quiere:** escribir el contrato más raro de la historia.  
+**Uso cómico:** traduce insultos a lenguaje legal.
+
+### Harn Ojo de Mina
+
+**Rol:** guía de túneles.  
+**Personalidad:** silencioso, supersticioso, escucha las piedras.  
+**Quiere:** encontrar a los mineros perdidos.  
+**Pista:** oyó el nombre “Aruun” en una grieta inundada.
+
+## Situación al llegar
+
+El grupo necesita equipo para cruzar regiones más frías y peligrosas.
+
+Ropa térmica.
+
+Herramientas de escalada.
+
+Guías.
+
+Protección contra monstruos de montaña.
+
+Todo eso cuesta más de lo que tienen.
+
+Brammavik ofrece trabajo.
+
+Pero cada trabajo pesa.
+
+## Misión 1: El corazón de la mina canta mal
+
+### Gancho
+
+Las Minas Cantantes cambiaron de tono.
+
+Después, varios mineros desaparecieron.
+
+Jorunn ofrece pagar con equipo, oro y un Punto de Travesía si el grupo descubre qué ocurrió.
+
+### Exploración
+
+Los túneles están llenos de señales:
+
+* herramientas oxidadas en minutos,
+* vetas que vibran como cuerdas,
+* huellas de criaturas que atraviesan piedra,
+* charcos donde no debería haber agua,
+* ecos que repiten deseos en voz baja.
+
+### La verdad
+
+Una grieta subterránea conectó con una corriente corrompida de la Fuente.
+
+Eso atrajo Xorn y Rust Monsters.
+
+También despertó un Earth Elemental confundido que cree estar protegiendo un corazón enterrado.
+
+Los mineros no murieron todos.
+
+Algunos están atrapados en una cámara donde escuchan voces ofreciéndoles cumplir deseos pequeños.
+
+### Encuentro sugerido
+
+* 2 Xorn
+* 4 Rust Monsters
+* 1 Earth Elemental
+* Opcional: Galeb Duhr como guardián neutral
+
+### Dilema
+
+Uno de los mineros, **Samel**, pidió salir de la mina.
+
+La magia lo sacó.
+
+Pero dejó su sombra atrapada dentro.
+
+Ahora Samel camina por la ciudad sin sombra, cada vez más vacío.
+
+El grupo puede decidir si arriesgarse a recuperar la sombra.
+
+### Casualidad de Nerin
+
+Nerin tararea una canción horrible.
+
+El eco responde en la nota correcta.
+
+Eso permite ubicar la cámara de los mineros.
+
+Pipa luego intenta registrar la canción como herramienta legal de rescate.
+
+### Recompensa
+
+* 1 Punto de Travesía.
+* Equipo de montaña básico.
+* Jorunn empieza a confiar en el grupo.
+* Primera pista física de que la Fuente filtra poder hacia el sur.
+
+## Misión 2: La huelga de los escudos
+
+### Gancho
+
+La compañía mercenaria de Tosk Randa se niega a escoltar caravanas hasta recibir pago extra.
+
+Los mineros acusan a Tosk de extorsión.
+
+Tosk acusa a los mineros de ocultar monstruos.
+
+Jaska Mir ofrece resolverlo comprando la deuda de todos.
+
+Eso le daría al Consorcio control del camino hacia Velkora.
+
+### Desarrollo
+
+El grupo debe mediar, investigar o tomar partido.
+
+La huelga se complica cuando trolls atacan un convoy detenido.
+
+Los trolls fueron empujados hacia la ruta por algo más grande en las montañas.
+
+### Encuentro sugerido
+
+* 2 Trolls
+* 1 Ettin o Ogre jefe
+* Mercenarios como NPCs aliados o enemigos
+
+{{pageNumber,auto}}
+
+\page
+
+### Opciones
+
+* Negociar un contrato justo cantado.
+* Exponer que Tosk recibió dinero del Consorcio.
+* Ayudar a Tosk y ganar seguridad a cambio de deber favores.
+* Provocar que Jaska quede mal públicamente.
+
+### Casualidad de Nerin
+
+Nerin firma como testigo en el lugar equivocado.
+
+El error legal hace que Pipa descubra una cláusula escondida en el contrato de Tosk.
+
+### Recompensa
+
+* 1 o 2 Puntos de Travesía.
+* Una escolta parcial hacia Velkora.
+* Enemistad o respeto de Jaska Mir.
+
+## Misión 3: El banquete de la cicatriz
+
+### Gancho
+
+Para obtener audiencia formal con Jorunn y el Tribunal del Yunque, el grupo debe asistir a un banquete ceremonial.
+
+Cada invitado debe contar la historia de una cicatriz.
+
+Puede ser física.
+
+Puede ser emocional.
+
+No se admiten historias falsas.
+
+### Tono
+
+Esta misión mezcla roleo profundo con comedia social.
+
+Nerin intenta contar la historia de una cicatriz en la rodilla, pero se olvida de cuál rodilla era.
+
+Duquesa la mula es invitada por error porque alguien la confunde con “Duquesa de Miravalle”.
+
+Nadie quiere admitir el error.
+
+Duquesa recibe asiento.
+
+### Pruebas sociales
+
+* Contar una historia honesta.
+* Detectar a un invitado que miente sobre su cicatriz.
+* Evitar insultar a un clan al usar mal un martillo ceremonial.
+* Impedir que Timo robe cubiertos de hierro bendecido.
+
+### Complicación
+
+Un agente de la Línea Recta intenta envenenar a Harn Ojo de Mina porque sabe demasiado sobre la grieta inundada.
+
+### Encuentro sugerido
+
+Puede resolverse sin combate.
+
+Si hay combate:
+
+* Spy o Assassin
+* 2 Veterans
+* Helmed Horror como guardaespaldas de contrabando
+
+### Recompensa
+
+* Confianza del Tribunal.
+* Información sobre la Llave del Peso.
+* Posible confesión personal de un personaje.
+
+## Misión principal: La Llave del Peso
+
+### El juicio
+
+Jorunn explica que la Llave del Peso no se entrega.
+
+Se reconoce.
+
+Para obtenerla, cada personaje debe pasar una prueba en el Tribunal del Yunque.
+
+La prueba no mide fuerza.
+
+Mide carga.
+
+Cada personaje debe responder:
+
+> “¿Qué deseo podrías cargar sin convertirte en otra persona?”
+
+### Prueba física
+
+El personaje levanta una cadena de hierro.
+
+La cadena se vuelve más pesada según el deseo que oculta.
+
+No se supera solo con Fuerza.
+
+Puede requerir Constitución, Sabiduría, Carisma o una confesión honesta.
+
+### Prueba narrativa
+
+Cada jugador puede describir una carga personal:
+
+* culpa,
+* promesa,
+* amor,
+* miedo,
+* venganza,
+* ambición,
+* duelo.
+
+Si lo hace con honestidad, la cadena se vuelve liviana.
+
+Si intenta mentir, pesa más.
+
+### Nerin en la prueba
+
+Cuando Nerin toca la cadena, esta no pesa nada.
+
+Luego pesa demasiado.
+
+Luego vuelve a no pesar.
+
+Jorunn no entiende.
+
+Nerin se ríe nerviosa y dice:
+
+> “Creo que papá está pensando.”
+
+{{pageNumber,auto}}
+
+\page
+
+### Recompensa
+
+La Llave del Peso toma la forma de pequeños clavos de hierro oscuro.
+
+Cada personaje recibe uno.
+
+Pueden usarse en el Valle para fijar una verdad personal al mundo cuando todo intente cambiar.
+
+## Evento final de Brammavik: La línea contra la montaña
+
+Maer Senn bloquea la salida norte mediante contratos, guardias y magia.
+
+No ataca primero.
+
+Presenta documentos.
+
+Demuestra que legalmente el grupo no puede transportar ciertos mapas, reliquias o “personas de interés”.
+
+La persona de interés es Nerin.
+
+El grupo debe:
+
+* escapar por túneles,
+* ganar un juicio de contrato,
+* enfrentar a sus agentes,
+* o aceptar una negociación peligrosa.
+
+### Encuentro sugerido si hay combate
+
+* 1 Mage o Maer proyectado mágicamente
+* 1 Shield Guardian o Helmed Horror
+* 4 Veterans
+* 2 Gargoyles o Animated Armor
+
+## Salida de Brammavik
+
+Al partir, Duquesa se niega a avanzar.
+
+Nerin le pregunta qué pasa.
+
+La mula mira una montaña.
+
+Una avalancha cae sobre el camino que iban a tomar.
+
+El desvío lleva a una antigua marca tallada en piedra:
+
+> “VELKORA ESCUCHA ANTES DE ABRIR.”
+
+Subí al grupo a nivel 9 al cerrar Brammavik, o a mitad de este arco si tu campaña está durando muchas sesiones.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Velkora — Ciudad V</div>
+
+# 15. Ciudad V: Velkora
+## La ciudad de las campanas y los adioses
+
+<!-- Imagen pendiente: IMAGEN_PENDIENTE - Imagen: ciudad de campanarios altos al borde de un valle nevado y oscuro -->
+
+**Nivel sugerido:** 9 a 10  
+**Función narrativa:** última ciudad antes de abandonar el mundo conocido; cierre emocional; entrega de la Llave del Adiós.  
+**Puntos de Travesía requeridos para entrar al Valle:** 5  
+**Recompensa principal:** Llave del Adiós, guía final, suministros de supervivencia, confrontación abierta con facciones.  
+**Monstruos sugeridos:** Wights, Specters, Ghosts, Mummies, Werewolves, Winter Wolves, Yetis, Banshee, Revenant, Invisible Stalker, Helmed Horror.
+
+Velkora es la última ciudad antes del Valle de los Ecos.
+
+Desde sus murallas se ve el norte.
+
+No como una dirección.
+
+Como una amenaza.
+
+El valle se extiende entre montañas pálidas, cubierto de niebla y bosques negros.
+
+Las campanas de Velkora suenan al amanecer, al mediodía, al anochecer y cada vez que alguien decide no regresar.
+
+## Cultura de Velkora
+
+Velkora vive de despedir viajeros.
+
+No con tristeza simple.
+
+Con ceremonia.
+
+La ciudad cree que nadie debe cruzar el valle sin haber dicho adiós a algo.
+
+Una persona.
+
+Un miedo.
+
+Una versión de sí misma.
+
+Una mentira.
+
+Un hogar.
+
+Un sueño.
+
+## Costumbres locales
+
+### La carta de despedida
+
+Todo viajero que se dirige al valle debe escribir una carta.
+
+Puede estar dirigida a alguien vivo, muerto, ausente o inexistente.
+
+La carta queda sellada en la Casa de las Últimas Palabras.
+
+Si el viajero regresa, puede recuperarla.
+
+Si no regresa, las campanas deciden cuándo entregarla.
+
+Nerin escribe una carta para “papá”.
+
+No la muestra.
+
+### Los nombres de invierno
+
+Algunos viajeros adoptan un nombre temporal antes de cruzar el valle.
+
+No para ocultarse.
+
+Para proteger su nombre verdadero.
+
+Ejemplos:
+
+* Mano Firme.
+* Risa Rota.
+* Última Vela.
+* Quien Vuelve.
+* Todavía No.
+
+Nerin elige “Casi”.
+
+Luego cambia a “Pan”.
+
+Luego a “Nerin, pero con abrigo”.
+
+### No se promete volver
+
+En Velkora se considera mala suerte decir “volveré”.
+
+Se dice:
+
+> “Si el camino me devuelve.”
+
+## Lugares importantes
+
+### La Plaza de las Campanas
+
+Centro de la ciudad.
+
+Tiene trece campanas, cada una con un sonido distinto.
+
+La decimotercera no se toca desde hace cien años.
+
+### La Casa de las Últimas Palabras
+
+Archivo de cartas de despedida.
+
+Cuidada por monjes, escribas y fantasmas tranquilos.
+
+### El Mercado de Despedidas
+
+Mercado donde se compran suministros para el valle.
+
+También se venden recuerdos, amuletos, mapas, canciones, ropa de frío, talismanes y mentiras reconfortantes.
+
+### Las Catacumbas del Badajo
+
+Túneles bajo la ciudad donde se guardan campanas rotas, nombres olvidados y muertos que no aceptaron su adiós.
+
+{{pageNumber,auto}}
+
+\page
+
+## NPC principales de Velkora
+
+### Madre Seralya de la Ceniza Clara
+
+**Rol:** líder de la Orden del Voto Blanco.  
+**Personalidad:** firme, compasiva, inflexible.  
+**Quiere:** impedir que nadie use la Fuente.  
+**Secreto:** años atrás pidió un deseo menor y todavía paga el precio.
+
+Seralya es una antagonista moral.
+
+Puede ayudar al grupo contra Maer.
+
+Pero intentará destruir o sellar la Fuente incluso si eso niega el deseo de los personajes.
+
+### Campanero Ilvo
+
+**Rol:** cuidador de las trece campanas.  
+**Personalidad:** viejo, irónico, escucha mejor de lo que ve.  
+**Quiere:** que la decimotercera campana suene una vez más antes de morir.  
+**Pista:** sabe que la Llave del Adiós está bajo la ciudad.
+
+### Noma Sinmaleta
+
+**Rol:** guía de valle.  
+**Personalidad:** dura, seca, supersticiosa.  
+**Quiere:** no volver a cruzar el valle, pero necesita dinero.  
+**Secreto:** una vez llegó cerca de la Fuente y decidió no beber.
+
+### El Niño de las Cartas
+
+**Rol:** huérfano mensajero.  
+**Personalidad:** rápido, sarcástico, valiente por necesidad.  
+**Quiere:** entregar una carta que nadie le pidió entregar.  
+**Pista:** la carta está dirigida a uno de los personajes o a Nerin.
+
+## Situación al llegar
+
+Velkora está llena.
+
+Facciones, peregrinos, mercenarios, cultistas y aventureros han llegado siguiendo rumores.
+
+El grupo ya no puede fingir que busca una leyenda menor.
+
+La ciudad entera vibra con la posibilidad de que alguien encuentre la Fuente.
+
+Los precios están altos.
+
+Los guías se esconden.
+
+La Orden del Voto Blanco interroga viajeros.
+
+El Consorcio Áureo compra suministros en masa.
+
+La Línea Recta observa a Nerin.
+
+Los Hijos del Pozo reparten pan caliente a los desesperados y les preguntan qué desean.
+
+## Misión 1: La campana sin badajo
+
+### Gancho
+
+La decimotercera campana no puede sonar porque su badajo fue robado hace cien años.
+
+Campanero Ilvo cree que está en las catacumbas.
+
+Madre Seralya cree que no debe recuperarse.
+
+Noma Sinmaleta dice que sin esa campana, el valle no “escucha” la despedida del grupo.
+
+### Exploración
+
+Las catacumbas están llenas de:
+
+* campanas rotas,
+* tumbas de viajeros,
+* cartas nunca entregadas,
+* ecos de promesas incumplidas,
+* muertos que todavía esperan regresar.
+
+### Encuentro sugerido
+
+* 4 Specters
+* 2 Wights
+* 1 Banshee o Ghost importante
+* Opcional: Mummy en una tumba antigua
+
+### La Banshee del Badajo
+
+La guardiana puede ser **Eldra Vozpartida**, una cantante que cruzó el valle y volvió sin su amada.
+
+No es un monstruo sin historia.
+
+Es alguien incapaz de despedirse.
+
+Para recuperar el badajo, el grupo puede derrotarla o ayudarla a aceptar una verdad.
+
+### Casualidad de Nerin
+
+Nerin encuentra una carta sin destinatario.
+
+Cuando la abre, está escrita con su letra.
+
+Dice:
+
+> “No bebas si todavía estás buscando a alguien.”
+
+Nerin se asusta.
+
+Por primera vez, no hace un chiste.
+
+### Recompensa
+
+* 1 Punto de Travesía.
+* Acceso a la ceremonia de la Llave del Adiós.
+* Posible paz para Eldra.
+
+{{pageNumber,auto}}
+
+\page
+
+## Misión 2: El mercado de despedidas
+
+### Gancho
+
+El grupo necesita comprar suministros para cruzar el valle.
+
+Pero el Consorcio Áureo acaparó casi todo.
+
+Jaska Mir ofrece venderlos a precio brutal.
+
+O con descuento si firman un contrato que le da derecho a “participar en cualquier beneficio milagroso obtenido durante la expedición”.
+
+### Desarrollo
+
+El grupo puede:
+
+* negociar,
+* robar suministros,
+* liberar cargamentos retenidos,
+* convencer a mercaderes locales,
+* ganar un concurso público de preparación de expediciones,
+* exponer prácticas abusivas del Consorcio.
+
+### Evento cómico
+
+Nerin compra por error un “kit anti-yeti” que incluye:
+
+* una campanita,
+* calcetines de lana,
+* una cuchara larga,
+* un poema ofensivo para yetis,
+* una piedra “que parece segura”.
+
+El kit es una estafa.
+
+La cuchara larga puede salvarlos más adelante.
+
+### Complicación
+
+Sivia Rencor de Lanterra reaparece trabajando para Jaska.
+
+Timo “Dos Veces” también aparece intentando robar al Consorcio.
+
+Ambos se odian.
+
+Ambos pueden ayudar por motivos equivocados.
+
+### Encuentro sugerido
+
+Si hay combate urbano:
+
+* Veterans
+* Thugs
+* Spies
+* Gladiator como campeón del Consorcio
+* Wererats infiltrados en almacenes
+
+### Recompensa
+
+* 1 o 2 Puntos de Travesía.
+* Suministros de frío.
+* Posible deuda con Jaska o enemistad abierta.
+
+## Misión 3: Los lobos con voces conocidas
+
+### Gancho
+
+Varias patrullas fuera de Velkora desaparecieron.
+
+Los sobrevivientes dicen que los lobos hablaban con voces de familiares muertos.
+
+Noma no cruzará el valle hasta que el camino inmediato sea seguro.
+
+### Desarrollo
+
+Una manada de Winter Wolves fue afectada por ecos del valle.
+
+Imitan voces tomadas de cartas de despedida.
+
+No comprenden del todo el dolor que causan.
+
+Solo saben que las presas se detienen cuando escuchan a alguien amado.
+
+### Encuentro sugerido
+
+* 3 Winter Wolves
+* 4 Wolves o Dire Wolves
+* Opcional: Werewolf como cazador maldito
+
+### Dilema
+
+Uno de los lobos habla con la voz de alguien importante para un personaje.
+
+Puede decir una frase que solo ese personaje reconozca.
+
+No tiene por qué ser real.
+
+Pero puede sentirse real.
+
+### Casualidad de Nerin
+
+Nerin oye la voz de “papá”.
+
+No la sigue.
+
+Se queda quieta.
+
+Dice:
+
+> “Ese no es papá. Papá nunca llama desde donde quiere que vaya.”
+
+Esta frase puede dar al grupo una regla para resistir el valle.
+
+### Recompensa
+
+* Noma acepta guiar al grupo.
+* 1 Punto de Travesía.
+* Advertencia sobre los ecos.
+
+{{pageNumber,auto}}
+
+\page
+
+## Misión principal: La Llave del Adiós
+
+### La ceremonia
+
+Con el badajo recuperado, la decimotercera campana puede sonar.
+
+Cada personaje debe escribir o decir un adiós.
+
+No necesariamente a una persona.
+
+Puede ser:
+
+* adiós a la culpa,
+* adiós a una mentira,
+* adiós a una versión anterior de sí mismo,
+* adiós a una esperanza imposible,
+* adiós a alguien que murió,
+* adiós a la idea de volver igual.
+
+Cuando la campana suena, el sonido no se oye con los oídos.
+
+Se oye en el pecho.
+
+### Nerin en la ceremonia
+
+Nerin intenta escribir a su padre.
+
+No puede.
+
+Rompe tres papeles.
+
+Finalmente escribe:
+
+> “Papá, si me pierdo, no me encuentres enseguida.”
+
+La campana decimotercera suena sola.
+
+Madre Seralya la mira como si acabara de entender algo terrible.
+
+### Recompensa
+
+La Llave del Adiós toma la forma de ceniza blanca dentro de pequeños relicarios.
+
+Cada personaje recibe uno.
+
+En el valle, puede usarse para resistir visiones del pasado o cerrar puertas emocionales.
+
+## Evento final de Velkora: La noche de las facciones
+
+La noche antes de cruzar el valle, todas las facciones actúan.
+
+Elegí o combiná los siguientes eventos:
+
+### La Orden intenta detenerlos
+
+Madre Seralya exige que entreguen el Mapa Palimpsesto.
+
+No quiere matarlos.
+
+Quiere impedir que cometan un error irreversible.
+
+### La Línea Recta intenta capturar a Nerin
+
+Maer Senn entiende que las casualidades alrededor de Nerin no son azar ordinario.
+
+Envía a Sira Nueve Nudos, constructos y asesinos.
+
+### El Consorcio ofrece protección final
+
+Jaska Mir ofrece suministros perfectos, escolta y dinero.
+
+A cambio, exige derecho legal sobre “todo descubrimiento material o inmaterial”.
+
+### Los Hijos del Pozo tientan al grupo
+
+Hermano Lodo habla con cada personaje por separado.
+
+No amenaza.
+
+Pregunta:
+
+> “Cuando llegues, ¿vas a fingir que tu deseo es noble?”
+
+### Encuentro sugerido
+
+Si todo explota en combate:
+
+* Sira Nueve Nudos como Assassin
+* 2 Helmed Horrors
+* 4 Veterans
+* 1 Mage
+* Cultists o Shadows si el culto interviene
+
+No todas las facciones deben luchar a la vez.
+
+Esto puede ser persecución, negociación, traición o alianza temporal.
+
+## Salida de Velkora
+
+Al amanecer, la decimotercera campana suena una vez más.
+
+Noma Sinmaleta mira al grupo y dice:
+
+> “Desde acá, los caminos no llevan. Preguntan.”
+
+Nerin sonríe, pero está pálida.
+
+Duquesa la mula se niega a entrar al valle.
+
+Nerin la abraza y le dice:
+
+> “Está bien. Vos sí sabés volver.”
+
+Duquesa queda en Velkora.
+
+Si el grupo sobrevive, puede reencontrarla.
+
+Subí al grupo a nivel 10 al cerrar Velkora.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>El Valle de los Ecos</div>
+
+# 16. El Valle de los Ecos
+
+<!-- Imagen pendiente: IMAGEN_PENDIENTE - Imagen: valle enorme de niebla, árboles oscuros, montañas blancas y luces azules flotando -->
+
+**Nivel sugerido:** 10 a 12  
+**Función narrativa:** abandonar la seguridad urbana, confrontar deseos personales, mostrar la corrupción de la Fuente.  
+**Duración sugerida:** 5 a 8 sesiones.  
+**Monstruos sugeridos:** Treant, Shambling Mound, Dryad, Satyr, Hydra, Chuul, Water Weird, Aboleth, Kuo-toa, Mind Flayer, Yeti, Abominable Yeti, Young Remorhaz, Frost Giant, Invisible Stalker, Banshee, Wraith, Ghost.
+
+El Valle de los Ecos no es simplemente un lugar.
+
+Es una frontera entre el mundo y aquello que el mundo todavía no decidió ser.
+
+Los sonidos tardan demasiado en volver.
+
+Las sombras se adelantan.
+
+Las huellas aparecen antes de que alguien camine.
+
+Los recuerdos pesan.
+
+Los deseos tienen olor.
+
+Los nombres pueden perderse si se dicen con miedo.
+
+## Reglas del Valle
+
+### 1. El valle escucha deseos
+
+Cada vez que un personaje exprese un deseo fuerte en voz alta, el valle puede responder.
+
+No tiene que responder de inmediato.
+
+Puede hacerlo horas después, de forma torcida.
+
+### 2. Los mapas se vuelven emocionales
+
+El Mapa Palimpsesto no muestra norte, sur, este u oeste.
+
+Muestra palabras como:
+
+* culpa,
+* hambre,
+* regreso,
+* pérdida,
+* mentira,
+* casa,
+* todavía.
+
+### 3. Las tres llaves protegen al grupo
+
+* La Llave del Nombre impide que el valle robe identidades.
+* La Llave del Peso impide que los deseos se vuelvan insoportables.
+* La Llave del Adiós impide que el pasado atrape al grupo.
+
+Si falta alguna llave, aumentá la dificultad de pruebas, encuentros o consecuencias.
+
+### 4. Nerin atrae caminos
+
+En el valle, las casualidades de Nerin se vuelven más visibles.
+
+Una rama cae con forma de flecha.
+
+Las piedras se alinean.
+
+Los enemigos tropiezan.
+
+Una puerta aparece donde no había puerta.
+
+Pero cada casualidad también atrae la atención de Aruun y Maer Senn.
+
+## Estructura del Valle
+
+El valle puede jugarse como hex crawl, viaje narrativo o serie de zonas.
+
+La ruta sugerida tiene cinco regiones:
+
+1. Bosque de las Decisiones Torcidas.
+2. Lago del Nunca.
+3. Campo de Estatuas Blandas.
+4. Nieve de los Nombres.
+5. Ruinas de Mil Deseos.
+
+El grupo no necesita completar todo.
+
+Pero cada región ofrece una prueba, una amenaza y una revelación.
+
+## Región 1: Bosque de las Decisiones Torcidas
+
+<!-- Imagen pendiente: IMAGEN_PENDIENTE - Imagen: bosque con árboles inclinados y senderos que se bifurcan en formas imposibles -->
+
+Este bosque cambia según las decisiones que el grupo no tomó.
+
+Cada bifurcación muestra una posibilidad:
+
+* el camino donde aceptaron el trato de Maer,
+* el camino donde abandonaron a Nerin,
+* el camino donde nunca salieron de Dirinham,
+* el camino donde uno de ellos murió,
+* el camino donde llegaron antes pero cambiados.
+
+### Encuentros sugeridos
+
+* Dryads que intentan convencer al grupo de quedarse en una posibilidad hermosa.
+* Shambling Mound nacido de promesas podridas.
+* Treant viejo que habla con todos los nombres que perdió.
+* Satyrs que celebran errores como fiestas sagradas.
+
+### Prueba del bosque
+
+Cada personaje ve una versión de sí mismo que tomó otra decisión.
+
+Esa versión puede ofrecer información, burla, tentación o duelo.
+
+Para avanzar, el personaje debe aceptar que no puede vivir todas las vidas.
+
+{{pageNumber,auto}}
+
+\page
+
+### Nerin en el bosque
+
+Nerin ve muchas versiones de sí misma.
+
+Todas están solas.
+
+Eso la afecta más de lo que admite.
+
+Puede decir:
+
+> “Papá siempre dice que elegir un camino no es insultar a los otros. Pero igual da pena.”
+
+## Región 2: Lago del Nunca
+
+<!-- Imagen pendiente: IMAGEN_PENDIENTE - Imagen: lago oscuro y quieto con ruinas sumergidas y luces bajo el agua -->
+
+El Lago del Nunca refleja cosas que no ocurrieron.
+
+Una boda cancelada.
+
+Una muerte evitada.
+
+Una traición nunca descubierta.
+
+Una disculpa que nadie dio.
+
+El agua es demasiado quieta.
+
+Si alguien mira mucho tiempo, ve una vida que podría haber tenido.
+
+### Encuentros sugeridos
+
+* Hydra en aguas profundas.
+* Chuul escondidos entre pilares hundidos.
+* Water Weirds formados por deseos abandonados.
+* Kuo-toa que adoran una versión falsa de la Fuente.
+* Aboleth como voz lejana, no necesariamente combate todavía.
+
+### Prueba del lago
+
+Para cruzar, el grupo necesita navegar sobre aguas que muestran tentaciones personales.
+
+Cada personaje puede recibir una visión:
+
+* alguien vivo de nuevo,
+* un reino salvado,
+* un amor correspondido,
+* una venganza completa,
+* un error deshecho.
+
+Si un personaje intenta tocar la visión, el lago responde con un encuentro.
+
+### Casualidad de Nerin
+
+Nerin tira una piedra para “ver si el agua sabe jugar”.
+
+La piedra rebota siete veces y marca una ruta segura.
+
+En el séptimo rebote, una voz bajo el agua dice:
+
+> “Hija de la moneda.”
+
+Nerin finge no escuchar.
+
+## Región 3: Campo de Estatuas Blandas
+
+<!-- Imagen pendiente: IMAGEN_PENDIENTE - Imagen: campo de figuras de piedra con expresiones de deseo y miedo -->
+
+Este campo está lleno de estatuas.
+
+No todas son de piedra.
+
+Algunas son personas detenidas a mitad de un deseo.
+
+Algunas todavía sueñan.
+
+Algunas susurran.
+
+Algunas mienten.
+
+### Encuentros sugeridos
+
+* Basilisks.
+* Medusa solitaria que busca revertir su propia maldición.
+* Gargoyles que imitan estatuas.
+* Galeb Duhr como guardianes dormidos.
+* Wraiths de viajeros que pidieron no sentir dolor.
+
+### Prueba del campo
+
+El grupo encuentra una estatua de alguien que todavía no conocen.
+
+Luego otra de alguien que sí.
+
+Luego una estatua de Nerin.
+
+La estatua de Nerin tiene los ojos abiertos y una moneda en la boca.
+
+Si la rompen, liberan un eco que ayuda.
+
+Si la dejan, tendrán ventaja en una prueba posterior de la Fuente.
+
+### Dilema
+
+Hay una estatua que puede ser restaurada.
+
+Pero solo una.
+
+Opciones:
+
+* un viajero inocente,
+* un antiguo enemigo arrepentido,
+* una niña petrificada hace décadas,
+* un agente de la Línea Recta que tiene información,
+* una persona vinculada al pasado de un personaje.
+
+## Región 4: Nieve de los Nombres
+
+<!-- Imagen pendiente: IMAGEN_PENDIENTE - Imagen: paso nevado con piedras grabadas y sombras enormes en la tormenta -->
+
+La nieve cae hacia arriba.
+
+El frío no entra por la piel.
+
+Entra por los recuerdos.
+
+Cada copo contiene una sílaba.
+
+Si el grupo no usa la Llave del Nombre, puede empezar a olvidar cómo se llaman.
+
+### Encuentros sugeridos
+
+* Yetis.
+* Abominable Yeti como gran amenaza.
+* Young Remorhaz bajo la nieve.
+* Frost Giant explorador.
+* Winter Wolves que regresan desde Velkora.
+* Invisible Stalker enviado por Maer Senn.
+
+{{pageNumber,auto}}
+
+\page
+
+### Prueba de nombres
+
+Cada personaje debe decir su nombre y una razón por la que todavía lo merece.
+
+No hace falta que sea heroica.
+
+Puede ser pequeña.
+
+Puede ser triste.
+
+Puede ser graciosa.
+
+Si falla, el valle le asigna un nombre basado en su deseo más fuerte.
+
+Ejemplos:
+
+* El Que Quiere Volver.
+* La Que No Perdona.
+* Mano de Culpa.
+* Hambre de Corona.
+* Risa que Tiembla.
+
+### Nerin en la nieve
+
+La nieve no se pega a Nerin.
+
+Flota alrededor de ella como si dudara.
+
+Finalmente forma una palabra sobre su cabeza:
+
+> “FORTUNA.”
+
+Luego otra:
+
+> “ORPHIN.”
+
+Nerin no entiende.
+
+Pero Maer, si está cerca o espiando, sí.
+
+## Región 5: Ruinas de Mil Deseos
+
+<!-- Imagen pendiente: IMAGEN_PENDIENTE - Imagen: ruinas antiguas cubiertas de agua azul brillante y símbolos rotos -->
+
+Antes de llegar a la Fuente, el grupo encuentra las ruinas de un asentamiento destruido.
+
+Allí vivían los primeros guardianes.
+
+Allí se registraban deseos concedidos.
+
+Allí comenzó la corrupción.
+
+## Las paredes de las ruinas
+
+Las paredes tienen inscripciones como:
+
+* “Pedimos lluvia y el río se llevó los nombres de los muertos.”
+* “Pedimos paz y olvidamos cómo luchar cuando llegaron los lobos.”
+* “Pedimos que el rey no muriera y el rey no volvió a cambiar.”
+* “Pedimos que nadie sufriera y nadie volvió a amar con fuerza suficiente.”
+
+## Encuentros sugeridos
+
+* Cult Fanatics de los Hijos del Pozo.
+* Kuo-toa adoradores de una fuente falsa.
+* Gibbering Mouthers nacidos de deseos contradictorios.
+* Chuul guardianes acuáticos.
+* Aboleth como jefe de zona si querés adelantar parte de Aruun.
+* Mind Flayer como aliado temporal de Aruun, si querés horror psíquico.
+
+## La Cámara de los Deseos Fracasados
+
+El grupo encuentra recipientes con agua seca.
+
+Cada recipiente contiene el eco de un deseo.
+
+Al tocar uno, un personaje ve una historia breve:
+
+| d8 | Deseo fracasado |
+|:--:|:--|
+| 1 | Un rey pidió victoria y ganó una guerra que destruyó su reino. |
+| 2 | Una madre pidió que su hijo no muriera y el niño dejó de crecer. |
+| 3 | Un mago pidió saber la verdad y nunca pudo creer una mentira piadosa. |
+| 4 | Un soldado pidió no sentir miedo y perdió la prudencia. |
+| 5 | Una artista pidió inspiración eterna y no pudo volver a dormir. |
+| 6 | Un pueblo pidió abundancia y las cosechas crecieron sobre sus casas. |
+| 7 | Un ladrón pidió no ser atrapado y nadie volvió a recordarlo. |
+| 8 | Una niña pidió que su padre siempre estuviera cerca y su sombra nunca la dejó. |
+
+### Revelación final del Valle
+
+En las ruinas, el grupo puede encontrar un mural roto.
+
+Muestra a Ishmara, la Voz Azul, sellando la Fuente.
+
+A su lado hay una figura con una moneda en la mano.
+
+No se ve el rostro.
+
+Debajo dice:
+
+> “Solo la casualidad puede abrir lo que el deseo cerró.”
+
+Nerin se queda mirando mucho tiempo.
+
+Luego dice:
+
+> “No me gusta cuando las paredes parecen saber cosas de mí.”
+
+## Persecución final por el Valle
+
+Antes de llegar a la Fuente, Maer Senn alcanza al grupo.
+
+Puede llegar con:
+
+* restos de la Línea Recta,
+* una alianza temporal con el Consorcio,
+* Nerin capturada,
+* Lady Irielle herida,
+* Seralya intentando destruir el mapa,
+* o Hermano Lodo sonriendo porque todos llegaron justo donde Aruun quería.
+
+No hace falta resolver todo aquí.
+
+La Fuente será el escenario final.
+
+Subí al grupo a nivel 11 durante el Valle, y a nivel 12 cuando llegue a la entrada de la Fuente.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>La Fuente del Norte</div>
+
+# 17. La Fuente del Norte
+
+<!-- Imagen pendiente: IMAGEN_PENDIENTE - Imagen: cámara natural de piedra blanca con una fuente azul brillante bajo una abertura en el techo -->
+
+**Nivel sugerido:** 12  
+**Función narrativa:** confrontar el deseo verdadero de cada personaje, decidir el destino de la Fuente y cerrar el arco de Nerin.  
+**Monstruos sugeridos:** Aboleth, Water Elemental, Invisible Stalker, Shield Guardian, Helmed Horror, Archmage, Deva, Gynosphinx o Androsphinx, Marid si está disponible, Wraiths, Chuul, Kuo-toa.
+
+La Fuente no está en una montaña.
+
+No está en una cueva.
+
+No está en un templo.
+
+Está en un lugar que parece haber sido todas esas cosas antes.
+
+Una cámara blanca.
+
+Un techo abierto al cielo.
+
+Agua azul.
+
+Raíces suspendidas.
+
+Escaleras que bajan y suben al mismo tiempo.
+
+Estatuas sin rostro.
+
+Y un sonido suave, como alguien respirando bajo el agua.
+
+## Entrada a la Fuente
+
+Para entrar sin ser rechazados, el grupo debe usar las llaves:
+
+* La Llave del Nombre se ata al umbral.
+* La Llave del Peso se clava en la piedra.
+* La Llave del Adiós se dispersa como ceniza sobre el agua.
+
+Si tienen las tres, el camino se abre limpiamente.
+
+Si falta una, el grupo debe superar una prueba difícil relacionada con esa llave.
+
+Si faltan dos o más, la Fuente los deja entrar, pero Aruun tendrá mayor influencia.
+
+## Guardianes de la Fuente
+
+### Ishmara, la Voz Azul
+
+Ishmara puede aparecer como una figura de agua con rostro cambiante.
+
+No es un enemigo automático.
+
+Está cansada.
+
+Lleva siglos sosteniendo una puerta que otros rompieron.
+
+Puede preguntar:
+
+> “¿Vienen a pedir, a cerrar o a escuchar?”
+
+Si el grupo responde con honestidad, puede ayudarlos.
+
+Si intentan dominar la Fuente, se opondrá.
+
+**Stat block sugerido si necesitás combate:** Marid, Water Elemental mejorado, o una criatura celestial/elemental adaptada.
+
+### Aruun, el Pozo que Recuerda
+
+Aruun no aparece primero como monstruo.
+
+Aparece como voz.
+
+Como agua negra bajo el agua azul.
+
+Como recuerdos ajenos.
+
+Como deseos que hablan con la voz de los personajes.
+
+Si se manifiesta físicamente, usá Aboleth como base, con apoyo de Chuul, Water Weirds, Kuo-toa o Gibbering Mouthers.
+
+### El guardián de la pregunta
+
+Si querés una prueba más clásica, una Gynosphinx o Androsphinx puede custodiar el último umbral.
+
+No hace acertijos simples.
+
+Hace preguntas personales.
+
+Ejemplo:
+
+> “¿Cuál de tus deseos seguiría siendo tuyo si nadie pudiera admirarte por cumplirlo?”
+
+## Estructura del final
+
+El final puede dividirse en cuatro escenas.
+
+### Escena 1: Llegada de todos los deseos
+
+El grupo no llega solo.
+
+Dependiendo de sus decisiones, pueden aparecer:
+
+* Maer Senn y la Línea Recta,
+* Lady Irielle Vardemir,
+* Madre Seralya,
+* Jaska Mir,
+* Hermano Lodo,
+* Timo “Dos Veces”,
+* Noma Sinmaleta,
+* un aliado de alguna ciudad,
+* una consecuencia de una misión pasada.
+
+No todos deben estar presentes.
+
+Elegí los más importantes según la campaña.
+
+La escena debe sentirse como una convergencia.
+
+Todos los caminos, errores, contratos, cartas, campanas, mapas y casualidades llegaron aquí.
+
+{{pageNumber,auto}}
+
+\page
+
+### Escena 2: El deseo de Maer
+
+Maer intenta acercarse a la Fuente.
+
+Su deseo:
+
+> “Deseo que el azar termine.”
+
+La Fuente escucha el deseo verdadero:
+
+> “Deseo que ninguna pérdida vuelva a sorprenderme.”
+
+Aruun intenta cumplirlo creando una realidad rígida donde todo movimiento está predeterminado.
+
+En la cámara, esto se manifiesta como líneas blancas sobre el suelo.
+
+Si alguien pisa una línea, ve el resultado exacto de su próxima acción.
+
+Al principio parece útil.
+
+Luego se vuelve prisión.
+
+{{pageNumber,auto}}
+
+\page
+
+### Combate contra Maer
+
+Usá Archmage como base para Maer en el final.
+
+Puede estar protegido por:
+
+* Shield Guardian,
+* Helmed Horrors,
+* Invisible Stalker,
+* Veterans de la Línea Recta,
+* efectos de adivinación,
+* zonas donde las tiradas bajas se repiten contra los jugadores.
+
+No copies el stat block en el documento.
+
+Usá el oficial y adaptá el sabor.
+
+### Mecánica opcional: líneas de determinismo
+
+Al inicio de cada ronda, elegí una zona de la cámara.
+
+En esa zona, la primera tirada de d20 de cada criatura no se tira.
+
+Se considera 10.
+
+Esto representa la imposición de Maer.
+
+Los personajes pueden romper líneas gastando acciones para alterar símbolos, usando magia, destruyendo cristales o aprovechando una casualidad de Nerin.
+
+### Escena 3: Nerin como llave
+
+Durante el clímax, Maer o Aruun entienden que Nerin puede abrir completamente la Fuente.
+
+No porque sea poderosa en el sentido habitual.
+
+Sino porque la casualidad puede entrar donde el deseo creó una cerradura.
+
+Nerin, asustada, puede decir:
+
+> “Creo que papá no me mandó a buscar algo.”
+
+Y luego:
+
+> “Creo que me mandó a encontrarlos.”
+
+Este es el momento de revelar su origen, pero no como exposición larga.
+
+Puede ocurrir así:
+
+* La moneda de Nerin cae al agua.
+* En vez de hundirse, queda de canto sobre la superficie.
+* La Fuente refleja un hombre sonriente sin rostro claro.
+* Nerin susurra: “Papá.”
+* Ishmara se inclina, reconociendo a la hija de Orphin.
+
+Nerin no se convierte en diosa completa.
+
+No destruye al enemigo.
+
+No concede deseos.
+
+Solo puede hacer una cosa:
+
+abrir una posibilidad que no debería existir.
+
+### La posibilidad imposible
+
+Gracias a Nerin, el grupo puede elegir una opción que ninguna facción contempló:
+
+* no usar la Fuente pero tampoco destruirla,
+* purificarla sin pedir un deseo personal,
+* permitir un deseo colectivo limitado,
+* separar a Ishmara de Aruun,
+* convertir la Fuente en un camino en vez de un premio,
+* cerrar la Fuente durante cien años y dejar un guardián voluntario.
+
+### Escena 4: El deseo del grupo
+
+Cada personaje debe enfrentar su deseo verdadero.
+
+No obligues a todos a pedir algo.
+
+El gran momento puede ser elegir no pedir.
+
+La Fuente ofrece.
+
+No exige.
+
+Preguntas para cada personaje:
+
+* ¿Qué pedirías si nadie te juzgara?
+* ¿Qué perderías si eso se cumple literalmente?
+* ¿A quién afectaría tu deseo?
+* ¿Tu deseo nace del amor, del miedo, de la culpa o del orgullo?
+* ¿Seguirías queriéndolo si nadie supiera que lo lograste?
+
+## Opciones finales
+
+### Final A: El grupo purifica la Fuente
+
+El grupo derrota o expulsa a Aruun, pero la Fuente pierde la capacidad de conceder deseos absolutos.
+
+Queda como lugar de sanación menor, memoria y promesas.
+
+Ishmara queda libre o se duerme.
+
+Nerin puede quedarse un tiempo o seguir viajando.
+
+Este es el final más esperanzador.
+
+### Final B: El grupo sella la Fuente
+
+La Orden del Voto Blanco logra su objetivo o el grupo decide que nadie debería tener tal poder.
+
+La Fuente queda sellada.
+
+Algunos aliados se sienten traicionados.
+
+Personas desesperadas pierden su última esperanza.
+
+Pero el mundo queda a salvo.
+
+Nerin llora, aunque sabe que quizá fue correcto.
+
+### Final C: El grupo pide un deseo colectivo
+
+El grupo formula un deseo cuidadosamente trabajado.
+
+Debe ser específico, honesto y aceptando costo.
+
+{{pageNumber,auto}}
+
+\page
+
+Ejemplo:
+
+> “Deseamos que Aruun no pueda alimentarse de los deseos de los mortales, aunque eso signifique que ningún deseo absoluto vuelva a ser concedido aquí.”
+
+La Fuente puede cumplirlo si todos aceptan renunciar a sus deseos personales.
+
+### Final D: Maer casi gana
+
+Si Maer logra activar su deseo, el mundo empieza a volverse rígido.
+
+Las casualidades desaparecen.
+
+Nadie tropieza.
+
+Nadie encuentra monedas.
+
+Nadie llega tarde.
+
+Nadie se conoce por accidente.
+
+Nerin empieza a desvanecerse.
+
+El grupo debe romper el deseo desde dentro de una realidad determinista.
+
+Este final puede extender la campaña a nivel 13.
+
+### Final E: Aruun despierta
+
+Si el grupo falla o pide deseos egoístas sin control, Aruun despierta.
+
+La Fuente se vuelve negra.
+
+Los deseos empiezan a manifestarse en todo Muvaria como horrores.
+
+La campaña continúa como guerra contra un dios-pozo.
+
+Usá Aboleth, cultos, aberraciones, elementales corruptos y ciudades transformadas.
+
+## Epílogo de Nerin
+
+Si sobrevive, Nerin no se vuelve solemne.
+
+No cambia por completo.
+
+Sigue siendo Nerin.
+
+Pero ahora sabe algo más.
+
+Puede despedirse de su padre sin perderlo.
+
+Puede quedarse con el grupo sin sentir que traiciona su misión.
+
+Puede decir:
+
+> “Papá dice que encontrar lo que buscabas no significa dejar de caminar.”
+
+Y luego, después de una pausa:
+
+> “Pero estaría lindo caminar con ustedes un poco más.”
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Deseos y consecuencias</div>
+
+# 18. Deseos, consecuencias y finales personales
+
+La Fuente puede ser el momento más importante de la campaña.
+
+No lo reduzcas a “pedí algo y listo”.
+
+Trabajá cada deseo como una escena.
+
+## Cómo interpretar deseos
+
+Cuando un jugador formule un deseo, hacé estas preguntas en privado o en mesa:
+
+1. ¿Qué está pidiendo literalmente?
+2. ¿Qué quiere realmente?
+3. ¿Qué emoción impulsa el deseo?
+4. ¿A quién más afecta?
+5. ¿Qué costo sería justo, interesante o poético?
+6. ¿La Fuente está purificada, corrupta o disputada?
+
+## Costos posibles
+
+| d12 | Costo |
+|:--:|:--|
+| 1 | Un recuerdo feliz se vuelve borroso. |
+| 2 | Una relación cambia de forma irreversible. |
+| 3 | El deseo se cumple, pero otra persona debe aceptar una carga. |
+| 4 | El personaje obtiene lo que quería, pero pierde la razón original por la que lo quería. |
+| 5 | El mundo cambia en pequeña escala alrededor del deseo. |
+| 6 | Una facción aprovecha la consecuencia. |
+| 7 | El personaje debe renunciar a otro deseo. |
+| 8 | La Fuente exige una promesa futura. |
+| 9 | Nerin ve una consecuencia que nadie más ve. |
+| 10 | El deseo tarda un año y un día en completarse. |
+| 11 | El deseo se cumple en sentido emocional, no literal. |
+| 12 | El deseo se cumple sin costo inmediato, pero queda una marca azul en el alma del personaje. |
+
+## Deseos seguros
+
+Un deseo es más seguro si:
+
+* reconoce su costo,
+* no borra la voluntad de otros,
+* no reescribe grandes partes del pasado,
+* no busca dominio absoluto,
+* no nace únicamente del miedo,
+* acepta que la vida seguirá siendo incierta.
+
+## Deseos peligrosos
+
+Un deseo es peligroso si:
+
+* niega la muerte sin aceptar duelo,
+* borra decisiones de otras personas,
+* exige amor, obediencia o admiración,
+* elimina una emoción humana completa,
+* busca control total,
+* intenta romper la casualidad.
+
+## Deseos de NPCs
+
+### Nerin
+
+Nerin cree que pediría encontrar lo que su padre le mandó buscar.
+
+Pero su deseo verdadero es:
+
+> “Quiero pertenecer sin que eso signifique dejar de ser libre.”
+
+La Fuente puede mostrarle que ya lo encontró.
+
+### Maer Senn
+
+Deseo declarado:
+
+> “Que el azar termine.”
+
+Deseo verdadero:
+
+> “Que ninguna pérdida vuelva a sorprenderme.”
+
+Consecuencia si se cumple:
+
+El mundo se vuelve calculable, pero incapaz de milagro.
+
+### Irielle Vardemir
+
+Deseo declarado:
+
+> “Restaurar mi casa.”
+
+Deseo verdadero:
+
+> “Que el sufrimiento de mi familia haya significado algo.”
+
+Consecuencia positiva:
+
+Puede recibir verdad, justicia y memoria sin borrar la historia.
+
+Consecuencia peligrosa:
+
+Puede reescribir generaciones.
+
+{{pageNumber,auto}}
+
+\page
+
+### Madre Seralya
+
+Deseo declarado:
+
+> “Que la Fuente sea sellada.”
+
+Deseo verdadero:
+
+> “No quiero que nadie repita mi error.”
+
+Consecuencia positiva:
+
+Puede convertirse en guardiana humilde.
+
+Consecuencia peligrosa:
+
+Puede negar esperanza a todos por miedo propio.
+
+### Jaska Mir
+
+Deseo declarado:
+
+No quiere pedir.
+
+Deseo verdadero:
+
+> “Quiero que todo tenga precio porque lo que tiene precio puede controlarse.”
+
+La Fuente puede enfrentarla con algo que no pueda comprar.
+
+### Hermano Lodo
+
+Deseo declarado:
+
+> “Que todos puedan querer sin vergüenza.”
+
+Deseo verdadero:
+
+> “Que Aruun me diga quién soy sin mis deseos.”
+
+Puede ser liberado o consumido.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Tablas de viaje</div>
+
+# 19. Tablas de viaje, comedia y encuentros
+
+## Casualidades de Nerin durante viaje
+
+| d20 | Casualidad |
+|:--:|:--|
+| 1 | Nerin compra pan y dentro hay una nota escondida. |
+| 2 | Se equivoca de carreta y encuentra un cargamento robado. |
+| 3 | Una moneda se le cae y rueda hasta una puerta secreta. |
+| 4 | Saluda a alguien que no conoce; esa persona sí cree conocerla. |
+| 5 | Un animal empieza a seguirla y resulta saber el camino. |
+| 6 | Pierde una media y por buscarla evita una emboscada. |
+| 7 | Confunde a un noble con un mesero y obtiene una audiencia. |
+| 8 | Una canción que tararea coincide con una contraseña antigua. |
+| 9 | Compra un objeto inútil que se vuelve útil tres sesiones después. |
+| 10 | Tropieza y esquiva un ataque invisible. |
+| 11 | Pide indicaciones al enemigo correcto. |
+| 12 | Rompe una jarra y encuentra una llave dentro del barro. |
+| 13 | Elige una mesa en la taberna justo al lado de una conversación clave. |
+| 14 | Gana un juego que no entendía. |
+| 15 | Pierde un juego que convenía perder. |
+| 16 | Un cartel cambia de dirección cuando ella lo mira. |
+| 17 | Una carta destinada a otro llega al grupo. |
+| 18 | Un guardia la deja pasar porque cree que ya la registró. |
+| 19 | Una tormenta obliga al grupo a refugiarse donde estaba la pista. |
+| 20 | La moneda de Nerin cae de canto. Algo imposible puede intentarse. |
+
+## Complicaciones de ruta
+
+| d12 | Complicación |
+|:--:|:--|
+| 1 | Peaje ilegal. |
+| 2 | Caravana rota. |
+| 3 | Peregrinos desesperados. |
+| 4 | Espías de una facción rival. |
+| 5 | Monstruos desplazados por la corrupción de la Fuente. |
+| 6 | Tormenta con lluvia que sube desde el suelo. |
+| 7 | Puente caído. |
+| 8 | Un mapa contradice al paisaje. |
+| 9 | El grupo encuentra restos de una expedición anterior. |
+| 10 | Un aliado está en problemas. |
+| 11 | Una ciudad cercana cerró sus puertas. |
+| 12 | Un sueño compartido muestra la Fuente. |
+
+## Encuentros de camino por nivel
+
+### Niveles 5 a 6
+
+* Bandits y Bandit Captain.
+* Ogres.
+* Bugbears y Goblins.
+* Giant Spiders.
+* Ankheg.
+* Wererats.
+* Animated Armor en ruinas.
+
+### Niveles 7 a 8
+
+* Trolls.
+* Ettin.
+* Manticore.
+* Wyvern.
+* Helmed Horror.
+* Gargoyles.
+* Water Weirds.
+* Hags.
+* Spectator.
+
+### Niveles 9 a 10
+
+* Young Dragons, según región.
+* Chimera.
+* Earth Elemental.
+* Fire Elemental.
+* Xorn.
+* Wights y Wraiths.
+* Winter Wolves.
+* Medusa.
+* Shield Guardian.
+
+### Niveles 11 a 13
+
+* Aboleth.
+* Hydra.
+* Remorhaz joven o adulto según dificultad.
+* Frost Giant.
+* Treant.
+* Abominable Yeti.
+* Mind Flayer.
+* Archmage.
+* Gynosphinx o Androsphinx.
+
+{{pageNumber,auto}}
+
+\page
+
+## Rumores sobre la Fuente
+
+| d20 | Rumor |
+|:--:|:--|
+| 1 | La Fuente concede cualquier deseo, pero borra el recuerdo de haberlo pedido. |
+| 2 | Nadie llega dos veces por el mismo camino. |
+| 3 | Metusta guarda un mapa que no muestra lugares, sino decisiones. |
+| 4 | Los muertos pueden beber, pero vuelven con sed. |
+| 5 | La Fuente está custodiada por una mujer de agua. |
+| 6 | El norte no existe hasta que alguien lo desea. |
+| 7 | Un rey pidió victoria y su reino desapareció de los mapas durante un año. |
+| 8 | La Fuente no cumple deseos egoístas. Esto es falso. Sí los cumple. Ese es el problema. |
+| 9 | Los lobos de Velkora hablan con voces de familiares muertos. |
+| 10 | Una orden religiosa quemó todos los mapas verdaderos. |
+| 11 | Un mercader compró un camino y desde entonces nadie puede caminarlo sin pagar. |
+| 12 | Si decís tu deseo en voz alta en el valle, algo lo escucha. |
+| 13 | La Fuente no está corrupta; los corruptos son quienes llegan. |
+| 14 | Una niña con una moneda abrirá la última puerta. |
+| 15 | Los deseos pequeños son más peligrosos que los grandes. |
+| 16 | Nadie que beba de la Fuente vuelve a soñar. |
+| 17 | La Fuente te da lo que querés, no lo que pedís. |
+| 18 | El agua de Lanterra viene de la misma raíz que la Fuente. |
+| 19 | La Biblioteca de Metusta tiene una torre que solo aparece a los perdidos. |
+| 20 | La mejor forma de encontrar la Fuente es dejar de buscarla. |
+
+## Objetos mágicos y recompensas sugeridas
+
+No hace falta entregar demasiados objetos mágicos.
+
+La campaña ya ofrece mapas, llaves simbólicas, aliados y favores.
+
+Aun así, estas recompensas encajan bien:
+
+* Cloak of Protection.
+* Boots of the Winterlands.
+* Lantern of Revealing.
+* Bag of Holding.
+* Immovable Rod.
+* Sending Stones.
+* Ring of Mind Shielding.
+* Periapt of Wound Closure.
+* Weapon +1 o +2 según nivel.
+* Spell Scrolls de utilidad.
+* Figurine of Wondrous Power si querés reforzar el viaje.
+
+## Recompensas narrativas
+
+| Recompensa | Uso |
+|:--|:--|
+| Salvoconducto de Miravalle | Evita peajes y problemas fronterizos. |
+| Farol Tito | Detecta mentiras directas apagándose. |
+| Carta de Maedra | Da autoridad intelectual en Muvaria. |
+| Clavos de la Llave del Peso | Ayudan a resistir deseos en el valle. |
+| Relicario de Ceniza Clara | Ayuda a despedirse de visiones o muertos. |
+| Deuda de Timo | Puede abrir puertas criminales. |
+| Respeto de Jorunn | Permite reparar equipo o conseguir herrería especial. |
+| Carta no enviada de Velkora | Puede cerrar un arco personal. |
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Apéndice de criaturas</div>
+
+# 20. Apéndice de criaturas oficiales sugeridas
+
+Este apéndice no incluye bloques de estadísticas.
+
+Usá los stat blocks oficiales de los manuales que tengas disponibles.
+
+La lista sirve para poblar Muvaria con criaturas de D&D sin convertir el documento en un bestiario completo.
+
+## Criaturas urbanas
+
+* Bandit.
+* Bandit Captain.
+* Spy.
+* Thug.
+* Veteran.
+* Knight.
+* Noble.
+* Assassin.
+* Cultist.
+* Cult Fanatic.
+* Wererat.
+* Kenku.
+* Animated Armor.
+* Flying Sword.
+* Rug of Smothering.
+* Mimic.
+* Gargoyle.
+* Helmed Horror.
+* Shield Guardian.
+
+## Criaturas de caminos y bosques
+
+* Goblin.
+* Hobgoblin.
+* Bugbear.
+* Ogre.
+* Ettin.
+* Troll.
+* Giant Spider.
+* Ettercap.
+* Ankheg.
+* Manticore.
+* Owlbear.
+* Displacer Beast.
+* Dryad.
+* Satyr.
+* Shambling Mound.
+* Treant.
+
+## Criaturas de agua y pantano
+
+* Crocodile.
+* Giant Crocodile.
+* Merrow.
+* Water Weird.
+* Sea Hag.
+* Green Hag.
+* Chuul.
+* Hydra.
+* Kuo-toa.
+* Aboleth.
+
+## Criaturas de minas, montañas y frío
+
+* Rust Monster.
+* Xorn.
+* Earth Elemental.
+* Fire Elemental.
+* Galeb Duhr.
+* Chimera.
+* Wyvern.
+* Young White Dragon.
+* Young Red Dragon.
+* Winter Wolf.
+* Yeti.
+* Abominable Yeti.
+* Remorhaz.
+* Frost Giant.
+
+## Muertos vivientes y ecos
+
+* Skeleton.
+* Zombie.
+* Shadow.
+* Specter.
+* Ghost.
+* Wight.
+* Wraith.
+* Banshee.
+* Mummy.
+* Revenant.
+
+{{pageNumber,auto}}
+
+\page
+
+## Aberraciones y horrores de deseo
+
+* Spectator.
+* Grell.
+* Cloaker.
+* Gibbering Mouther.
+* Mind Flayer.
+* Aboleth.
+
+## Celestiales, elementales y guardianes finales
+
+* Water Elemental.
+* Air Elemental.
+* Invisible Stalker.
+* Deva.
+* Gynosphinx.
+* Androsphinx.
+* Marid.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Cierre para el DM</div>
+
+# Cierre para el DM
+
+La Fuente del Norte no es importante porque cumple deseos.
+
+Es importante porque obliga a los personajes a preguntarse qué harían si realmente pudieran conseguir lo que quieren.
+
+Muvaria debe sentirse viva.
+
+Rara.
+
+Cálida.
+
+Peligrosa.
+
+Llena de gente que tiene sus propios problemas antes de que los héroes lleguen.
+
+Cada ciudad debe aportar algo distinto:
+
+* Miravalle enseña que todo camino tiene precio.
+* Lanterra enseña que recordar también puede doler.
+* Metusta enseña que saber no siempre salva.
+* Brammavik enseña que todo deseo pesa.
+* Velkora enseña que avanzar exige despedirse.
+* El Valle enseña que querer algo puede ser peligroso.
+* La Fuente enseña que el milagro más grande quizá sea elegir no torcer el mundo para escapar del dolor.
+
+Y Nerin Fortuna debe permanecer en el corazón de todo.
+
+No como solución.
+
+No como elegida todopoderosa.
+
+Sino como el recordatorio viviente de que ninguna gran historia avanza en línea recta.
+
+Porque a veces el mundo se salva por estrategia.
+
+A veces por valentía.
+
+A veces por sacrificio.
+
+Y a veces porque una chica alegre se equivocó de puerta, saludó a la persona incorrecta y arrastró a sus amigos exactamente al lugar donde tenían que estar.
+
+> “Papá dice que llegar no es el final del camino. Es el momento en que el camino pregunta si querés seguir siendo la misma persona.”
+>
+> — Nerin Fortuna
+
+
+<!-- MUVARIA-FUENTE-NORTE-FIN-V3 -->

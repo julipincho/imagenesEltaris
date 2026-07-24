@@ -166,7 +166,10 @@ https://julipincho.github.io/imagenesEltaris/images/
 | `la-fuente-norte-mision-1-peaje.png` | Mission 1: El peaje de los ogros educados | Full-width mission art |
 | `la-fuente-norte-mision-2-mapa.png` | Mission 2: El mapa inutil que no lo es | Full-width mission art |
 | `la-fuente-norte-calo-bronce.png` | Calo Bronce / Mission 2B: El tercer golpe | Recurring NPC portrait, right-side masked art |
+| `la-fuente-norte-deposito-nueve.png` | Mission 2B: confrontation in Depósito Nueve | Full-page or right-side masked mission art |
 | `la-fuente-norte-mision-3-mula.png` | Mission 3: La mula del concurso | Full-width mission art |
+| `la-fuente-norte-septima-puerta.png` | Mission 4: La carta que no llegó / La séptima puerta no se vende | Full-page or right-side masked mission art |
+| `la-fuente-norte-final-linea-unica.png` | Miravalle finale: La noche de la Línea Única | Full-page climactic encounter art |
 
 ### La Fuente del Norte Prompt Direction
 
@@ -216,4 +219,22 @@ Painterly Dungeons and Dragons fantasy module portrait of Calo Bronce, the Marti
 
 ```text
 Mission art for La mula del concurso: Miravalle pie contest, Nerin proudly presenting an imperfect pie, adventurers stopping sabotage, enchanted kitchen tools, intelligent mule beside the prize ribbon, comedic fantasy, no text.
+```
+
+#### `la-fuente-norte-deposito-nueve.png`
+
+```text
+Vertical D&D module scene inside Depósito Nueve. Preserve Calo Bronce's auburn hair graying at the temples, narrow mustache, wine-red coat, gold waistcoat, black gloves and cracked silver gavel. Calo closes a large yellow ledger among repossessed magical curios and awakening animated armors while an elegant gray-white spy advances along a cold geometric line. Warm gold lamplight against white-blue deterministic magic, grounded painterly oil texture, tense three-way conflict, no text, no watermark.
+```
+
+#### `la-fuente-norte-septima-puerta.png`
+
+```text
+Vertical D&D module scene of Miravalle at dusk. Seven mismatched stone gates are dragged toward an impossible alignment by cold white measuring lines and brass survey chains. A stubborn gray prize mule bites and pulls a chain while two sympathetic ogres brace the resisting seventh gate and citizens evacuate. Warm sunset and lantern gold against cold deterministic geometry, grounded painterly realism, no text, no watermark.
+```
+
+#### `la-fuente-norte-final-linea-unica.png`
+
+```text
+Vertical climactic D&D encounter in the Plaza de las Siete Entradas. Seven gates form one impossible corridor behind the Agrimensor Imposible, a towering but fightable brass-and-black-stone toll construct with a blank ivory mask divided by one white-blue line, rotating compass chest, measuring staff and orbiting contract chains. Golden commercial seals are overwritten by cold straight-line runes. Grounded dark painterly fantasy, warm lanterns versus precise white-blue magic, no text, no watermark.
 ```
