@@ -168,8 +168,8 @@ https://julipincho.github.io/imagenesEltaris/images/
 | `la-fuente-norte-calo-bronce.png` | Calo Bronce / Mission 2B: El tercer golpe | Recurring NPC portrait, right-side masked art |
 | `la-fuente-norte-deposito-nueve.png` | Mission 2B: confrontation in Depósito Nueve | Full-page or right-side masked mission art |
 | `la-fuente-norte-mision-3-mula.png` | Mission 3: La mula del concurso | Full-width mission art |
-| `la-fuente-norte-septima-puerta.png` | Mission 4: La carta que no llegó / La séptima puerta no se vende | Full-page or right-side masked mission art |
-| `la-fuente-norte-final-linea-unica.png` | Miravalle finale: La noche de la Línea Única | Full-page climactic encounter art |
+| `la-fuente-norte-ultima-copia.png` | Mission 4: La última copia | Full-page or right-side masked chase art |
+| `la-fuente-norte-final-custodio-ruta.png` | Miravalle finale: El camino que no admite desvíos | Full-page climactic encounter art |
 
 ### La Fuente del Norte Prompt Direction
 
@@ -227,14 +227,31 @@ Mission art for La mula del concurso: Miravalle pie contest, Nerin proudly prese
 Vertical D&D module scene inside Depósito Nueve. Preserve Calo Bronce's auburn hair graying at the temples, narrow mustache, wine-red coat, gold waistcoat, black gloves and cracked silver gavel. Calo closes a large yellow ledger among repossessed magical curios and awakening animated armors while an elegant gray-white spy advances along a cold geometric line. Warm gold lamplight against white-blue deterministic magic, grounded painterly oil texture, tense three-way conflict, no text, no watermark.
 ```
 
-#### `la-fuente-norte-septima-puerta.png`
+#### `la-fuente-norte-ultima-copia.png`
 
 ```text
-Vertical D&D module scene of Miravalle at dusk. Seven mismatched stone gates are dragged toward an impossible alignment by cold white measuring lines and brass survey chains. A stubborn gray prize mule bites and pulls a chain while two sympathetic ogres brace the resisting seventh gate and citizens evacuate. Warm sunset and lantern gold against cold deterministic geometry, grounded painterly realism, no text, no watermark.
+Vertical D&D module chase through Miravalle at blue hour. Silex Varo is clean-shaven with short ash-blond hair, cold gray eyes and a light gray travel coat; he flees with a torn yellow ledger folio and a small white copying crystal. Duquesa pursues while two sympathetic ogres lower a wooden road barrier. Crooked ordinary market streets, warm lamps against cool evening shadows, grounded painterly oil texture, no magical gates, no text, no watermark.
 ```
 
-#### `la-fuente-norte-final-linea-unica.png`
+#### `la-fuente-norte-final-custodio-ruta.png`
 
 ```text
-Vertical climactic D&D encounter in the Plaza de las Siete Entradas. Seven gates form one impossible corridor behind the Agrimensor Imposible, a towering but fightable brass-and-black-stone toll construct with a blank ivory mask divided by one white-blue line, rotating compass chest, measuring staff and orbiting contract chains. Golden commercial seals are overwritten by cold straight-line runes. Grounded dark painterly fantasy, warm lanterns versus precise white-blue magic, no text, no watermark.
+Vertical climactic D&D encounter at an ordinary abandoned northern road checkpoint. The Custodio de la Ruta Cierta is a fightable twelve-foot black-iron and pale-stone construct with a smooth porcelain face divided by one thin white line, a geometric crystal chest, straight-edged polearm and blank map-like shield. One restrained cold-white line marks the muddy road; Silex commands it from behind the toll barrier with the stolen folio. Warm lanterns against cold white magic, grounded dark painterly fantasy, no portals, no text, no watermark.
 ```
+<!-- MUVARIA-DOS-COPIAS-ASSETS-V1 -->
+### El hilo de las dos copias y Lanterra
+
+| Filename | Module use | Suggested Homebrewery treatment |
+| :--- | :--- | :--- |
+| `la-fuente-norte-dos-copias.png` | Guía del DM: Concordancia entre mapa y cristal | Right-side masked full-page still life |
+| `la-fuente-norte-lanterra.png` | City II: Lanterra | Right-side masked city chapter art |
+| `la-fuente-norte-lanterra-farol-borrado.png` | Mission 1: La luz del nombre borrado | Right-side masked encounter art |
+| `la-fuente-norte-lanterra-puente-recuerdos.png` | Mission 2: El puente que cobra recuerdos | Right-side masked emotional encounter |
+| `la-fuente-norte-lanterra-regata.png` | Mission 3: Regata en el Canal Negro | Right-side masked action art |
+| `la-fuente-norte-metusta-hoja-caminante.png` | Metusta: restoration of the Hoja Caminante | Right-side masked magical archive scene |
+| `la-fuente-norte-brammavik-tercera-mano.png` | Brammavik: El contrato de la Tercera Mano | Right-side masked mine and contract scene |
+| `la-fuente-norte-velkora-carta-regreso.png` | Velkora: La carta dirigida a quien regresó | Right-side masked catacomb letter scene |
+| `la-fuente-norte-valle-inventario.png` | Valle: El inventario de quienes no llegaron | Right-side masked route and names scene |
+| `la-fuente-norte-final-rutas.png` | Fuente: La Fuente que ningún camino posee | Right-side masked final convergence scene |
+
+All five images use the Muvaria road-fantasy visual direction: grounded painterly digital oil, warm amber memory and causality light against cold blue water or deterministic magic, no text, no watermark.

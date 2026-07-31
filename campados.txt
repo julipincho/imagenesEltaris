@@ -123,16 +123,17 @@ ___
   - Estructura de niveles, 14
 - Ruta de campaña
   - Miravalle, 15
-  - Lanterra, 26
-  - Metusta, 33
-  - Brammavik, 40
-  - Velkora, 47
+  - Guía de las dos copias, 16
+  - Lanterra, 30
+  - Metusta, 41
+  - Brammavik, 49
+  - Velkora, 55
 - Final
-  - Valle de los Ecos, 54
-  - La Fuente del Norte, 61
-  - Deseos y consecuencias, 66
-  - Tablas de viaje, 69
-  - Apéndice de criaturas, 72
+  - Valle de los Ecos, 61
+  - La Fuente del Norte, 67
+  - Deseos y consecuencias, 73
+  - Tablas de viaje, 75
+  - Apéndice de criaturas, 77
 }}
 
 {{pageNumber,auto}}
@@ -966,7 +967,7 @@ Luego, cuando hable con el grupo, puede decir:
 
 | Etapa | Comportamiento |
 |:--|:--|
-| Miravalle | aparece como patrocinador culto y distante |
+| Miravalle | opera mediante Silex y órdenes firmadas; todavía se mantiene distante |
 | Lanterra | intenta comprar la información que el grupo obtiene |
 | Metusta | ataca indirectamente la Biblioteca para robar el Mapa Palimpsesto |
 | Brammavik | bloquea suministros y ofrece financiar al grupo a cambio de control |
@@ -1262,6 +1263,217 @@ La ciudad debe sentirse cálida, viva y peligrosa, como si cada cartel estuviera
 
 \page
 
+<!-- MUVARIA-DOS-COPIAS-GUIA-V1 -->
+<div class='footnote'>Guía del DM — Las dos copias I</div>
+
+{{imageMaskEdge5,--offset:1%,--rotation:270
+  ![El mapa de Fulka y el Cristal de Replicación](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-dos-copias.png){height:106%,left:205px,top:-25px}
+}}
+
+## Guía de dirección: las dos copias
+
+### Estado actual
+
+El grupo recuperó aquello que le habían robado a **Calo Bronce**, derrotó al Custodio del Mojón Blanco y conservó el **Cristal de Replicación**.
+
+No pudo impedir que **La Línea Recta** escapara con el Inventario de Deseos Menores: el registro de quienes mostraron interés en llegar a la Fuente del Norte.
+
+El cristal contiene una copia exacta de ese Inventario en el momento del robo.
+
+Ambos bandos conocen los mismos nombres.
+
+Solo el grupo conserva el mapa de Fulka.
+
+### La carrera que comienza
+
+La Línea Recta cuenta con espías, constructos y adivinadores. Puede llegar antes, preparar emboscadas y presionar a las personas registradas.
+
+El grupo posee algo que Maer Senn no puede copiar: las relaciones que construya con esas personas y la libertad de elegir un desvío.
+
+{{descriptive
+##### Recapitulación de treinta segundos
+“Calo convirtió las paletas de una subasta en un registro de buscadores de la Fuente. La Línea Recta huyó con el libro, pero ustedes conservaron el cristal que lo copió. Ahora ambos conocen a las mismas personas. Ustedes, además, tienen el mapa de Fulka. La próxima pista apunta a Lanterra, la ciudad de los puentes y los faroles.”
+}}
+
+\column
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Guía del DM — Las dos copias II</div>
+
+## La Concordancia
+
+El Inventario no dice dónde está la Fuente. Dice **quién intentó encontrarla y qué esperaba conseguir**.
+
+El mapa de Fulka no marca una ruta fija. Conserva **decisiones, desvíos y lugares donde un viaje quedó inconcluso**.
+
+Cuando el Cristal de Replicación se coloca sobre el mapa, ambos objetos forman una **Concordancia**.
+
+### Cómo activarla
+
+Una vez por etapa de campaña, durante un descanso largo o frente a un hito importante:
+
+1. El grupo elige un nombre o entrada del Inventario.
+2. Coloca el cristal sobre el mapa.
+3. Expone ambos objetos a un elemento propio del lugar.
+4. El DM revela un **destino**, un **símbolo** y una **advertencia**.
+
+No requiere tirada para entregar la pista principal.
+
+{{note
+##### Qué puede preguntar el grupo
+Una vez por etapa, la Concordancia responde una pregunta:
+
+* ¿Qué facción pasó primero?
+* ¿Qué peligro guarda la pista?
+* ¿Qué quería realmente esta persona?
+
+La respuesta puede ser visual, simbólica o incompleta, pero siempre permite tomar una decisión.
+}}
+
+\column
+
+### Activaciones por etapa
+
+| Etapa | Activador | Revelación |
+|:--|:--|:--|
+| Lanterra | agua iluminada por un farol | un nombre borrado y el Puente Largo |
+| Metusta | tinta de catálogo | el origen del mapa y una página ausente |
+| Brammavik | tercer golpe sobre hierro | una deuda bajo la montaña |
+| Velkora | decimotercera campana | un alias, una carta y una guía |
+| Valle | las tres llaves | huellas de quienes no llegaron |
+| Fuente | agua de la Fuente | el costo del deseo verdadero |
+
+### Sus límites
+
+La Concordancia no localiza criaturas vivas, no predice el futuro y no resuelve dilemas.
+
+Siempre responde:
+
+> “¿Qué destino nos acerca a la Fuente?”
+
+Nunca responde:
+
+> “¿Qué decisión debemos tomar?”
+
+El mapa guía la aventura. Los jugadores siguen siendo quienes eligen el camino.
+
+### La verdad del mapa
+
+El mapa de Fulka es la **Hoja Caminante** del Mapa Palimpsesto de Metusta. No será reemplazado allí: será reconocido, restaurado y ampliado. Es la única hoja que abandonó la Biblioteca y aprendió de caminos reales.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Guía del DM — Las dos copias III</div>
+
+## Una red de intereses
+
+### La Línea Recta
+
+Posee el Inventario original. **Maer Valcor Senn** clasifica a cada interesado como ruta, obstáculo o variable. En cada ciudad intentará llegar primero al nombre revelado y obligarlo a tomar una única decisión.
+
+No busca toda la información.
+
+Busca que nadie pueda actuar fuera de sus cálculos.
+
+### El Consorcio Áureo
+
+Encargó el Inventario a Calo. **Jaska Mir** considera que el libro y el cristal son propiedad comercial robada. Ofrece transporte, suministros y protección, pero cada favor se convierte después en una cláusula sobre el camino o la Fuente.
+
+No quiere destruir la Fuente.
+
+Quiere vender acceso.
+
+### Las Cartas Inclinadas
+
+Las paletas de Calo usan un código de esquinas, números y marcas que aprendió cuando pertenecía a las **Cartas Inclinadas**. Por eso Timo y Lira pueden leer capas que ni Maer ni Jaska comprenden.
+
+Al principio aparecen para evacuar miembros expuestos. Después descubren que conservar caminos libres puede ser la causa más parecida a la lealtad que han tenido nunca.
+
+\column
+
+### Calo Bronce
+
+Calo es la bisagra entre los tres bandos.
+
+* Trabaja para el Consorcio.
+* Robó el código de las Cartas.
+* Creó la herramienta que aprovecha La Línea Recta.
+* Desea no volver a pertenecerle a nadie.
+
+Puede redimirse sin volverse honesto. Su decisión final será emplear una escapatoria para salvarse o para liberar a otras personas de deudas semejantes a la suya.
+
+### Las demás facciones
+
+**Orden del Voto Blanco.** Descubre la carrera en Metusta e intenta impedir que ambas copias lleguen al Valle.
+
+**Hijos del Pozo.** Quieren que todos los buscadores alcancen la Fuente cargados de deseos incompatibles.
+
+**Casa Vardemir.** Compra información al Consorcio y ofrece influencia política a cambio de prioridad sobre la ruta.
+
+{{note
+##### Principio de diseño
+Ninguna facción posee toda la verdad. Cada una ofrece algo útil, exige algo peligroso y tiene al menos una persona capaz de cambiar de postura por las acciones del grupo.
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Guía del DM — Las dos copias IV</div>
+
+## El Inventario en juego
+
+No hace falta interpretar centenares de nombres. Estas entradas sostienen la ruta principal.
+
+| Entrada | Interés registrado | Verdad oculta |
+|:--|:--|:--|
+| Sivia Rencor | farol que recuerde un nombre borrado | compró información para el Consorcio y decidió guardarla |
+| Caldrio Hume | referencia verificable al Valle | su fuente fue una página del Palimpsesto |
+| Harn Ojo de Mina | veta que canta como agua | encontró una filtración de la Fuente |
+| “Todavía No” | carta que pruebe que eligió regresar | es el nombre de invierno de Noma Sinmaleta |
+| Timo Dos Veces | el lote que todos miraran | quería saber qué Cartas fueron expuestas |
+| Calo Bronce | toda deuda posee un último dueño | desea dejar de pertenecer al Consorcio |
+| Aventureros | objetos, reacciones y acompañantes | el registro captó deseos que no expresaron |
+
+### Reloj de la carrera
+
+Cada misión conductora comienza con **0 de 3 marcas**.
+
+Avanzá una marca si el grupo abandona públicamente la pista, falla con un costo grave o deja escapar información nueva. No avances por investigar, interpretar pistas o jugar misiones secundarias.
+
+Las Cartas, una mentira convincente o volver a un agente contra su facción pueden retirar una marca.
+
+\column
+
+| Marcas | Situación al llegar |
+|:--:|:--|
+| 0 | El grupo llega primero y elige terreno. |
+| 1 | Hay vigilancia; el contacto sigue libre. |
+| 2 | El contacto fue presionado o hay una emboscada. |
+| 3 | El contacto fue capturado o sustituido. La escena se vuelve rescate. |
+
+{{note
+##### Regla de fracaso
+Perder la carrera nunca borra una pista. Cambia una conversación por un rescate, una negociación por un asalto o una ruta segura por otra peligrosa.
+}}
+
+### Escena puente: el cuarto golpe
+
+Antes de abandonar Miravalle, Calo examina el cristal. Golpea tres veces cerca de él. No ocurre nada. Duquesa golpea el suelo con una pezuña y ese cuarto sonido hace aparecer todas las letras copiadas.
+
+> “Silex se llevó el libro. Ustedes se quedaron con todo lo que el libro sabía en ese momento. Técnicamente, convertimos un robo en un problema de distribución.”
+
+Sobre el mapa surge agua dibujando los canales de Lanterra. En uno de ellos aparece una esquina de naipe inclinada.
+
+{{pageNumber,auto}}
+
+\page
+
 <div class='footnote'>Miravalle — Ciudad I</div>
 
 ## Miravalle — La puerta torcida
@@ -1352,61 +1564,6 @@ Todo vendedor jura que su objeto perteneció a alguien famoso. La mayoría es fa
 El grupo necesita permiso para unirse a una caravana hacia Lanterra, pero el costo es demasiado alto y el camino está bloqueado por peajes ilegales. Toren ofrece ayuda si despejan el camino; Bruna sugiere comprar un mapa raro; Nerin propone ganar una mula en un concurso de tartas.  
 La mula será importante.
 }}
-
-{{pageNumber,auto}}
-
-\page
-
-<div class='footnote'>Miravalle — Hoja rápida del DM</div>
-
-## Hoja rápida: hacer que todo cuadre
-
-**Estado previsto para este cierre:** el grupo resolvió el peaje de Brom y Gruda, consiguió a Duquesa, vio a la Línea Recta durante la subasta y dejó pendiente a Calo Bronce.
-
-### La verdad en una frase
-
-El **Consorcio Áureo** encareció los caminos para cobrar por ellos. La **Línea Recta** quiere secuestrar esa infraestructura y convertir las siete salidas de Miravalle en una sola ruta previsible. **Calo es la bisagra entre los planes, no su aliado común.**
-
-### Lo jugado vuelve
-
-* **Ogros:** el libro de los bandidos lleva el código F-7, Aforo de Siete Puertas. Brom, Gruda o el pase obtenido pueden romper un anclaje final.
-* **Mula:** Duquesa muerde al mensajero de Calo y luego reconoce las cadenas de agrimensura. Puede desactivar una capacidad del jefe, pero necesita que el grupo le abra paso.
-* **Mapa:** cerca de la Línea Recta dibuja una línea blanca que atraviesa siete arcos. Revela intención, no solución.
-* **Calo:** su Inventario demuestra que seis puertas ya tienen concesiones comerciales y que la séptima sigue siendo pública.
-
-{{note
-##### Regla de dirección
-No escondas una revelación necesaria detrás de una tirada. La tirada da rapidez, contexto o ventaja; la pista mínima aparece siempre.
-}}
-
-\column
-
-### Orden de la próxima sesión
-
-1. **El tercer golpe:** seguir a Calo al Depósito Nueve.
-2. **La página de concesiones:** decidir qué hacer con Calo y descubrir el plan de las puertas.
-3. **La carta que no llegó:** recuperar el título de la séptima puerta.
-4. **La noche de la Línea Única:** romper anclajes y enfrentar al Agrimensor Imposible.
-5. **Salida:** nivel 6 y ruta segura hacia Lanterra.
-
-### Qué revelar y qué guardar
-
-| Revelar ahora | Guardar para después |
-|:--|:--|
-| Las facciones compiten | El origen divino de Nerin |
-| El Consorcio compró seis puertas | La verdad completa de la Fuente |
-| La Línea quiere una sola ruta | El plan final de Maer Senn |
-| Calo no conocía todo el plan | Si Jaska lo considera descartable |
-
-### Si los jugadores se desvían
-
-* Si no persiguen a Calo, Toren recibe el vale mordido y pide ayuda.
-* Si Calo escapa, una paleta conserva calcada la página importante.
-* Si destruyen el Inventario, una armadura repite en voz alta su última entrada.
-* Si pierden la carta, el jefe aparece completo, pero los anclajes siguen accesibles.
-* Si capturan a Silex, la orden ya fue enviada y el jefe aparece debilitado.
-
-El fracaso cambia la dificultad o las relaciones. **Nunca cancela el cierre.**
 
 {{pageNumber,auto}}
 
@@ -1532,55 +1689,56 @@ Fragmento real del camino hacia Metusta, contacto con Fulka, primer encuentro cl
 
 ### Gancho
 
-Cuando termina el caos de la subasta, Fulka descubre que el hombre que la dirigía usó una licencia falsa. **Calo Bronce** se llevó la recaudación, las garantías de los vendedores y todas las paletas de puja. No escapó solo con dinero: escapó con los nombres de quienes están dispuestos a pagar por una ruta al Norte.
+Al terminar la subasta, Fulka descubre que **Calo Bronce** usó una licencia falsa y huyó con la recaudación, las garantías y las paletas de puja. Las monedas son el beneficio inmediato. Las paletas son el verdadero trabajo.
 
-### Lo que ocurrió realmente
+### Qué está haciendo Calo
 
-Calo trabaja como liquidador irregular del **Consorcio Áureo**. Preparó el apagón y colocó varios objetos animados para vaciar el mercado. El intento de la Línea Recta de robar el mapa no formaba parte del plan y casi lo arruina.
+Cada paleta registró nombre, objeto deseado y oferta máxima. El Consorcio llama al resultado **Inventario de Deseos Menores**: una lista de expedicionarios, coleccionistas y personas dispuestas a pagar por información sobre el Norte.
 
-Cada paleta registró el nombre del postor, el lote deseado y su oferta máxima. Calo debe llevarlas al **Depósito Nueve** antes de medianoche y convertirlas en el Inventario de Deseos Menores.
+Calo debe cerrar el Inventario en el **Depósito Nueve** antes de medianoche. No organizó el intento de la Línea Recta de robar el mapa; las dos operaciones coincidieron y ahora se estorban.
 
-Una página registra derechos de paso. Seis puertas de Miravalle ya figuran bajo concesiones del Consorcio; la séptima sigue marcada como dominio público.
+### Encontrar el depósito
 
-### Seguir el martillo
+Entregá dos o tres pistas, sin exigir una tirada única:
 
-* Una gota de cera gris oculta el sol partido del Consorcio.
-* Duquesa muerde a un mensajero que lleva un vale para el Depósito Nueve.
-* Timo reconoce los tres golpes del martillo y revela el pasado de Calo si recibe una página del inventario.
-* El código **F-7** del libro de los bandidos significa Aforo de Siete Puertas.
+* Duquesa muerde a un mensajero que oculta un vale del Depósito Nueve.
+* La licencia falsa tiene cera gris sobre el sol partido del Consorcio.
+* Timo reconoce los tres golpes y el antiguo alias de Calo: Tercera Mano.
+* Monedas con polvo azul marcan el camino porque Nerin cree que alguien derramó azúcar.
 
-### El Depósito Nueve
+### Dentro del Depósito Nueve
 
-Parece una oficina municipal de bienes perdidos. En realidad almacena mercancía embargada, identidades falsas y contratos que nadie recuerda haber firmado. Calo todavía está allí porque debe apoyar cada moneda sobre el inventario para validarlo.
+* **Recepción:** una puerta pide nombrar algo que jamás venderías.
+* **Galería:** 2 Animated Armors custodian bienes embargados.
+* **Sala de cierre:** Calo valida las paletas sobre un libro amarillo, protegido por 4 Thugs o Guards.
 
-Obstáculos sugeridos: una puerta que exige declarar qué objeto jamás venderías, 2 Animated Armors con etiquetas de precio y 4 Thugs disfrazados de tasadores.
+### El choque de tres bandos
 
-### La oferta real
+**Silex Varo**, el agente rubio y afeitado de la subasta, llega por su cuenta. No quiere el dinero ni todo el libro. Busca el **Folio 17: Expediciones hacia el Norte**, donde aparecen el grupo, el mapa de Fulka, la reacción de Nerin y los posibles destinos siguientes.
 
-Al llegar el grupo, **Silex Varo**, el Spy de la Línea Recta visto en la subasta, intenta apoderarse de la página **Concesiones de entrada**. Calo comprende que su operación fue aprovechada sin su conocimiento y propone una alianza inmediata:
-
-> “Podemos discutir quién estafó a quién después de impedir que esa gente vuelva ilegal la negociación.”
-
-Si aceptan, lucha solo para abrir rutas de escape. Si rechazan, la escena se convierte en un conflicto de tres bandos. Nerin descubre que su paleta quedó sin firmar; al colocarla sobre el libro, todos los contratos de la subasta quedan temporalmente suspendidos.
+Silex usa un cristal blanco para copiar el folio y huye hacia el antiguo peaje norte. Calo propone ayudar al grupo a impedirlo: el Consorcio quiere vender esa información; la Línea Recta quiere que nadie más pueda usarla.
 
 {{note
 ##### Pista que siempre sobrevive
-La página menciona la **Carta de Tránsito Vintia**, título mágico de la séptima puerta. Aunque el libro arda o alguien escape, la información queda calcada en una paleta o grabada en una armadura. Conduce a la Misión 4.
+Aunque Calo escape o el Inventario sea destruido, el cristal conserva la copia y una armadura repite: “Entrega autorizada: Mojón Blanco, camino norte”. Esto conduce directamente a **La última copia**.
 }}
 
-### Resoluciones
+### Casualidad de Nerin
 
-* **Entregar a Calo:** Toren recupera casi todo el dinero. Si Calo debe volver, su celda queda cerrada y vacía después de tres golpes nocturnos.
-* **Negociar:** devuelve la recaudación menos una “comisión razonable”, entrega una página del inventario y promete un favor futuro.
-* **Robar el inventario:** el grupo descubre compradores de varias facciones, pero Jaska Mir empieza a interesarse personalmente en ellos.
-* **Salvarlo y dejarlo ir:** Calo se convierte en aliado situacional. Ayudará una vez y cobrará cuando más incomode.
+La paleta de Nerin quedó sin firmar porque la usó como abanico. Al apoyarla sobre el libro, suspende los contratos durante diez minutos. El grupo puede abrir la caja, borrar nombres o liberar bienes; Nerin no decide cuál opción tomar.
 
-**Recompensa:** dinero recuperado, una pista sobre el Consorcio o la Línea Recta, 1 Punto de Travesía si protegen a los estafados y la enemistad o deuda de Calo Bronce.
+### Decisiones sobre Calo
+
+* **Arrestarlo:** Toren recupera el dinero; Calo puede escapar más adelante.
+* **Negociar:** devuelve casi todo, entrega una página y queda debiendo un favor.
+* **Salvarlo de Silex:** ayuda durante la persecución, pero conserva información propia.
+* **Destruir el Inventario:** protege a los postores y enemista al grupo con el Consorcio.
+
+**Recompensa:** dinero recuperado, 1 Punto de Travesía si protegen a los estafados, información sobre ambas facciones y la deuda, enemistad o posible ayuda de Calo.
 
 {{pageNumber,auto}}
 
 \page
-
 <div class='footnote'>Miravalle — Misión 3</div>
 
 
@@ -1634,34 +1792,58 @@ El grupo puede ganar o perder. Pero Nerin termina quedándose con Duquesa porque
 <div class='footnote'>Miravalle — Misión 4</div>
 
 {{imageMaskEdge5,--offset:1%,--rotation:270
-  ![La séptima puerta de Miravalle](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-septima-puerta.png){height:104%,left:210px,top:-20px}
+  ![La última copia](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-ultima-copia.png){height:104%,left:210px,top:-20px}
 }}
 
-## Misión 4: La carta que no llegó
-### La séptima puerta no se vende
+## Misión 4: La última copia
 
-> *Seis campanas responden desde calles distintas. Duquesa muerde una cadena de bronce. Al final de la cadena, una puerta entera empieza a moverse.*
+> *Silex corre con una hoja amarilla en una mano y un cristal blanco en la otra. Duquesa sale detrás de él antes de que nadie termine de gritar “deténganlo”.*
 
-Pero Vintia creía haber perdido un salvoconduct. La **Carta de Tránsito Vintia** es en realidad el título mágico que mantiene pública la séptima puerta. Las otras seis ya fueron cedidas, hipotecadas o concesionadas al Consorcio Áureo.
+### Qué robó
 
-**Silex Varo**, el agente de la Línea Recta visto en la subasta, obtuvo del Inventario la ubicación de cada concesión. Quiere reunirlas y ordenar al antiguo **Contador de Caminos** que alinee las siete puertas.
+El **Folio 17** no explica la Fuente. Reúne algo más inmediatamente peligroso:
 
-La Línea Recta está secuestrando una máquina comercial del Consorcio. No son aliados: el Consorcio quiere siete rutas cobrables; Silex quiere una sola ruta inevitable.
+* los nombres y descripciones del grupo;
+* el interés de cada personaje durante la subasta;
+* una nota sobre la reacción del mapa ante Nerin;
+* referencias a Lanterra y al Mapa Palimpsesto de Metusta.
 
-### Tres escenas
+Si la Línea Recta lo recibe, podrá anticipar la ruta del grupo, presionar a sus contactos e identificar a Nerin como una anomalía antes de que ellos entiendan por qué.
 
-1. **Oficina de Pero:** el registro revela que Lira de Cinco Llaves robó la carta.
-2. **La copia torcida:** Lira vendió el original a Silex, pero guardó una copia. Puede entregarla por gratitud, pago o una promesa a las Cartas Inclinadas.
-3. **Carrera entre puertas:** desafío de 5 éxitos antes de 3 fallos, CD 13–14. Atletismo sostiene arcos, Arcana corta líneas, Investigación anticipa movimientos, Persuasión evacua y herramientas de ladrón sueltan cadenas.
+### La persecución
 
-El pase F-7, la copia de Lira o una página del Inventario dan un éxito automático, una vez cada uno. Los fallos causan daño, separan al grupo o adelantan la crisis; nunca bloquean el final.
+Silex atraviesa el Mercado de Historias y toma el camino viejo hacia el **Peaje del Mojón Blanco**, donde un correo y un Custodio esperan la entrega.
+
+Corré un desafío de **5 éxitos antes de 3 fallos**, CD 13–14. No permitas usar la misma competencia dos veces seguidas.
+
+* Atletismo para atravesar puestos o levantar una barrera.
+* Acrobacias para cortar por tejados y pasarelas.
+* Investigación para anticipar el siguiente giro.
+* Percepción para no perder el reflejo del cristal.
+* Persuasión para despejar la calle.
+* Supervivencia para seguir el rastro fuera de la ciudad.
+
+Cada fallo provoca 2d6 de daño, una separación breve o una ventaja para Silex; nunca termina la persecución.
+
+### Lo que aportan las misiones anteriores
+
+* **Duquesa:** seguir al mensajero concede un éxito automático.
+* **Brom y Gruda:** si son aliados, bajan una barrera y conceden otro éxito.
+* **Timo o Lira:** revelan un atajo; una prueba se hace con ventaja.
+* **Mapa de Fulka:** muestra el camino viejo cuando se moja.
+
+Cada recurso se usa una sola vez. Los jugadores deben decidir cuándo.
+
+### Silex en la escena
+
+Usa el perfil de **Spy**, con CA 15, 45 PG y *misty step* 2/día. Silex no combate hasta morir. Si queda acorralado, arroja el cristal al correo o activa al Custodio antes de tiempo.
+
+> “No necesito su mapa. Necesito que nadie más pueda elegir qué hacer con él.”
 
 {{note
 ##### Resultado
-Si recuperan el original, el Agrimensor comienza con 20 PG menos y sin acción de guarida en la ronda 1. Si solo tienen la copia, desactivan automáticamente un anclaje. Si Silex conserva ambas, el jefe aparece completo, pero puede ser debilitado durante la pelea.
+Con 5 éxitos, el Custodio comienza con 20 PG menos y no puede usar Cálculo de trayectorias en la ronda 1. Con 3 fallos, usa su perfil completo y un correo intenta escapar con el cristal durante el combate. La historia llega al mismo lugar; cambia la presión.
 }}
-
-Silex usa el perfil de Spy con CA 15, 45 PG y *misty step* 2/día. No lucha hasta morir. Si lo capturan, la orden ya fue enviada, pero queda incompleta.
 
 {{pageNumber,auto}}
 
@@ -1670,613 +1852,697 @@ Silex usa el perfil de Spy con CA 15, 45 PG y *misty step* 2/día. No lucha hast
 <div class='footnote'>Miravalle — Evento final</div>
 
 {{imageMaskEdge5,--offset:1%,--rotation:270
-  ![El Agrimensor Imposible](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-final-linea-unica.png){height:105%,left:205px,top:-20px}
+  ![El Custodio de la Ruta Cierta](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-final-custodio-ruta.png){height:105%,left:205px,top:-20px}
 }}
 
-## La noche de la Línea Única
+## El camino que no admite desvíos
 
-> *Las siete puertas se ven a la vez. Una detrás de otra forman un corredor que no debería caber en la ciudad. Bajo la plaza, algo cuenta hasta siete.*
+> *El peaje norte está clausurado, pero una lámpara sigue encendida. Frente a la barrera hay una figura de hierro negro y piedra pálida. Una línea blanca divide el barro bajo sus pies. Detrás, Silex entrega el cristal a un correo que ya tiene el caballo ensillado.*
 
-El **Agrimensor Imposible** era el Contador de Caminos municipal, construido para medir tránsito y evitar derrumbes. Las concesiones del Consorcio le dieron autoridad sobre seis puertas. La magia de la Línea Recta convirtió toda alternativa en un error que debe corregir.
+### Qué está ocurriendo
 
-### Objetivos del combate
+El **Custodio de la Ruta Cierta** es un constructo de la Línea Recta enviado para proteger operaciones de extracción. No controla Miravalle ni sus puertas. Su orden es sencilla: asegurar el Folio 17, capturar el mapa si aparece y mantener abierto el camino del correo.
 
-1. Proteger la plaza y completar la evacuación.
-2. Romper tres anclajes que alimentan al constructo.
-3. Impedir que las puertas terminen de fusionarse.
-4. Elegir a quién salvar o perseguir cuando Silex, Calo y el mapa queden en peligro al mismo tiempo.
+Este es el primer enfrentamiento directo con el método de Maer Senn: observar, calcular y usar fuerza precisa cuando todas las variables parecen conocidas.
+
+### Objetivos del grupo
+
+1. Impedir que el correo abandone el peaje con el cristal.
+2. Derrotar o inutilizar al Custodio.
+3. Capturar, expulsar o dejar escapar a Silex.
+4. Decidir después qué hacer con Calo y el Inventario original.
 
 ### Campo de batalla
 
-* **Corredor blanco:** terreno difícil; terminar turno sobre él causa 1d6 de fuerza.
-* **Fuente seca:** cobertura media. La moneda de entrada señala el anclaje más cercano.
-* **Pedestal de aforo:** una criatura adyacente puede gastar su acción para romper un anclaje, CD 14.
-* **Séptima puerta:** Brom y Gruda pueden sostenerla. Si cae, el daño del corredor aumenta a 2d6.
+* **Línea blanca:** terreno difícil. Terminar turno sobre ella causa 1d6 de fuerza.
+* **Dos carros detenidos:** cobertura media y espacio para esconderse o trepar.
+* **Barrera del peaje:** puede bajarse con una acción y Fuerza CD 14, bloqueando al correo.
+* **Caseta abandonada:** contiene el foco de mando; Arcana o herramientas de ladrón CD 15 desactivan Cálculo de trayectorias durante una ronda.
+* **Zanja lateral:** ofrece un camino fuera de la línea y cobertura ligera.
 
-### Los tres anclajes
+### Ayudas ganadas
 
-| Anclaje | Recurso | Capacidad anulada |
-|:--|:--|:--|
-| Aforo F-7 | Pase u ogros | 7 PG temporales por turno |
-| Cadena | Duquesa o Atletismo | Cadena de cobro |
-| Concesiones | Carta o martillo de Calo | Reacción predictiva |
+* Brom y Gruda contienen a los refuerzos; si no son aliados, aparecen 2 Spies en la ronda 3.
+* Duquesa puede derribar al correo cuando un personaje le abra paso.
+* Calo conoce una entrada contradictoria del Inventario: una vez, obliga al Custodio a perder su reacción.
+* Nerin descubre la zanja o el paso menos evidente. El grupo decide cuándo usarlo para moverse sin ataques de oportunidad.
 
-Brom, Gruda y Duquesa no ganan el combate. Cada aliado necesita que un personaje le abra paso, presente el objeto o gaste una acción.
-
-### Nerin
-
-Una vez, Nerin nota un pliegue imposible en el mapa. El grupo decide si eso concede un éxito automático contra un anclaje o ventaja a todos contra un uso del ataque de línea. Ella abre una posibilidad; los jugadores la convierten en acción.
+Silex ordena, se protege y huye si el Custodio baja de la mitad de sus PG. No lo conviertas en un segundo jefe.
 
 {{pageNumber,auto}}
 
 \page
 
-<div class='footnote'>Miravalle — Agrimensor Imposible</div>
+<div class='footnote'>Miravalle — Custodio de la Ruta Cierta</div>
 
-## Agrimensor Imposible
-
-*Constructo Grande, sin alineamiento*  
-**CA** 18; **PG** 136; **velocidad** 9 m  
-**Fue** 20 (+5), **Des** 9 (−1), **Con** 18 (+4), **Int** 10 (+0), **Sab** 14 (+2), **Car** 5 (−3)  
-**Salvaciones** Fue +8, Con +7, Sab +5  
-**Resistencias** psíquico; daño físico no mágico mientras conserve dos anclajes  
-**Inmunidades de condición** asustado, hechizado, envenenado, paralizado, petrificado  
-**Desafío sugerido** 8
-
-### Rasgos
-
-**Resistencia legendaria (1/día).** Convierte una salvación fallida en éxito.
-
-**Recaudación automática.** Con F-7 activo, gana 7 PG temporales al comienzo de su turno.
-
-**Segunda fase.** Al bajar de 68 PG, su CA pasa a 16 y deja de ganar PG temporales, pero recarga inmediatamente Trazar la única ruta.
-
+{{monster,frame,wide
+## Custodio de la Ruta Cierta
+*Constructo Grande, legal neutral*
+___
+**Clase de Armadura** :: 19 (placas de hierro predictivo)
+**Puntos de Golpe**    :: 168 (16d10 + 80)
+**Velocidad**          :: 35 pies
+___
+|  FUE  |  DES  |  CON  |  INT  |  SAB  |  CAR  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|22 (+6)|12 (+1)|20 (+5)|10 (+0)|14 (+2)|6 (−2)|
+___
+**Tiradas de Salvación** :: Fue +10, Con +9, Sab +6
+**Habilidades**           :: Percepción +6
+**Resistencias al Daño**  :: frío, fuego, relámpago
+**Inmunidades al Daño**   :: psíquico, veneno
+**Inmunidades a Estados** :: asustado, hechizado, envenenado, exhausto, paralizado, petrificado
+**Sentidos**              :: visión en la oscuridad 120 pies, Percepción pasiva 16
+**Idiomas**               :: entiende común y los códigos de la Línea Recta, pero no habla
+**Desafío**               :: 9 (5.000 PX) {{bonus **Bonificador por Competencia** +4}}
+___
+***Forma Inmutable.*** El Custodio es inmune a cualquier conjuro o efecto que altere su forma.
+:
+***Resistencia Legendaria (2/día).*** Si falla una tirada de salvación, puede elegir superarla.
+:
+***Resistencia Mágica.*** Tiene ventaja en tiradas de salvación contra conjuros y otros efectos mágicos.
+:
+***Protocolo de Extracción.*** El Custodio conoce en todo momento la dirección del cristal blanco mientras se encuentre a 1 milla. No puede ser sorprendido y tiene ventaja en su tirada de iniciativa.
+:
+***Predicción Rota.*** La primera vez que queda con 84 PG o menos, la línea de su máscara se quiebra. Su CA pasa a 17, pierde Cálculo de Trayectorias, termina sobre sí mismo una condición y recarga inmediatamente Línea de Intercepción. Hasta el final del combate puede usar Línea de Intercepción como acción legendaria gastando 3 acciones.
 ### Acciones
+***Ataque Múltiple.*** Realiza dos ataques de Hoja de Corrección. Puede reemplazar uno por Golpe de Escudo.
+:
+***Hoja de Corrección.*** *Ataque de arma cuerpo a cuerpo:* +10 al ataque, alcance 10 pies, un objetivo. *Impacto:* 17 (2d10 + 6) de daño cortante más 3 (1d6) de daño de fuerza.
+:
+***Golpe de Escudo.*** *Ataque de arma cuerpo a cuerpo:* +10 al ataque, alcance 5 pies, un objetivo. *Impacto:* 15 (2d8 + 6) de daño contundente. El objetivo debe superar una salvación de Fuerza CD 16 o es empujado 10 pies y queda derribado.
+:
+***Línea de Intercepción (Recarga 5–6).*** El Custodio proyecta una línea de 60 pies de largo y 5 pies de ancho. Cada criatura en ella realiza una salvación de Destreza CD 16. Si falla, recibe 28 (8d6) de daño de fuerza, es empujada 10 pies y su velocidad se vuelve 0 hasta el comienzo de su siguiente turno. Si supera, recibe la mitad y no sufre los otros efectos.
+### Reacciones
+***Cálculo de Trayectorias.*** Cuando una criatura que puede ver realiza un ataque contra él, el Custodio impone desventaja a la tirada. Si el ataque falla, puede moverse hasta 10 pies sin provocar ataques de oportunidad. No puede usar esta reacción durante la ronda posterior a que Calo introduzca una contradicción o alguien manipule el foco de la caseta.
+### Acciones Legendarias
+El Custodio puede realizar 3 acciones legendarias, eligiendo entre las siguientes opciones. Solo puede usar una a la vez y únicamente al final del turno de otra criatura. Recupera las acciones gastadas al comienzo de su turno.
+:
+***Paso Calculado (Cuesta 1 acción).*** Se mueve hasta la mitad de su velocidad sin provocar ataques de oportunidad.
+:
+***Muro de Escudo (Cuesta 1 acción).*** Obtiene +2 a la CA contra el siguiente ataque que lo tenga como objetivo antes del comienzo de su turno.
+:
+***Hoja de Corrección (Cuesta 2 acciones).*** Realiza un ataque de Hoja de Corrección.
+}}
 
-**Ataque múltiple.** Dos ataques de Bastón de medida.
+{{pageNumber,auto}}
 
-**Bastón de medida.** +8 al ataque, alcance 3 m; 2d8 + 5 contundente más 1d6 de fuerza.
+\page
 
-**Cadena de cobro (recarga 4–6).** Hasta dos criaturas a 9 m, Destreza CD 15. Al fallar: 2d6 + 5 contundente, arrastrada 3 m y apresada. Escapar requiere una acción y Atletismo o Acrobacias CD 15.
+<div class='footnote'>Miravalle — Dirección del combate final</div>
 
-**Trazar la única ruta (recarga 5–6).** Línea de 18 m por 1,5 m; Destreza CD 15. Inflige 4d8 + 4 de fuerza y empuja 3 m; mitad de daño sin empuje con éxito.
+## Cómo dirigir al Custodio
 
-**Resultado previsto (reacción).** Impone desventaja a un ataque que vea. Si falla, se mueve 3 m sin provocar ataques de oportunidad.
+El Custodio no es una bolsa inmóvil de PG. Su objetivo es **mantener despejado el camino del correo**, no matar indiscriminadamente.
+
+### Ritmo sugerido
+
+* **Ronda 1:** ocupa el centro del camino, usa Golpe de Escudo para apartar personajes y protege al correo.
+* **Ronda 2:** usa Línea de Intercepción si puede alcanzar a dos o más objetivos; Silex intenta entregar el cristal.
+* **Ronda 3:** avanza hacia el personaje que lleve el mapa o bloquea la barrera.
+* **Mitad de PG:** se activa Predicción Rota. Describí la máscara quebrándose y el combate volviéndose menos preciso, pero más violento.
+
+No concentres todos sus ataques sobre un personaje caído. Es una máquina de control y extracción, no un verdugo sin criterio.
+
+### Ventajas ganadas durante Miravalle
+
+* **Persecución exitosa:** comienza con 148 PG y no usa Cálculo de Trayectorias en la ronda 1.
+* **Brom y Gruda aliados:** no aparecen los 2 Spies de refuerzo.
+* **Duquesa con paso libre:** derriba al correo; el cristal permanece en el campo de batalla.
+* **Calo colaborando:** una vez, desactiva Cálculo de Trayectorias durante una ronda completa.
+* **Foco de la caseta:** Arcana o herramientas de ladrón CD 15 producen el mismo efecto que Calo.
+* **Nerin y el mapa:** una vez, el grupo puede moverse la mitad de su velocidad sin provocar ataques de oportunidad.
 
 \column
 
-### Acciones legendarias
+### Ajuste por tamaño del grupo
 
-Tiene 2 por ronda, al final del turno de otra criatura.
+| Grupo | Modificación |
+|:--|:--|
+| 3–4 PJ de nivel 5 | 140 PG, 1 Resistencia Legendaria y 2 acciones legendarias por ronda |
+| 5 PJ de nivel 5 | Perfil completo |
+| 4–5 PJ de nivel 6 | 185 PG |
+| 6 o más PJ | 190 PG y 2 Spies desde la ronda 1 |
 
-* **Paso calculado (1):** se mueve media velocidad.
-* **Cerrar el ángulo (1):** un espacio de 3 m se vuelve terreno difícil hasta la ronda siguiente.
-* **Bastón (2):** realiza un ataque de Bastón.
+No aumentes a la vez PG, refuerzos y acciones legendarias. El perfil completo ya es un encuentro **mortal** para cuatro personajes de nivel 5 si llegan sin recursos o aliados.
 
-### Acción de guarida, iniciativa 20
+### Decisiones después del combate
 
-Elegí una distinta cada ronda: una puerta derriba y desplaza a una criatura, una línea causa 2d8 de fuerza con Destreza CD 14, o las cadenas atraen 3 m con Fuerza CD 14. Termina al romper dos anclajes.
+* **Entregar el Inventario a Toren:** protege a los postores y da legitimidad local.
+* **Destruirlo:** corta la operación; el Consorcio considera al grupo responsable.
+* **Conservar una página:** ofrece ventaja futura y hace que ambas facciones los vigilen.
+* **Negociar con Calo:** consigue un contacto útil a cambio de una deuda.
+* **Arrestar a Calo:** recupera casi todo el dinero; puede escapar más adelante.
 
-### Ajuste
+### Lo que el grupo aprende
 
-* **3–4 PJ de nivel 5:** 115 PG, 1 acción legendaria, sin esbirros.
-* **5 PJ o nivel 6:** perfil normal.
-* **6 o más:** 155 PG y 2 Animated Armors en ronda 2.
+Las órdenes de Silex están firmadas **M. V. S.** La Línea Recta sabe que el mapa es auténtico y que Nerin altera su tinta, pero todavía desconoce la razón. El siguiente lugar capaz de interpretar el fragmento es **Metusta**; para llegar, primero necesitan tomar una caravana legítima desde **Lanterra**.
 
-No aumentes PG, esbirros y acciones a la vez.
-
-### Consecuencias
-
-Al caer el Agrimensor, las puertas vuelven a su sitio. La séptima revela una ruta hacia Lanterra. Toren anula las concesiones; Jaska Mir culpa al grupo por destruir una inversión, y la Línea Recta confirma que Nerin y el mapa alteran caminos.
-
-Si Silex escapa, deja una tarjeta:
-
-> *“Siete puertas para una ciudad que necesita una. Conservan alternativas porque todavía no han contado su costo. — M. V. S.”*
-
-### Recompensa y salida
+### Recompensas y salida
 
 * Nivel 6 y los Puntos de Travesía que falten.
-* Ruta segura y salvoconduct hacia Lanterra.
-* **Sello de la Séptima Puerta:** una vez por tramo, cancela un peaje ilegal o permite repetir una prueba para no perderse.
+* **Salvoconducto de Miravalle**, válido hasta Lanterra.
+* Ruta y horario de una caravana legítima.
+* Favor de Toren y de los aliados a quienes protegieron.
 
-> *Miravalle vuelve a tener demasiadas entradas. Duquesa se sienta sobre el último eslabón. En la fuente seca cae la moneda que dejaron al llegar. Ahora dice: **NORTE**.*
+> *Miravalle vuelve a sonar como una ciudad y no como una persecución. En la fuente seca cae la moneda que dejaron al llegar. Ahora tiene una palabra grabada: **NORTE**.*
 
 {{pageNumber,auto}}
 
 \page
+<!-- MUVARIA-LANTERRA-DOS-COPIAS-V1 -->
 <div class='footnote'>Lanterra — Ciudad II</div>
+
+{{imageMaskEdge5,--offset:0%,--rotation:270
+  ![Lanterra, la ciudad de los puentes y los faroles](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-lanterra.png){height:106%,left:205px,top:-25px}
+}}
 
 # 12. Ciudad II: Lanterra
 ## La ciudad de los puentes y los faroles
 
-<!-- Imagen pendiente: IMAGEN_PENDIENTE - Imagen: ciudad nocturna de canales, puentes altos y miles de faroles reflejados en el agua -->
-
-**Nivel sugerido:** 6  
-**Función narrativa:** convertir el viaje en una competencia; mostrar que el agua, los recuerdos y los deseos están conectados.  
-**Puntos de Travesía requeridos para salir:** 3  
-**Recompensa principal:** ruta fluvial hacia Metusta, pista sobre la Llave del Nombre, 3 Puntos de Travesía.  
-**Monstruos sugeridos:** Will-o'-Wisps, Shadows, Crocodiles, Giant Crocodile, Merrow, Water Weird, Sea Hag, Green Hag, Ettercaps, Giant Spiders, Wererats, Kenku, Bandits.
+**Nivel sugerido:** 6<br>
+**Función narrativa:** convertir el viaje en una carrera, presentar a las Cartas Inclinadas como facción y relacionar agua, memoria y deseo.<br>
+**Puntos de Travesía requeridos:** 3<br>
+**Recompensa principal:** ruta fluvial a Metusta, Código de la Esquina Inclinada y primera Concordancia completa.
 
 Lanterra fue construida sobre un delta de ríos lentos.
 
-La ciudad está hecha de puentes.
+No tiene calles principales.
 
-Puentes de piedra.
+Tiene puentes.
 
-Puentes de madera.
+Puentes de piedra, madera y cuerda. Puentes privados. Puentes que se alquilan por hora. Puentes que solo existen con marea baja. Puentes que recuerdan quién los cruzó.
 
-Puentes colgantes.
+Cada casa posee un farol.
 
-Puentes privados.
+Cada farol guarda un nombre.
 
-Puentes que se alquilan por hora.
+Y desde hace tres noches, algunos nombres están desapareciendo.
 
-Puentes que solo existen cuando la marea baja.
+> “En Lanterra una luz no sirve para ver. Sirve para encontrar el camino de regreso.”
 
-Puentes que nadie usa porque se rumorea que recuerdan tus pasos.
+### Situación al llegar
 
-Cada casa tiene un farol.
+Las lluvias cerraron la ruta terrestre a Metusta. Para continuar, el grupo necesita una barcaza, un permiso fluvial y una tripulación capaz de cruzar el Canal Negro.
 
-Cada farol tiene un nombre.
+Mientras buscan las tres cosas, el cristal proyecta sobre el mapa el nombre de **Sivia Rencor** y un farol sin dueño.
 
-Cada nombre pertenece a alguien que alguna vez encontró el camino de regreso.
+\column
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Lanterra — Cultura y lugares</div>
 
 ## Cultura de Lanterra
 
-Lanterra cree que la luz no sirve para ver.
-
-Sirve para recordar.
-
-Cuando alguien nace, su familia enciende un pequeño farol con aceite perfumado.
-
-Cuando alguien muere, su farol se cuelga en el Puente Largo durante una noche.
-
-Cuando alguien se pierde, los vecinos dejan faroles en las ventanas para que el camino “tenga suficientes ojos”.
-
-## Costumbres locales
-
 ### Llevar una luz prestada
 
-Los viajeros deben alquilar o recibir un farol al entrar.
+Todo viajero debe alquilar o recibir un farol al entrar. Caminar sin luz de noche se interpreta como mala intención.
 
-No por seguridad.
-
-Por respeto.
-
-Caminar sin luz de noche se considera una declaración de mala intención.
-
-Nerin se encariña con un farol pequeño al que llama **Tito**.
-
-Tito se apaga cada vez que alguien miente cerca de ella.
-
-Al principio parece una broma.
-
-No lo es.
-
-### No silbar en los puentes
-
-Dicen que los puentes responden.
-
-Si un personaje silba en un puente de noche, puede oír un silbido igual desde abajo.
-
-Puede ser viento.
-
-Puede no serlo.
+Nerin adopta uno pequeño y lo llama **Tito**. Tito se apaga cuando alguien pronuncia una mentira directa cerca de ella.
 
 ### Cena de reflejos
 
-En algunas posadas se sirve la cena sobre mesas pulidas con espejos de agua.
+Antes de comer, cada persona mira un cuenco de agua y dice algo que no quiere olvidar. Negarse no es delito, pero los anfitriones asumirán que está huyendo de sí misma.
 
-Antes de comer, cada persona debe mirar su reflejo y decir algo que no quiere olvidar.
+### No silbar en los puentes
 
-Si alguien se niega, se considera que esa persona está huyendo de sí misma.
+El eco responde desde abajo con la misma melodía. A veces continúa después de que la persona deja de silbar.
+
+### Nombres de luz
+
+Cuando alguien nace, se enciende un farol. Cuando muere, su luz permanece una noche en el Puente Largo. Robar un farol equivale a robar un lugar dentro de la memoria de la ciudad.
 
 ## Lugares importantes
 
-### El Puente Largo
+**El Puente Largo.** Miles de luces forman una serpiente de fuego sobre el delta. Bajo sus arcos hay pasarelas de mantenimiento y santuarios olvidados.
 
-Cruza el canal principal.
+**El Barrio Bajo.** Talleres sobre pilotes, casas flotantes y contrabando. Las Cartas tienen tres refugios; el Inventario expuso dos.
 
-Miles de faroles cuelgan de sus barandas.
+\column
 
-Por la noche, parece una serpiente de fuego sobre el agua.
+**La Casa de los Faroleros.** Gremio que conserva aceites, nombres y rutas nocturnas. Sus trabajadores escuchan secretos mientras cambian mechas.
 
-### El Barrio Bajo
+**El Canal Negro.** El agua no refleja rostros. Refleja posibilidades. Allí se celebra una regata ilegal cada luna nueva.
 
-Zona de canales estrechos, talleres, contrabando y casas apoyadas sobre pilotes.
+**La Mano Hundida.** Refugio de las Cartas al que solo se entra mostrando un naipe mojado por una esquina.
 
-Las Cartas Inclinadas tienen presencia aquí.
+**Casa flotante de Sivia.** Barcaza encadenada, elegante por dentro y rodeada de gatos. Cada mueble contiene un escondite.
 
-### La Casa de los Faroleros
+**Taller de las Cadenas Azules.** Forja flotante donde se reparan grilletes y se fabrican amuletos de paso.
 
-Gremio encargado de mantener las luces de la ciudad.
+**El Puente Viejo.** Cobra recuerdos pequeños. Bajo uno de sus arcos hay una casa inclinada que no figura en ningún catastro.
 
-Sus miembros conocen todos los caminos nocturnos.
-
-También conocen todos los secretos escuchados mientras cambiaban aceite.
-
-### El Canal Negro
-
-Canal antiguo, cubierto por puentes bajos.
-
-Nadie cuelga faroles allí.
-
-El agua no refleja rostros.
-
-Refleja posibilidades.
-
-### El Taller de las Cadenas Azules
-
-Una forja flotante donde se reparan grilletes y se crean amuletos de paso.
-
-Los artesanos creen que el metal canta cuando la marea sube.
-
-Muchos viajeros compran allí una cadena ligera antes de cruzar la ciudad.
-
-No por protección.
-
-Por buena fe.
+{{descriptive
+##### Lectura de llegada
+La lluvia vuelve cada superficie un espejo. Sobre los canales, miles de faroles tiemblan como estrellas cansadas. Uno se apaga. Después otro. Una mujer llama a su hijo por un nombre equivocado y nadie se atreve a corregirla.
+}}
 
 {{pageNumber,auto}}
 
 \page
 
-### El Oráculo de Luz
+<div class='footnote'>Lanterra — PNJ y Concordancia</div>
 
-Una mujer ciega que vive en un farol retirado.
+## PNJ principales
 
-No lee el futuro.
+**Maestra Olevia Luzquieta.** Líder de los Faroleros. Serena y difícil de engañar. Sabe que las aguas de Lanterra comparten memoria con la Fuente.
 
-Escucha lo que las luces cuentan.
+**Soressa del Farol.** Aprendiz leal y nerviosa. Tito fue su farol cuando se perdió de niña. Quiere demostrar valor sin convertirse en víctima que rescatar.
 
-Dice frases como:
+**Rulo Barcaza.** Contrabandista retirado. Discute con su bote, **La Terquedad**, como si fuera su esposa. Puede llevar al grupo a Metusta.
 
-> “Tus pasos ya hicieron ruido en el agua.”
+**Sivia Rencor.** Señora del Canal Negro. Trabaja para el Consorcio y detesta que Jaska la trate como empleada. Valora más un secreto que una moneda.
 
-Si el grupo la encuentra, puede recibir una pista sobre quién robó los faroles.
+**Timo “Dos Veces” Lerr.** Líder informal de las Cartas. Se presenta dos veces con nombres falsos distintos. Quiere evacuar a su gente antes de que llegue La Línea Recta.
 
-## NPC principales de Lanterra
+**Palem de los Nudos.** Anciano cordelero. Conoce la canción del puente que cobra recuerdos y una ruta antigua hacia Metusta.
 
-### Maestra Olevia Luzquieta
+\column
 
-**Rol:** líder de los Faroleros.  
-**Personalidad:** serena, observadora, difícil de engañar.  
-**Quiere:** recuperar los faroles robados antes de que la ciudad entre en pánico.  
-**Secreto:** sabe que el agua de Lanterra está conectada simbólicamente con la Fuente.
+## La primera Concordancia
 
-Olevia considera a Nerin una curiosidad peligrosa.
+Durante una cena de reflejos, el cristal toca una gota de agua sobre el mapa. Todos los faroles de la sala se apagan menos uno.
 
-No odia sus casualidades.
+En su vidrio aparece una entrada:
 
-Las teme.
+> **Sivia Rencor.** “Una luz capaz de recordar el nombre que el oro mandó borrar.”
 
-### Rulo Barcaza
+El mapa dibuja el Puente Largo. Una esquina de naipe se inclina sobre el Barrio Bajo. Una línea blanca llega desde el embarcadero oriental.
 
-**Rol:** barquero, contrabandista retirado, posible guía.  
-**Personalidad:** habla con su bote como si fuera su esposa.  
-**Quiere:** dinero para reparar su barca, La Terquedad.  
-**Uso cómico:** discute con La Terquedad y pierde.
+### Qué significa
 
-Rulo puede ofrecer transporte si el grupo recupera un cargamento robado.
+* **Destino:** el farol robado bajo el Puente Largo.
+* **Símbolo:** las Cartas Inclinadas conocen el código de Calo.
+* **Advertencia:** agentes de La Línea Recta ya entraron en la ciudad.
 
-### Sivia Rencor
+### Reloj de Lanterra
 
-**Rol:** líder de una banda de contrabandistas.  
-**Personalidad:** elegante, cruel, sentimental con los gatos.  
-**Quiere:** controlar el Canal Negro.  
-**Secreto:** trabaja para el Consorcio Áureo, pero odia a Jaska Mir.
+Comienza en 0. Avanza si el grupo muestra el cristal en público, entrega a Sivia una copia de su entrada o permite que un agente gris escape.
 
-Sivia valora la información más que el dinero.
+Timo puede retirar una marca si el grupo evacua primero La Mano Hundida.
 
-Un favor suyo puede cambiar una persecución en la ciudad.
-
-### Palem de los Nudos
-
-**Rol:** anciano fabricante de cuerdas.  
-**Personalidad:** habla en metáforas de nudos.  
-**Quiere:** que alguien escuche su advertencia sobre “el puente que cobra recuerdos”.  
-**Pista:** conoce una canción antigua sobre Metusta.
-
-Palem ha visto a faroles desaparecer en silencio.
-
-Cree que el valle susurra a través del agua.
-
-### Soressa del Farol
-
-**Rol:** aprendiz de Olevia, guardiana de Tito.  
-**Personalidad:** nerviosa, leal, fascinada por Nerin.  
-**Quiere:** demostrar que tiene valor sin ser reemplazada.  
-**Secreto:** Tito eligió su farol anteriormente cuando ella estaba perdida.
-
-Soressa puede acompañar al grupo como ayudante o espía.
-
-## Situación al llegar
-
-El grupo llega sin recursos suficientes para pagar el viaje fluvial hacia Metusta.
-
-Los caminos terrestres están inundados por lluvias fuera de temporada.
-
-La única forma rápida de avanzar es conseguir pasaje en una barcaza o caravana fluvial.
-
-Pero Lanterra está en crisis.
-
-Han desaparecido faroles del Puente Largo.
-
-Eso nunca ocurre.
-
-Cada farol robado representa una memoria perdida.
-
-Y algunas familias empiezan a olvidar nombres.
-
-## Misión 1: Los faroles robados
-
-### Gancho
-
-Maestra Olevia contrata al grupo para investigar la desaparición de faroles.
-
-Paga poco oro, pero ofrece lo más importante:
-
-una carta de paso para la ruta fluvial.
-
-### Investigación
-
-El grupo puede descubrir:
-
-* marcas de barro negro en los postes,
-* testigos que vieron luces flotando bajo el puente,
-* un niño que olvidó el rostro de su abuelo,
-* un farol apagado que susurra cuando Nerin se acerca.
-
-### Culpables aparentes
-
-Los habitantes culpan a contrabandistas.
-
-Los contrabandistas culpan a los Faroleros.
-
-Los Faroleros culpan al Canal Negro.
-
-La verdad involucra a los Hijos del Pozo.
-
-Están usando los faroles para alimentar un ritual menor que debilita la memoria colectiva de la ciudad.
-
-Si Lanterra olvida ciertos nombres, el camino hacia la Fuente se vuelve más fácil para el culto.
+{{note
+##### Tres pistas, nunca una sola
+El farol puede localizarse por Sivia, por Olevia o siguiendo el reflejo del cristal. Las tiradas determinan quién llega primero y en qué condiciones, no si la misión existe.
+}}
 
 {{pageNumber,auto}}
 
 \page
 
-### Encuentro sugerido
+<div class='footnote'>Lanterra — Misión 1 I</div>
 
-En las pasarelas bajo el Puente Largo:
+{{imageMaskEdge5,--offset:1%,--rotation:270
+  ![La luz del nombre borrado](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-lanterra-farol-borrado.png){height:105%,left:205px,top:-20px}
+}}
 
-* 2 Will-o'-Wisps
-* 4 Shadows
-* 1 Cult Fanatic
-* 4 Cultists
-* 1 Water Weird o Merrow como guardián del canal
+## Misión 1: La luz del nombre borrado
 
-### Dilema menor
+#### Aspecto general de la misión
 
-Una de las luces robadas guarda una memoria forzada.
+Sivia compró un farol robado del Puente Largo. Dentro se conserva la memoria de **Aldo Veyra**, un navegante que conocía el paso fluvial hasta Metusta.
 
-Si la devuelven, la familia la recupera, pero el culto recibe una pista.
+Los Hijos del Pozo desean consumir esa memoria. El Consorcio quiere recuperarla. La Línea Recta pretende interrogar a Sivia y destruir después el farol.
 
-Si la retienen, pueden usarla para chantajear a un líder local.
+#### Estructura de la misión
 
-### Casualidad de Nerin
+Al salir de la cena, los aventureros encuentran a Timo esperándolos en dos extremos del mismo callejón con disfraces diferentes.
 
-Nerin deja caer su farol Tito.
+Reconoce el cifrado de Calo y ofrece interpretarlo si antes ayudan a Lira a evacuar los refugios expuestos por el Inventario.
 
-El farol rueda, no se rompe, cruza una rendija y se detiene justo sobre una tabla falsa.
+La búsqueda conduce desde La Mano Hundida hasta la casa flotante de Sivia y después a las pasarelas sumergidas bajo el Puente Largo.
 
-Debajo está el acceso al escondite del culto.
+Allí el farol es el centro de una negociación entre Sivia, un corredor áureo y agentes grises. Cuando el culto apaga las luces, las memorias robadas toman forma de sombras.
 
-### Recompensa
+{{note
+##### Un trato con tres mentirosos
+Timo quiere salvar a su gente. Sivia quiere conservar independencia. El corredor quiere recuperar una inversión. Ninguno dice toda la verdad, pero ninguno necesita terminar como enemigo.
+}}
+
+\column
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Lanterra — Misión 1 II</div>
+
+##### Objetivos
+
+**1.** Advertir o evacuar a las Cartas expuestas.
+
+**2.** Encontrar a Sivia y recuperar el farol del navegante.
+
+**3.** Impedir que La Línea Recta destruya la memoria.
+
+**4.** Decidir quién conservará el farol.
+
+#### Locaciones
+
+**La Mano Hundida.** Refugio con dos salidas verdaderas y siete falsas.
+
+**Casa flotante de Sivia.** Territorio neutral hasta que alguien pronuncia la palabra “propiedad”.
+
+**Pasarelas del Puente Largo.** Madera mojada, agua creciente y faroles suspendidos sobre el vacío.
+
+#### Desafíos y Monstruos
+
+##### Llegar sin revelar el cristal
+
+Realizá tres pruebas antes de dos fallos: Sigilo para evitar observadores, Perspicacia para reconocer una contraseña falsa y Acrobacias o herramientas de ladrón para entrar al refugio.
+
+Cada fallo agrega un espía o una complicación al clímax. La ubicación del farol se descubre igualmente.
+
+\column
+
+##### Combate bajo el puente
+
+La confrontación se divide en dos fases, no en una sola reserva de enemigos:
+
+* **Rito del nombre:** 1 **Cult Fanatic** y 4 **Cultists**. Cuando cae el segundo espejo, aparecen 2 **Shadows**.
+* **Depósito ceremonial:** 1 **Water Weird** protege el farol mientras el grupo completa el desafío de habilidad.
+* Con 2 o 3 marcas, 1 **Spy** y 2 **Veterans** llegan después del rito para negociar, robar o perseguir; no se suman al combate anterior.
+
+Cada ronda una sección de pasarela se hunde o un farol libera una memoria. Gastar una acción para salvarla concede inspiración o ventaja en la siguiente prueba social en Lanterra.
+
+Para 3 o 4 aventureros, usa 3 **Cultists** y un solo **Veteran**. Para 5 o 6, conserva las cantidades indicadas.
+#### Recompensas
 
 * 1 Punto de Travesía.
-* Gratitud de los Faroleros.
-* Farol Tito queda con el grupo y puede detectar mentiras una vez por día, apagándose ante una mentira directa.
-* Soressa de Soressa como contacto para futuros problemas en la ciudad.
+* **Código de la Esquina Inclinada**, capaz de reconocer mensajes de las Cartas.
+* El farol proyecta: **“Metusta — Catálogo de Ausentes”**.
+* Ayudar a Timo permite retirar una marca del reloj en Metusta.
+* Devolver el farol concede aceite revelador de Olevia.
+
+#### Consecuencias
+
+Jaska financia el pasaje si recibe el farol, pero reclama derechos sobre mapas futuros. Sivia se vuelve contacto si lo conserva. Si el farol se rompe, su memoria se dispersa por el canal: todavía puede seguirse con el cristal, pero la salida será más peligrosa.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Lanterra — Misión 2 I</div>
+
+{{imageMaskEdge5,--offset:0%,--rotation:270
+  ![El puente que cobra recuerdos](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-lanterra-puente-recuerdos.png){height:105%,left:205px,top:-20px}
+}}
 
 ## Misión 2: El puente que cobra recuerdos
 
-### Gancho
+#### Aspecto general de la misión
 
-Palem de los Nudos advierte que un puente viejo empezó a cobrar peaje.
+Un puente viejo empezó cobrando canciones, cumpleaños y rostros apenas conocidos. Ahora una barquera cruzó y olvidó cómo volver a su propia casa.
 
-No cobra oro.
+Una **Green Hag** llamada **Mara Bajopuente** almacena los recuerdos en frascos y los vende a los Hijos del Pozo. Entre ellos hay una memoria del navegante Aldo Veyra que revela por qué la Fuente y las aguas de Lanterra responden del mismo modo a los deseos.
 
-Cobra recuerdos pequeños.
+#### Estructura de la misión
 
-Al principio nadie se preocupó.
+Palem pide ayuda después de olvidar el último verso de una canción que lleva sesenta años cantando.
 
-La gente olvidaba una canción, un cumpleaños, una cara vista una vez.
+Para encontrar el origen del peaje, el grupo debe cruzar el puente, identificar qué recuerdo intenta cobrar y seguir el hilo dorado que desciende hasta la casa inclinada.
 
-Después alguien olvidó cómo volver a casa.
+Mara no ataca de inmediato. Ofrece devolver todos los recuerdos si un aventurero le entrega voluntariamente uno que todavía utilice.
 
-### Desarrollo
+{{note
+##### Un conflicto negociable
+Mara respeta intercambios precisos. Puede aceptar un recuerdo falso bien construido, el nombre verdadero de un agente de La Línea Recta o la promesa de sacar a los cultistas de su canal.
+}}
 
-El puente fue maldito por una Green Hag que vive en una casa inclinada bajo el canal.
+\column
 
-La bruja recolecta recuerdos para venderlos a los Hijos del Pozo.
+{{pageNumber,auto}}
 
-Puede negociar.
+\page
 
-Puede mentir.
+<div class='footnote'>Lanterra — Misión 2 II</div>
 
-Puede ofrecer a cada personaje un recuerdo que perdió.
+##### Objetivos
 
-### Encuentro sugerido
+**1.** Liberar los recuerdos cobrados por el puente.
 
-* 1 Green Hag o Sea Hag, según tono
-* 2 Water Weirds
-* 4 Giant Spiders o Ettercaps en los pilares
-* 2 Shadows como ecos de recuerdos
+**2.** Descubrir quién compra los frascos y para qué.
 
-### Opción emocional
+**3.** Recuperar la memoria de Aldo o convencerla de ayudar.
 
-La bruja ofrece a un personaje un recuerdo que no es suyo.
+**4.** Decidir qué hacer con recuerdos que ya no tienen dueño vivo.
 
-Puede ser una ventaja útil… a cambio de una deuda personal.
+#### Locaciones
 
-### Dilema
+**El Puente Viejo.** Cada arco cobra algo distinto; el central reconoce mentiras.
 
-La bruja tiene frascos con recuerdos.
+**La Casa Inclinada.** Cocina, tienda y archivo de recuerdos. Las botellas están ordenadas por emoción, no por nombre.
 
-Romperlos libera memorias, pero mezcladas.
+**Jardín de Reflejos.** Cámara inundada donde crecen posibilidades que nunca ocurrieron.
 
-Alguien puede recuperar un recuerdo ajeno.
+#### Desafíos y Monstruos
 
-Un personaje puede ver un fragmento del pasado de Nerin:
+Mara nunca enfrenta al grupo con todas sus defensas a la vez. Elegí un paquete según la ruta:
 
-una niña pequeña preguntando a una sombra luminosa:
+* **Canal sumergido:** Mara —**Green Hag**— y 2 **Water Weirds** que sostienen los cables vivos.
+* **Pilares secos:** Mara y 2 **Ettercaps**; agregá 4 **Giant Spiders** solo para 5 o 6 aventureros.
+* 2 **Shadows** aparecen como consecuencia separada únicamente si rompen frascos sin cuidado.
 
-> “Papá, ¿por qué las cosas se pierden?”
+\column
 
-La sombra responde:
+##### La estantería de recuerdos
 
-> “Para que alguien tenga la oportunidad de encontrarlas.”
+Romperla libera todo, pero mezcla memorias. Cada personaje presente tira 1d4:
 
-No expliques más.
+| d4 | Efecto hasta el próximo descanso |
+|:--:|:--|
+| 1 | recuerda una infancia ajena; ventaja en Perspicacia |
+| 2 | olvida un nombre propio; desventaja en la primera salvación de Sabiduría |
+| 3 | aprende una ruta; ventaja en Supervivencia |
+| 4 | oye a Aruun pronunciar un deseo; inspiración y una pesadilla |
 
-### Recompensa
+#### Recompensas
 
 * 1 Punto de Travesía.
-* Canción antigua sobre Metusta.
-* Posible bendición menor de los Faroleros.
-* Una cuerda especial de Palem que ayuda en el valle.
+* **Cuerda de Palem:** una vez por descanso evita una caída o separación del grupo.
+* La memoria de Aldo revela que el agua “recuerda intenciones, no palabras”.
+* Si Mara sobrevive como contacto, puede intercambiar un recuerdo durante el Valle.
+
+#### Consecuencias
+
+Entregar los frascos a Olevia restaura nombres y gana el apoyo de los Faroleros. Dárselos al Consorcio convierte la memoria en mercancía. Destruirlos alimenta involuntariamente el agua: los Hijos del Pozo avanzan, pero varias víctimas quedan libres.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Lanterra — Misión 3 I</div>
+
+{{imageMaskEdge5,--offset:0%,--rotation:270
+  ![Regata en el Canal Negro](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-lanterra-regata.png){height:105%,left:205px,top:-20px}
+}}
 
 ## Misión 3: Regata en el Canal Negro
 
-### Gancho
+#### Aspecto general de la misión
 
-Rulo Barcaza puede llevar al grupo hacia Metusta.
+Rulo puede transportar al grupo hasta Metusta, pero **La Terquedad** necesita reparaciones y un permiso fluvial. Ambos pueden ganarse en una regata clandestina por el único canal que no refleja rostros.
 
-Pero necesita dinero para reparar La Terquedad.
+Sivia organiza la carrera. Las Cartas participan para robar la caja de apuestas. El Consorcio patrocina una embarcación blindada. La Línea Recta no compite para ganar: ha calculado que un choque en el tercer puente eliminará a tres buscadores del Inventario.
 
-Hay una regata clandestina en el Canal Negro.
+#### Estructura de la misión
 
-El premio: suficiente oro y un permiso fluvial.
+Antes de partir, el grupo elige dos mejoras para La Terquedad:
 
-### Tono
+* cadena azul para resistir impactos;
+* vela de farol para ver corrientes;
+* timón articulado para giros imposibles;
+* tablones ligeros para ganar velocidad.
 
-Aventura de acción y comedia.
+La regata se resuelve en cinco tramos. El grupo necesita **4 éxitos antes de 3 fallos**. No se repite la misma competencia en tramos consecutivos.
 
-El grupo compite en barcas inestables contra contrabandistas, tahúres y una tripulación de kenku que imita insultos de carreras pasadas.
+{{note
+##### Ganar no es el único objetivo
+En el tercer tramo los personajes descubren el sabotaje de La Línea Recta. Pueden conservar ventaja o desviarse para salvar a otra tripulación. La ciudad recordará esa elección más que el resultado.
+}}
+
+\column
 
 {{pageNumber,auto}}
 
 \page
 
-### Obstáculos
+<div class='footnote'>Lanterra — Misión 3 II</div>
 
-| d8 | Obstáculo |
-|:--:|:--|
-| 1 | Puente demasiado bajo. Todos deben agacharse o perder algo importante. |
-| 2 | Cocodrilos en el canal. |
-| 3 | Faroles encantados que ciegan si alguien dice una mentira. |
-| 4 | Kenku imitan la voz de un personaje para confundir órdenes. |
-| 5 | Una corriente imposible empuja la barca hacia atrás. |
-| 6 | Sivia Rencor intenta sabotear a todos con aceite resbaladizo. |
-| 7 | Nerin cree que están saludando y saluda de vuelta a una banda enemiga. |
-| 8 | Una ola muestra por un segundo el reflejo de la Fuente. |
+##### Objetivos
 
-### Encuentros sugeridos
+**1.** Conseguir permiso y recursos para viajar a Metusta.
 
-* Crocodiles o Giant Crocodile
-* Bandits, Spies, Thugs
-* Kenku
-* Merrow si la regata se vuelve peligrosa
+**2.** Sobrevivir a los cinco tramos del Canal Negro.
 
-### Recompensas
+**3.** Descubrir y frustrar el accidente calculado.
+
+**4.** Elegir entre ganar la carrera o salvar competidores.
+
+#### Locaciones y tramos
+
+| Tramo | Desafío |
+|:--|:--|
+| Puente Bajo | Acrobacias para agacharse y conservar el mástil |
+| Curva de las Cadenas | Atletismo o herramientas para girar sin perder velocidad |
+| Cruce Ciego | Percepción o Investigación para detectar el sabotaje |
+| Agua sin Rostro | Sabiduría para ignorar una vida alternativa reflejada |
+| Boca del Delta | Supervivencia, Vehículos acuáticos o magia creativa para el sprint final |
+
+Cada fallo causa daño a la embarcación, pierde carga o permite que un rival tome ventaja. Tres fallos no terminan la misión: obligan a llegar a la meta con La Terquedad hundiéndose.
+
+\column
+
+#### Desafíos y Monstruos
+
+Estos rivales pertenecen a tramos distintos y nunca forman un solo encuentro:
+
+* **Puente Bajo:** 2 **Crocodiles** o 1 **Giant Crocodile**; pueden evitarse con una maniobra exitosa.
+* **Esclusa:** 4 **Bandits** en una barca rival mientras 3 **Kenku** emiten órdenes falsas.
+* **Agua sin Rostro:** 1 **Merrow** aparece solo si alguien cae.
+* **Llegada:** 1 **Spy** gris sabotea un timón y huye; busca robar tiempo, no combatir hasta la muerte.
+
+Durante el cuarto tramo, el canal refleja por un instante una Fuente azul entre montañas. El cristal pulsa. El mapa dibuja una torre de libros aunque nadie lo haya desplegado.
+
+#### Recompensas
 
 * 1 Punto de Travesía.
-* Rulo Barcaza como aliado.
 * La Terquedad como transporte recurrente.
-* Acceso a un atajo fluvial hacia Metusta.
+* Permiso fluvial a Metusta.
+* Si salvaron a otros, las familias de Lanterra entregan provisiones y el reloj de Metusta comienza en 0.
+* Si ganaron ignorando el rescate, reciben 150 po, pero el reloj comienza en 1.
 
-## Misión 4: El paquete desaparecido
+#### Consecuencias
 
-### Gancho
-
-Una caravana que llevaba suministros para Metusta desapareció entre Miravalle y Lanterra.
-
-El cargamento incluye un paquete de pergaminos religiosos y un barril de aceite especial para faroles.
-
-### Desarrollo
-
-La caravana fue emboscada por guardias corruptos de Sivia Rencor.
-
-Ella planea vender el cargamento al Consorcio.
-
-El paquete también incluye una carta sellada de Olevia.
-
-Si la recuperan, Olevia les dará un trato mejor.
-
-### Opciones de resolución
-
-* Rescatar la caravana por la fuerza.
-* Seguir la ruta y tender una trampa a los ladrones.
-* Negociar con Sivia a cambio de un favor futuro.
-
-### Encuentro sugerido
-
-* 2 Veterans de contrabandistas
-* 4 Thugs
-* 1 Swarm of Ravens si alguien dispara al convoy
-
-### Recompensa
-
-* 1 Punto de Travesía.
-* Orde de paso con tintura de faroles especiales.
-* Sivia como contacto complicado.
-
-## Evento final de Lanterra: El trato bajo la lluvia
-
-Cuando el grupo está por partir, Jaska Mir se presenta con una sombrilla perfecta.
-
-Ofrece comprar su deuda de viaje.
-
-Si el grupo acepta, gana recursos inmediatos pero queda atado al Consorcio.
-
-Si rechaza, Jaska sonríe y dice:
-
-> “Todos viajan con alguien. Ustedes todavía no decidieron con quién.”
-
-Luego aparece Maer Senn al otro lado del canal.
-
-No se acerca.
-
-Solo observa a Nerin.
-
-Por primera vez, su expresión no es calma.
-
-Es cálculo.
-
-### Consecuencia narrativa
-
-* Si aceptan el trato, el Consorcio obtiene influencia sobre la expedición.
-* Si rechazan, la Línea Recta puede poner precio sobre su información.
-* Si negocian un acuerdo parcial, obtienen dinero y un enemigo en la ciudad.
+Salvar a otra tripulación convierte a los barqueros en aliados durante la salida. Priorizar la victoria da ventaja material, pero la Línea Recta usa el abandono para desacreditar al grupo en Metusta.
 
 {{pageNumber,auto}}
 
 \page
+
+<div class='footnote'>Lanterra — Misión 4</div>
+
+## Misión 4: El paquete de las tres manos
+
+#### Aspecto general de la misión
+
+Olevia prepara un paquete para la Archibibliotecaria Maedra: aceite revelador, la memoria escrita de Aldo y una carta que certifica que el mapa de Fulka reaccionó al agua de Lanterra.
+
+El paquete desaparece antes de embarcar. Una mano del Consorcio pagó el robo, una mano de las Cartas cambió el envoltorio y una mano gris sustituyó la carta.
+
+#### Estructura de la misión
+
+Las pistas conducen a una compuerta abandonada donde tres paquetes idénticos cuelgan sobre el canal.
+
+* El paquete áureo contiene suministros y un contrato de propiedad.
+* El paquete inclinado contiene nombres evacuados y una ruta segura.
+* El paquete gris contiene una carta falsa que enviaría al grupo a una emboscada en Metusta.
+
+El original está dentro del contrapeso de la compuerta. Recuperarlo exige mantener el mecanismo abierto mientras sube el agua y llegan los tres reclamantes.
+
+{{note
+##### No es una prueba de adivinación
+Las tres facciones dicen verdades parciales. Investigación permite reconocer sellos, Perspicacia revela prioridades y el cristal muestra cuál de los paquetes proyecta una ruta curva. La decisión sobre los otros dos pertenece al grupo.
+}}
+
+\column
+
+##### Objetivos
+
+**1.** Identificar el paquete verdadero.
+
+**2.** Recuperar el contrapeso sin inundar el Barrio Bajo.
+
+**3.** Decidir qué información falsa o verdadera dejará circular.
+
+#### Locaciones
+
+**Casa de los Faroleros.** Escena del robo y primer interrogatorio.
+
+**Compuerta de Tres Aguas.** Mecanismo vertical, pasarelas estrechas y canales a distinta altura.
+
+#### Desafíos y Monstruos
+
+Elegí una oposición principal según la facción que lleve ventaja:
+
+* **Consorcio Áureo:** 2 **Veterans** protegen el intercambio.
+* **Línea Recta:** 1 **Spy** dirige a 2 **Wererats** desde el techo.
+* Con 3 marcas —o para 5 o 6 aventureros— usa 4 **Wererats**. La facción restante reclama el resultado después, no durante la pelea.
+* **Peligro complejo:** tres éxitos de Atletismo, Arcana o herramientas antes de dos fallos impiden la inundación.
+
+#### Recompensas
+
+* Carta de presentación para Maedra.
+* Aceite que revela la inscripción oculta de la Hoja Caminante.
+* Una pista falsa plantada reduce una marca en Metusta.
+* Conservar el paquete de las Cartas permite pedir a Timo una entrada clandestina a la Biblioteca.
+
+#### Consecuencias
+
+El paquete auténtico prepara la audiencia con Maedra. El paquete falso que quede en circulación determina qué facción pierde tiempo en Metusta; destruirlos todos mantiene el secreto, pero elimina esa ventaja.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Lanterra — Cierre de ciudad</div>
+
+## Evento final: El trato bajo la lluvia
+
+Cuando el grupo consigue tres Puntos de Travesía y prepara su salida, **Jaska Mir** llega con una sombrilla que no recibe una sola gota.
+
+No amenaza.
+
+Presenta una inversión.
+
+Ofrece reparar La Terquedad, pagar suministros y reconocer al grupo como expedición autorizada. A cambio exige prioridad sobre “todo descubrimiento material, inmaterial, cartográfico o milagroso”.
+
+Timo observa desde un tejado. Del otro lado del canal, una figura gris mide la distancia hasta Nerin sin acercarse.
+
+### La decisión
+
+**Aceptar.** El viaje comienza con recursos superiores. Jaska obtiene una cláusula que reaparecerá en Brammavik.
+
+**Rechazar.** Olevia y las Cartas ayudan a escondidas. La Línea Recta ofrece recompensa por información sobre la expedición.
+
+**Negociar.** Jaska acepta limitar el contrato si el grupo le entrega una entrada del Inventario. La persona nombrada sufrirá las consecuencias.
+
+**Exponerla.** Si poseen pruebas de los faroles o el paquete, pueden debilitar públicamente al Consorcio y ganar apoyo de los barqueros.
+
+\column
 
 ## Salida de Lanterra
 
-El grupo zarpa hacia Metusta.
+La primera noche de viaje, todos los faroles de la barcaza se apagan salvo Tito.
 
-Durante la primera noche en el río, todos los faroles se apagan menos el de Nerin.
+La luz atraviesa el Cristal de Replicación y cae sobre el mapa. Aparece la entrada del **Profesor Caldrio Hume**.
 
-Tito proyecta una sombra que no coincide con su cuerpo.
+La tinta inexistente escribe:
 
-La sombra tiene una mano adulta apoyada sobre su hombro.
+> “Catálogo de Ausentes. La hoja que caminó debe recordar de dónde fue arrancada.”
 
-Cuando alguien mira directamente, desaparece.
+En la distancia, Metusta toca una campana que no marca la hora.
 
-Subí al grupo a nivel 7 al cerrar Lanterra.
+{{descriptive
+##### Hito
+Subí al grupo a nivel 7. En Lanterra dejaron de seguir un rumor: ahora participan en una carrera cuyos competidores conocen sus nombres.
+}}
 
+### Estado de las facciones
+
+Anotá una palabra para cada una:
+
+| Facción | Posibles estados |
+|:--|:--|
+| Cartas Inclinadas | aliadas, prudentes, traicionadas |
+| Consorcio Áureo | inversor, rival, expuesto |
+| Línea Recta | retrasada, informada, adelantada |
+| Hijos del Pozo | hambrientos, heridos, inadvertidos |
+
+Esas palabras reemplazan cálculos de reputación. Cuando una facción vuelva a aparecer, actuará de acuerdo con el estado elegido.
 
 {{pageNumber,auto}}
 
@@ -2656,111 +2922,155 @@ No muerde si le leen en voz alta.
 
 > “La Fuente no está al norte. El norte está aprendiendo a rodearla.”
 
-## Misión principal: El Mapa Palimpsesto
+{{pageNumber,auto}}
+
+\page
+
+<!-- MUVARIA-DOS-COPIAS-METUSTA-V1 -->
+<div class='footnote'>Metusta — La Hoja Caminante I</div>
+{{imageMaskEdge5,--offset:0%,--rotation:270
+  ![La Hoja Caminante regresa al Mapa Palimpsesto](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-metusta-hoja-caminante.png){height:105%,left:205px,top:-20px}
+}}
+
+## Misión principal: La hoja que aprendió a caminar
+
+### La Concordancia de tinta
+
+Cuando el aceite de Olevia toca el mapa, aparece una inscripción invisible. El cristal proyecta sobre ella la entrada del **Profesor Caldrio Hume**:
+
+> “Una referencia verificable al Valle de los Ecos. Origen: margen exterior, catálogo de hojas ausentes.”
+
+Caldrio comprende que el mapa de Fulka no fue arrancado de una copia menor. Es la **Hoja Caminante** del Mapa Palimpsesto: la parte destinada a salir de Metusta, recorrer caminos reales y regresar con decisiones nuevas.
+
+Si Caldrio no está disponible, Don Vellum o Maedra llega a la misma conclusión al examinar las fibras.
 
 ### Acceso
 
-Cuando el grupo consigue los sellos y resuelve al menos una misión importante, Maedra permite ver el Mapa Palimpsesto.
-
-No se encuentra en una sala.
-
-Se encuentra en una mesa dentro de una sala que se encuentra dentro de un libro.
-
-Para entrar, los personajes deben escribir sus nombres en una página blanca.
+Maedra permite la restauración cuando el grupo consigue los sellos y resuelve al menos una crisis de la Biblioteca. Para entrar en la sala dentro del libro, cada personaje escribe el nombre por el que desea ser recordado.
 
 Nerin escribe:
 
 > “Nerin Fortuna, hija de papá.”
 
-La tinta tiembla.
+La tinta tiembla. Maedra reconoce un apellido imposible y decide no explicarlo todavía.
 
-Maedra palidece.
+\column
 
-No dice nada.
+{{pageNumber,auto}}
 
-### El Mapa
+\page
 
-El Mapa Palimpsesto no muestra territorio.
+<div class='footnote'>Metusta — La Hoja Caminante II</div>
 
-Muestra decisiones.
+## La restauración
 
-Líneas de camino aparecen y desaparecen según quién lo mira.
+Cuando la Hoja Caminante toca el Palimpsesto, sus costuras brillan como ríos bajo la luna.
 
-Cuando los personajes lo observan, cada uno ve una ruta distinta.
+Las rutas antiguas se copian sobre el mapa de Fulka. Barro, huellas, errores y decisiones recientes aparecen a su vez en el archivo de Metusta.
 
-Cuando Nerin lo observa, el mapa se moja.
+El mapa no estaba incompleto.
 
-Una gota de agua cae hacia arriba.
+Estaba adquiriendo experiencia.
 
-Y aparece una frase:
+### La verdad que revela
 
-> “Cinco ciudades para recordar. Tres llaves para no ser devorados. Un deseo para no mentirse.”
+* La Fuente existe más allá del Valle de los Ecos.
+* Ishmara intentó sellar algo llamado Aruun.
+* El Valle responde a deseos no resueltos.
+* Tres permisos metafísicos permiten cruzarlo: Nombre, Peso y Adiós.
+* La Línea Recta está convirtiendo personas del Inventario en coordenadas previsibles.
 
-### Revelaciones
+### Ataque de Sira Nueve Nudos
 
-El grupo aprende:
+Sira aprovechó la orden degradada del guardián del catálogo y siguió al grupo hasta la sala. No intenta cargar con todo el mapa: quiere fijar sobre él una única línea blanca y copiar el orden de las llaves.
 
-* La Fuente existe.
-* Se encuentra más allá del Valle de los Ecos.
-* El valle responde a deseos no resueltos.
-* La Fuente fue custodiada por Ishmara, la Voz Azul.
-* Algo llamado Aruun corrompió la raíz de la Fuente.
-* Para cruzar con seguridad necesitan la Llave del Nombre, la Llave del Peso y la Llave del Adiós.
-* La primera llave está en Metusta.
+Sira usa estadísticas de **Assassin** o **Spy** mejorado. Pelea con un solo paquete de apoyo:
 
-## Ataque a la Biblioteca
+* **Seguridad del archivo:** 2 **Animated Armors** y 2 **Flying Swords**.
+* **Equipo de extracción:** 2 **Veterans** y 2 **Gargoyles** de papel petrificado.
+* **Alarma máxima:** 2 **Helmed Horrors**, sin otros apoyos.
 
-Mientras el grupo estudia el mapa, Sira Nueve Nudos ataca.
+Los enemigos de capas posteriores son refuerzos por fallo o demora, no una reserva simultánea.
 
-No busca matar a todos.
+\column
 
-Busca robar o copiar el mapa.
+### Las tres capas
 
-Usa cuerdas, sigilo, guardias comprados y constructos.
+Durante cada ronda, un personaje puede proteger una capa del mapa con una acción:
 
-### Encuentro sugerido
+| Capa | Si queda desatendida |
+|:--|:--|
+| Rutas | Maer obtiene ventaja para alcanzar Brammavik. |
+| Nombres | una persona del Inventario será presionada antes de la llegada del grupo |
+| Advertencias | la primera prueba del Valle se realiza con desventaja |
 
-* Sira Nueve Nudos usando Assassin o Spy mejorado
-* 2 Helmed Horrors o Animated Armor
-* 4 Veterans o Thugs
-* 2 Gargoyles entrando por vitrales
+Una capa desatendida nunca desaparece por completo. Cambia una dificultad futura.
 
-### Escenario dinámico
+{{note
+##### Las facciones dentro de la Biblioteca
+Un representante áureo intenta embargar el cristal mientras Lira retira nombres de las Cartas. Proteger a una facción puede costar la confianza de otra. Ninguna de estas acciones sustituye el ataque de Sira: ocurren durante él.
+}}
 
-Durante el combate:
+### El cristal cambia
 
-| d6 | Complicación |
-|:--:|:--|
-| 1 | Un estante cae y crea cobertura. |
-| 2 | Un libro grita spoilers del futuro. |
-| 3 | El mapa cambia de mesa. |
-| 4 | Un fantasma bibliotecario exige silencio a todos. |
-| 5 | Una escalera se mueve sola. |
-| 6 | Nerin intenta salvar un libro y descubre una salida secreta. |
+La restauración permite distinguir tres estados en una entrada:
+
+* luz firme: la persona continúa su viaje;
+* luz intermitente: está desaparecida o transformada;
+* luz apagada: solo queda una huella capaz de señalar una decisión pasada.
+
+No revela ubicaciones.
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Metusta — La Llave del Nombre</div>
 
 ## La Llave del Nombre
 
-Tras salvar el mapa o impedir que sea robado por completo, Maedra entrega la Llave del Nombre.
+Después de la restauración, Maedra realiza una ceremonia. Cada personaje declara su nombre verdadero, el nombre por el que desea ser recordado o el que teme perder.
 
-No es una llave física.
-
-Es una ceremonia.
-
-Cada personaje debe decir su nombre verdadero, el nombre por el que quiere ser recordado o el nombre que teme perder.
-
-Maedra registra esos nombres en un libro de tapas azules.
-
-Luego arranca las páginas.
-
-Las páginas se convierten en pequeñas cintas de papel resistente al agua.
-
-Cada personaje recibe una.
+La archibibliotecaria los registra en un libro azul y arranca las páginas. El papel se convierte en cintas resistentes al agua.
 
 Nerin recibe una cinta en blanco.
 
-Cuando pregunta por qué, Maedra responde:
+> “Algunos nombres todavía no terminaron de caer.”
 
-> “Porque algunos nombres todavía no terminaron de caer.”
+### Recompensas
+
+* La **Llave del Nombre**.
+* La **Hoja Caminante**, restaurada sin dejar de ser el mapa obtenido de Fulka.
+* Acceso a los archivos de Ishmara y Aruun.
+* Una entrada clandestina futura si protegieron a Lira.
+* Autoridad académica contra una reclamación del Consorcio si protegieron a Maedra.
+
+### Próxima Concordancia
+
+Al cerrar la ceremonia, el cristal ilumina la entrada de **Harn Ojo de Mina**. La Hoja Caminante muestra una cordillera atravesada por una veta azul.
+
+> “Brammavik. Donde una deuda canta debajo de la piedra.”
+
+\column
+
+### Consecuencias de la carrera
+
+**Sira escapó con rutas.** Los pilares geománticos de Brammavik ya están activos.
+
+**Sira escapó con nombres.** Harn desaparece antes de que el grupo llegue y la primera misión se convierte en rescate.
+
+**El Consorcio obtuvo derechos.** Jaska llega al Tribunal del Yunque con autoridad legal.
+
+**Las Cartas fueron protegidas.** Timo conoce una cláusula capaz de romper el contrato de Calo.
+
+{{descriptive
+##### Principio del mapa
+La Línea Recta puede copiar todos sus trazos. No puede copiar el barro, los errores ni las decisiones que la Hoja aprenderá después de cada copia.
+}}
+
+{{pageNumber,auto}}
+
+\page
 
 ## Salida de Metusta
 
@@ -3133,75 +3443,91 @@ Si hay combate:
 * Información sobre la Llave del Peso.
 * Posible confesión personal de un personaje.
 
-## Misión principal: La Llave del Peso
+{{pageNumber,auto}}
 
-### El juicio
+\page
 
-Jorunn explica que la Llave del Peso no se entrega.
+<!-- MUVARIA-DOS-COPIAS-BRAMMAVIK-V1 -->
+<div class='footnote'>Brammavik — La Tercera Mano I</div>
+{{imageMaskEdge5,--offset:0%,--rotation:270
+  ![El contrato de la Tercera Mano](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-brammavik-tercera-mano.png){height:105%,left:205px,top:-20px}
+}}
 
-Se reconoce.
+## Misión principal: El contrato de la Tercera Mano
 
-Para obtenerla, cada personaje debe pasar una prueba en el Tribunal del Yunque.
+### La Concordancia de hierro
 
-La prueba no mide fuerza.
+El cristal no responde al agua ni a la tinta. Se activa cuando Calo golpea tres veces una plancha de hierro. Aparecen la entrada de **Harn Ojo de Mina**, una veta azul y el sello contractual de Jaska Mir.
 
-Mide carga.
+La veta es una filtración de la Fuente. El Consorcio compró las deudas de quienes la descubrieron y pretende declarar como propiedad comercial cualquier camino conectado con ella.
 
-Cada personaje debe responder:
+La Línea Recta instaló tres pilares geománticos en los túneles. Las piedras caen siempre del mismo modo, los monstruos atacan al mismo objetivo y los ecos repiten un único futuro.
 
-> “¿Qué deseo podrías cargar sin convertirte en otra persona?”
+### El regreso de Calo
 
-### Prueba física
+Jaska acusa a Calo de perder el Inventario y ayudar a la expedición. Exige que entregue el cristal y vuelva a servir al Consorcio hasta pagar su deuda.
 
-El personaje levanta una cadena de hierro.
+Timo llega para cobrar otra deuda: Calo vendió años atrás un registro de refugios de las Cartas. Timo posee la mitad de una canción capaz de anular los reclamos de Jaska. Calo conoce la otra mitad.
 
-La cadena se vuelve más pesada según el deseo que oculta.
+Para usarla, deben recuperar de la **Pared de Eco** el contrato cantado cuando se descubrió la veta.
 
-No se supera solo con Fuerza.
-
-Puede requerir Constitución, Sabiduría, Carisma o una confesión honesta.
-
-### Prueba narrativa
-
-Cada jugador puede describir una carga personal:
-
-* culpa,
-* promesa,
-* amor,
-* miedo,
-* venganza,
-* ambición,
-* duelo.
-
-Si lo hace con honestidad, la cadena se vuelve liviana.
-
-Si intenta mentir, pesa más.
-
-### Nerin en la prueba
-
-Cuando Nerin toca la cadena, esta no pesa nada.
-
-Luego pesa demasiado.
-
-Luego vuelve a no pesar.
-
-Jorunn no entiende.
-
-Nerin se ríe nerviosa y dice:
-
-> “Creo que papá está pensando.”
+\column
 
 {{pageNumber,auto}}
 
 \page
 
-### Recompensa
+<div class='footnote'>Brammavik — La Tercera Mano II</div>
 
-La Llave del Peso toma la forma de pequeños clavos de hierro oscuro.
+### Objetivos
 
-Cada personaje recibe uno.
+1. Reunir las dos mitades de la canción contractual.
+2. Rescatar a Harn y a los mineros de la Veta Azul.
+3. Destruir o reorientar los pilares geománticos.
+4. Decidir el destino de las deudas ante el Tribunal del Yunque.
 
-Pueden usarse en el Valle para fijar una verdad personal al mundo cuando todo intente cambiar.
+### Pilares de certeza
+
+Mientras uno continúe activo, una vez por ronda el DM puede obligar a una criatura a repetir el resultado de su tirada anterior.
+
+Un pilar puede romperse con daño, desactivarse con Arcana o herramientas de herrero, o reorientarse mostrando una ruta inesperada de la Hoja Caminante.
+
+### Encuentro sugerido
+
+Distribuí la oposición por zonas; el descenso debe sentirse como desgaste, no como una sola arena:
+
+* **Montacargas:** 3 **Rust Monsters** comen sus remaches.
+* **Veta viva:** 2 **Xorn** o 1 **Earth Elemental**, según la ruta elegida.
+* **Pilón central:** 1 **Helmed Horror** como Custodio. Añadí 2 **Veterans** solo si la Línea Recta posee 3 marcas; llegan después de activar el pilón.
+
+El Elemental ayuda si los personajes protegen la veta y devuelven incertidumbre a la piedra.
+
+\column
+
+### El juicio del Peso
+
+Ante el Tribunal, la canción recuperada demuestra que la ruta fue descubierta por trabajadores libres antes de la compra de sus deudas.
+
+Cada personaje levanta una cadena que se vuelve más pesada según el deseo que oculta y responde:
+
+> “¿Qué deseo podrías cargar sin convertirte en otra persona?”
+
+Una confesión honesta aligera la cadena. Mentir no bloquea la llave, pero impone una carga que reaparecerá en el Valle.
+
+### Recompensas
+
+* La **Llave del Peso**, en forma de clavos de hierro oscuro.
+* **Cláusula de Camino Común:** una ruta natural no puede ser propiedad exclusiva.
+* Equipo de montaña y paso hacia Velkora.
+* La siguiente Concordancia muestra el alias **“Todavía No”** junto a una campana.
+
+### La decisión de Calo
+
+Si usa su escapatoria para liberar también a los mineros, las Cartas suspenden su deuda de sangre. Si se salva solo, conserva la libertad, pero Timo no lo ayudará en la Fuente.
+
+{{pageNumber,auto}}
+
+\page
 
 ## Evento final de Brammavik: La línea contra la montaña
 
@@ -3618,52 +3944,84 @@ Esta frase puede dar al grupo una regla para resistir el valle.
 
 \page
 
-## Misión principal: La Llave del Adiós
+<!-- MUVARIA-DOS-COPIAS-VELKORA-V1 -->
+<div class='footnote'>Velkora — La carta del regreso I</div>
+{{imageMaskEdge5,--offset:0%,--rotation:270
+  ![La carta dirigida a quien regresó](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-velkora-carta-regreso.png){height:105%,left:205px,top:-20px}
+}}
+
+## Misión principal: La carta dirigida a quien regresó
+
+### La Concordancia de la campana
+
+Cuando suena el badajo recuperado, el cristal proyecta el nombre **“Todavía No”**. El mapa traza un camino hasta la Casa de las Últimas Palabras.
+
+El alias pertenece a **Noma Sinmaleta**. Antes de su primera expedición depositó una carta para la persona que sería si conseguía regresar. Volvió, pero jamás se atrevió a reclamarla.
+
+La carta contiene el único relato fiable de alguien que vio el último acceso a la Fuente y eligió volver.
+
+### Las Cartas dentro de las cartas
+
+El Niño de las Cartas entrega un sobre con un naipe de esquina doblada. Timo revela que la Casa sirvió durante décadas como buzón muerto de su gremio. No conocen el camino completo, pero conservaron rutas fallidas y últimas advertencias.
+
+La Línea Recta quiere abrir la carta para fijar el trayecto. Seralya quiere quemarla. Los Hijos del Pozo desean añadir una frase que despierte el deseo que Noma dejó atrás.
+
+\column
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Velkora — La carta del regreso II</div>
+
+### La carta de Noma
+
+> “Si esta carta regresó antes que yo, no crucen el Valle. Si yo regresé antes que esta carta, tampoco me crean enseguida. La Fuente no estaba al final del camino que tomamos. Estaba al final de aquello a lo que cada uno se negó a renunciar.”
+
+En el reverso hay cinco regiones y una instrucción:
+
+> “Seguir los nombres que dejaron de moverse.”
+
+### La senda blanca
+
+La Línea Recta asalta las catacumbas y marca una ruta segura. Seguirla evita trampas, pero conduce a una cámara preparada para capturar a Nerin. Los desvíos de las Cartas exigen despedidas sinceras y permiten llegar al badajo sin cruzar la emboscada.
+
+### Encuentro sugerido
+
+Presentá tres escenas separadas:
+
+* **Eldra:** **Ghost** o **Banshee**; comienza como encuentro social y convoca hasta 2 **Specters** si profanan la carta.
+* **Galerías:** 2 **Wights** y 2 **Specters** bloquean la procesión de nombres.
+* **Emboscada de facción:** 1 **Invisible Stalker** del Consorcio, o Sira con 2 **Veterans** si la Línea Recta domina la carrera. Usá ambos bandos solo contra 6 aventureros descansados, y hacé que también se enfrenten entre sí.
+
+Eldra deja de combatir si alguien pronuncia el adiós que ella nunca pudo dar.
+
+\column
 
 ### La ceremonia
 
-Con el badajo recuperado, la decimotercera campana puede sonar.
+Cada personaje escribe o pronuncia un adiós. No tiene que ser a una persona: puede despedirse de una culpa, una mentira o la idea de regresar sin haber cambiado.
 
-Cada personaje debe escribir o decir un adiós.
-
-No necesariamente a una persona.
-
-Puede ser:
-
-* adiós a la culpa,
-* adiós a una mentira,
-* adiós a una versión anterior de sí mismo,
-* adiós a una esperanza imposible,
-* adiós a alguien que murió,
-* adiós a la idea de volver igual.
-
-Cuando la campana suena, el sonido no se oye con los oídos.
-
-Se oye en el pecho.
-
-### Nerin en la ceremonia
-
-Nerin intenta escribir a su padre.
-
-No puede.
-
-Rompe tres papeles.
-
-Finalmente escribe:
+Nerin escribe:
 
 > “Papá, si me pierdo, no me encuentres enseguida.”
 
-La campana decimotercera suena sola.
+La decimotercera campana suena sola.
 
-Madre Seralya la mira como si acabara de entender algo terrible.
+### Recompensas
 
-### Recompensa
+* La **Llave del Adiós**, ceniza blanca en pequeños relicarios.
+* Noma como guía si recibe la carta o una explicación honesta.
+* **Comodín Inclinado:** una vez en el Valle declara un desvío preparado; evita un encuentro, no una prueba personal.
+* La certeza de que las entradas apagadas del Inventario forman la ruta restante.
 
-La Llave del Adiós toma la forma de ceniza blanca dentro de pequeños relicarios.
+### Abrir, entregar o quemar
 
-Cada personaje recibe uno.
+Abrir la carta da la ruta más clara, pero hiere la confianza de Noma. Entregarla intacta concede ventaja en la primera región. Quemarla obtiene el apoyo de Seralya y obliga a reconstruir la ruta con el cristal.
 
-En el valle, puede usarse para resistir visiones del pasado o cerrar puertas emocionales.
+{{pageNumber,auto}}
+
+\page
 
 ## Evento final de Velkora: La noche de las facciones
 
@@ -3814,21 +4172,93 @@ Una puerta aparece donde no había puerta.
 
 Pero cada casualidad también atrae la atención de Aruun y Maer Senn.
 
-## Estructura del Valle
+{{pageNumber,auto}}
 
-El valle puede jugarse como hex crawl, viaje narrativo o serie de zonas.
+\page
 
-La ruta sugerida tiene cinco regiones:
+<!-- MUVARIA-DOS-COPIAS-VALLE-V1 -->
+<div class='footnote'>Valle de los Ecos — Los siete nombres I</div>
 
-1. Bosque de las Decisiones Torcidas.
-2. Lago del Nunca.
-3. Campo de Estatuas Blandas.
-4. Nieve de los Nombres.
-5. Ruinas de Mil Deseos.
+{{imageMaskEdge5,--offset:0%,--rotation:270
+  ![El inventario de quienes no llegaron](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-valle-inventario.png){height:105%,left:205px,top:-20px}
+}}
 
-El grupo no necesita completar todo.
+## Misión conductora: El inventario de quienes no llegaron
 
-Pero cada región ofrece una prueba, una amenaza y una revelación.
+### La última Concordancia de ruta
+
+Al entrar en el Valle, el cristal deja de responder a personas vivas. Siete entradas apagadas caen sobre el mapa como estrellas.
+
+Son buscadores muertos, perdidos o transformados. Sus últimos pasos, observados en conjunto, dibujan un camino hasta la Fuente.
+
+La Línea Recta posee los mismos nombres. Maer los une por la distancia más corta y crea un sendero blanco que atraviesa todos los peligros, obligando al Valle a repetir los mismos acontecimientos.
+
+La Hoja Caminante muestra desvíos nacidos de las decisiones que esos viajeros no llegaron a tomar.
+
+### Los tres Testimonios
+
+Para completar la ruta, el grupo recupera al menos tres testimonios:
+
+* **Nombre:** quién era alguien antes de desear.
+* **Peso:** qué precio aceptó cargar.
+* **Adiós:** qué consiguió soltar o qué lo retuvo.
+
+No son nuevas llaves. Permiten que las llaves comprendan el camino.
+
+\column
+
+{{pageNumber,auto}}
+
+\page
+
+<div class='footnote'>Valle de los Ecos — Los siete nombres II</div>
+
+## Recuperar los Testimonios
+
+| Región | Buscador | Prueba |
+|:--|:--|:--|
+| Bosque Torcido | mensajera de las Cartas viviendo una vida que no eligió | aceptar que elegir también significa perder |
+| Lago del Nunca | contadora áurea aferrada a un contrato sumergido | rescatar los nombres tratados como mercancía |
+| Campo de Estatuas | buscador detenido a mitad de un deseo | liberar a una persona y renunciar a las demás posibilidades |
+| Nieve de los Nombres | último buscador usado como coordenada | destruir, desviar o utilizar el Eje de Certeza |
+| Ruinas | guardián que vio el primer deseo corrompido | escuchar la verdad sin pedir todavía |
+
+Cada Testimonio requiere una decisión, un peligro fantástico y una consecuencia visible. El grupo no necesita completar todas las regiones.
+
+### El Eje de Certeza
+
+En la Nieve, La Línea Recta clavó una aguja blanca sobre un nombre. Destruirla libera la ruta; desviarla envía perseguidores hacia un futuro falso; usarla permite llegar antes, pero Maer podrá seguirlos.
+
+\column
+
+### Ayudas ganadas
+
+* Las Cartas dejan suministros y una ruta lateral.
+* Calo anula una orden de captura con la Cláusula de Camino Común.
+* El Consorcio entrega equipo si conserva una alianza.
+* Seralya protege un descanso contra los ecos.
+* Un contacto traicionado revela la posición del grupo.
+
+### Recompensas
+
+Cada Testimonio elimina un peligro ambiental de la Fuente. Con los tres, Ishmara recibe al grupo como interlocutor y no como invasor.
+
+El cristal completa la entrada de cada aventurero con una frase que solo esa persona puede leer.
+
+Cuando alcanzan las Ruinas de Mil Deseos, los siete nombres se apagan. Aparece una entrada nueva:
+
+> “Portadores de la Hoja Caminante. Oferta no declarada.”
+
+El espacio destinado al precio permanece en blanco.
+
+{{note
+##### Estructura del Valle
+Usá las cinco regiones siguientes como nodos. La Concordancia señala cuál contiene el Testimonio más cercano; los jugadores deciden el orden y los desvíos.
+}}
+
+{{pageNumber,auto}}
+
+\page
 
 ## Región 1: Bosque de las Decisiones Torcidas
 
@@ -4232,159 +4662,150 @@ Ejemplo:
 
 > “¿Cuál de tus deseos seguiría siendo tuyo si nadie pudiera admirarte por cumplirlo?”
 
-## Estructura del final
+{{pageNumber,auto}}
 
-El final puede dividirse en cuatro escenas.
+\page
+
+<!-- MUVARIA-DOS-COPIAS-FUENTE-V1 -->
+<div class='footnote'>La Fuente — Llegada de los deseos</div>
+{{imageMaskEdge5,--offset:0%,--rotation:270
+  ![La Fuente que ningún camino posee](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-final-rutas.png){height:105%,left:205px,top:-20px}
+}}
+
+## Estructura del final
 
 ### Escena 1: Llegada de todos los deseos
 
-El grupo no llega solo.
+El agua asciende y cubre el mapa sin dañarlo. El cristal deja de mostrar ofertas y empieza a mostrar costos: debajo de cada nombre aparece aquello que esa persona sacrificaría para obtener su deseo.
 
-Dependiendo de sus decisiones, pueden aparecer:
+Las facciones presentan soluciones incompatibles:
 
-* Maer Senn y la Línea Recta,
-* Lady Irielle Vardemir,
-* Madre Seralya,
-* Jaska Mir,
-* Hermano Lodo,
-* Timo “Dos Veces”,
-* Noma Sinmaleta,
-* un aliado de alguna ciudad,
-* una consecuencia de una misión pasada.
+* **Maer Senn:** fijar un único futuro seguro.
+* **Jaska Mir:** administrar la Fuente mediante contratos y turnos.
+* **Madre Seralya:** sellarla para siempre.
+* **Hermano Lodo:** permitir que todos pidan y alimentar a Aruun.
+* **Timo:** robar el registro original antes de decidir qué hacer.
+* **Calo:** invalidar todas las reclamaciones, si acepta romper el contrato que también lo protege.
 
-No todos deben estar presentes.
+Ishmara pregunta:
 
-Elegí los más importantes según la campaña.
+> “¿Vienen a pedir, a cerrar o a escuchar?”
 
-La escena debe sentirse como una convergencia.
+La respuesta no determina un final. Determina quién habla primero.
 
-Todos los caminos, errores, contratos, cartas, campanas, mapas y casualidades llegaron aquí.
+\column
 
 {{pageNumber,auto}}
 
 \page
 
-### Escena 2: El deseo de Maer
+<div class='footnote'>La Fuente — La línea sobre el agua</div>
 
-Maer intenta acercarse a la Fuente.
+### Escena 2: La línea sobre el agua
 
-Su deseo:
+Maer coloca el Inventario original en un Eje de Certeza. Líneas blancas dividen la cámara y Aruun las utiliza como grietas para contaminar el agua.
 
-> “Deseo que el azar termine.”
+Al inicio de cada ronda, Maer fija una zona. La primera tirada de d20 realizada allí se considera 10.
 
-La Fuente escucha el deseo verdadero:
+Una línea puede romperse mediante una acción:
 
-> “Deseo que ninguna pérdida vuelva a sorprenderme.”
+* invocar el nombre de alguien salvado en el Valle;
+* plegar la Hoja Caminante y crear un desvío;
+* usar el Comodín Inclinado;
+* aceptar un costo personal revelado por el cristal;
+* permitir que Nerin abra una posibilidad y atraiga la atención de Aruun.
 
-Aruun intenta cumplirlo creando una realidad rígida donde todo movimiento está predeterminado.
+### Enemigos sugeridos
 
-En la cámara, esto se manifiesta como líneas blancas sobre el suelo.
+* Maer usando Archmage.
+* 1 Shield Guardian.
+* 2 Helmed Horrors.
+* 1 Invisible Stalker.
+* Aruun usando Aboleth si se manifiesta.
+* 2 Chuul o Water Weirds.
 
-Si alguien pisa una línea, ve el resultado exacto de su próxima acción.
+No todas las criaturas entran a la vez. Los aliados contienen amenazas secundarias mientras los personajes resuelven el centro.
 
-Al principio parece útil.
+\column
 
-Luego se vuelve prisión.
+### Ayudas de campaña
+
+**Cartas aliadas.** Timo roba una orden o cambia dos posiciones antes de una consecuencia fatal.
+
+**Calo liberado.** Rompe su martillo de plata y anula las reclamaciones nacidas del Inventario.
+
+**Consorcio aliado.** Jaska contiene a los cultistas y acepta una administración limitada.
+
+**Orden aliada.** Seralya sella durante tres rondas la salida de Aruun.
+
+**Noma aliada.** Distingue un camino real de un recuerdo.
+
+**Farol de Lanterra.** Devuelve un nombre o recuerdo perdido.
+
+{{descriptive
+##### El último uso de la Concordancia
+El cristal y el mapa ya no muestran el camino a la Fuente. Muestran una red que conecta a todas las personas ayudadas durante la campaña. Ninguna línea es recta. Juntas pueden sostener el agua sin poseerla.
+}}
 
 {{pageNumber,auto}}
 
 \page
 
-### Combate contra Maer
+<div class='footnote'>La Fuente — El deseo verdadero</div>
 
-Usá Archmage como base para Maer en el final.
+### Escena 3: Nerin abre una posibilidad
 
-Puede estar protegido por:
+Maer y Aruun comprenden que Nerin puede abrir completamente la Fuente. No porque sea una llave obediente, sino porque la casualidad entra donde el deseo construyó una cerradura.
 
-* Shield Guardian,
-* Helmed Horrors,
-* Invisible Stalker,
-* Veterans de la Línea Recta,
-* efectos de adivinación,
-* zonas donde las tiradas bajas se repiten contra los jugadores.
+La moneda de Nerin cae al agua y queda de canto. Ishmara reconoce a la hija de Orphin.
 
-No copies el stat block en el documento.
+Nerin no derrota enemigos ni decide por el grupo. Abre una opción que ninguna facción había contemplado:
 
-Usá el oficial y adaptá el sabor.
-
-### Mecánica opcional: líneas de determinismo
-
-Al inicio de cada ronda, elegí una zona de la cámara.
-
-En esa zona, la primera tirada de d20 de cada criatura no se tira.
-
-Se considera 10.
-
-Esto representa la imposición de Maer.
-
-Los personajes pueden romper líneas gastando acciones para alterar símbolos, usando magia, destruyendo cristales o aprovechando una casualidad de Nerin.
-
-### Escena 3: Nerin como llave
-
-Durante el clímax, Maer o Aruun entienden que Nerin puede abrir completamente la Fuente.
-
-No porque sea poderosa en el sentido habitual.
-
-Sino porque la casualidad puede entrar donde el deseo creó una cerradura.
-
-Nerin, asustada, puede decir:
-
-> “Creo que papá no me mandó a buscar algo.”
-
-Y luego:
-
-> “Creo que me mandó a encontrarlos.”
-
-Este es el momento de revelar su origen, pero no como exposición larga.
-
-Puede ocurrir así:
-
-* La moneda de Nerin cae al agua.
-* En vez de hundirse, queda de canto sobre la superficie.
-* La Fuente refleja un hombre sonriente sin rostro claro.
-* Nerin susurra: “Papá.”
-* Ishmara se inclina, reconociendo a la hija de Orphin.
-
-Nerin no se convierte en diosa completa.
-
-No destruye al enemigo.
-
-No concede deseos.
-
-Solo puede hacer una cosa:
-
-abrir una posibilidad que no debería existir.
-
-### La posibilidad imposible
-
-Gracias a Nerin, el grupo puede elegir una opción que ninguna facción contempló:
-
-* no usar la Fuente pero tampoco destruirla,
-* purificarla sin pedir un deseo personal,
-* permitir un deseo colectivo limitado,
-* separar a Ishmara de Aruun,
-* convertir la Fuente en un camino en vez de un premio,
-* cerrar la Fuente durante cien años y dejar un guardián voluntario.
+* purificar sin pedir un deseo personal;
+* separar a Ishmara de Aruun;
+* convertir la Fuente en caminos menores;
+* sellarla por un tiempo limitado;
+* crear una custodia compartida que ninguna facción controle.
 
 ### Escena 4: El deseo del grupo
 
-Cada personaje debe enfrentar su deseo verdadero.
+Cada personaje lee su entrada completa en el cristal. El texto puede permanecer privado.
 
-No obligues a todos a pedir algo.
+Preguntá:
 
-El gran momento puede ser elegir no pedir.
+* ¿Qué pedirías si nadie te juzgara?
+* ¿Qué perderías si se cumple literalmente?
+* ¿A quién afectaría?
+* ¿Seguirías queriéndolo si nadie supiera que lo lograste?
 
 La Fuente ofrece.
 
 No exige.
 
-Preguntas para cada personaje:
+\column
 
-* ¿Qué pedirías si nadie te juzgara?
-* ¿Qué perderías si eso se cumple literalmente?
-* ¿A quién afectaría tu deseo?
-* ¿Tu deseo nace del amor, del miedo, de la culpa o del orgullo?
-* ¿Seguirías queriéndolo si nadie supiera que lo lograste?
+### El destino de los objetos
+
+El grupo también decide qué ocurre con:
+
+**El Inventario original.** Puede destruirse, devolverse, hacerse público o convertirse en memorial.
+
+**El Cristal de Replicación.** Puede apagarse, romperse, quedar bajo custodia compartida o conservar solo nombres sin deseos.
+
+**La Hoja Caminante.** Puede regresar a Metusta, seguir viajando o registrar la primera ruta que nadie posee.
+
+### Recompensa final
+
+Cada personaje recibe una **Gota de Posibilidad**. Una sola vez puede repetir una tirada propia y elegir cualquiera de los dos resultados.
+
+{{note
+##### La diferencia entre las copias
+La Línea Recta poseía la misma información. Nunca poseyó las mismas relaciones. Los aliados presentes, los caminos laterales y las personas salvadas son la verdadera ventaja construida por el grupo.
+}}
+
+{{pageNumber,auto}}
+
+\page
 
 ## Opciones finales
 
@@ -4971,5 +5392,7 @@ Y a veces porque una chica alegre se equivocó de puerta, saludó a la persona i
 >
 > — Nerin Fortuna
 
+
+{{pageNumber,auto}}
 
 <!-- MUVARIA-FUENTE-NORTE-FIN-V3 -->
