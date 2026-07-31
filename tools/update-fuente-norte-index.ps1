@@ -35,6 +35,20 @@ $entries = [ordered]@{
     'Deseos y consecuencias' = Get-DisplayedPage '(?m)^# 18\. Deseos, consecuencias y finales personales\s*$'
     'Tablas de viaje' = Get-DisplayedPage '(?m)^# 19\. Tablas de viaje, comedia y encuentros\s*$'
     'Apéndice de criaturas' = Get-DisplayedPage '(?m)^# 20\. Apéndice de criaturas oficiales sugeridas\s*$'
+    'Apéndice de personajes' = Get-DisplayedPage 'MUVARIA-PERSONAJES-PORTADA-V1'
+    'Nerin — retrato' = Get-DisplayedPage 'MUVARIA-PERSONAJES-NERIN-V1'
+    'Calo Bronce — retrato' = Get-DisplayedPage 'MUVARIA-PERSONAJES-CALO-V1'
+    'Timo Dos Veces — retrato' = Get-DisplayedPage 'MUVARIA-PERSONAJES-TIMO-V1'
+    'Lira de Cinco Llaves — retrato' = Get-DisplayedPage 'MUVARIA-PERSONAJES-LIRA-V1'
+    'Niño de las Cartas — retrato' = Get-DisplayedPage 'MUVARIA-PERSONAJES-NINO-V1'
+    'Jaska Mir — retrato' = Get-DisplayedPage 'MUVARIA-PERSONAJES-JASKA-V1'
+    'Maer Valcor Senn — retrato' = Get-DisplayedPage 'MUVARIA-PERSONAJES-MAER-V1'
+    'Sira Nueve Nudos — retrato' = Get-DisplayedPage 'MUVARIA-PERSONAJES-SIRA-V1'
+    'Silex Varo — retrato' = Get-DisplayedPage 'MUVARIA-PERSONAJES-SILEX-V1'
+    'Hermano Lodo — retrato' = Get-DisplayedPage 'MUVARIA-PERSONAJES-LODO-V1'
+    'Madre Seralya — retrato' = Get-DisplayedPage 'MUVARIA-PERSONAJES-SERALYA-V1'
+    'Lady Irielle — retrato' = Get-DisplayedPage 'MUVARIA-PERSONAJES-IRIELLE-V1'
+    'Cierre para el DM' = Get-DisplayedPage '(?m)^# Cierre para el DM\s*$'
 }
 
 $content = $content.Replace('  - Guía de dirección de Miravalle, 16', '  - Guía de las dos copias, 16')

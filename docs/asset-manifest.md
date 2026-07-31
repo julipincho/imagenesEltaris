@@ -254,4 +254,22 @@ Vertical climactic D&D encounter at an ordinary abandoned northern road checkpoi
 | `la-fuente-norte-valle-inventario.png` | Valle: El inventario de quienes no llegaron | Right-side masked route and names scene |
 | `la-fuente-norte-final-rutas.png` | Fuente: La Fuente que ningún camino posee | Right-side masked final convergence scene |
 
-All five images use the Muvaria road-fantasy visual direction: grounded painterly digital oil, warm amber memory and causality light against cold blue water or deterministic magic, no text, no watermark.
+All ten images use the Muvaria road-fantasy visual direction: grounded painterly digital oil, warm amber memory and causality light against cold blue water or deterministic magic, no text, no watermark.
+<!-- MUVARIA-PERSONAJES-ASSETS-V1 -->
+### Apéndice de personajes — Rostros de las facciones
+
+| Filename | Character / use | Treatment |
+| :--- | :--- | :--- |
+| `la-fuente-norte-apendice-personajes-portada.png` | Cover for character appendix | Full-page cover art |
+| `la-fuente-norte-timo-dos-veces.png` | Timo “Dos Veces” Lerr / Cartas Inclinadas | Right-side masked portrait |
+| `la-fuente-norte-lira-cinco-llaves.png` | Lira de Cinco Llaves / Cartas Inclinadas | Right-side masked portrait |
+| `la-fuente-norte-nino-cartas.png` | El Niño de las Cartas / Cartas Inclinadas | Right-side masked portrait |
+| `la-fuente-norte-jaska-mir.png` | Jaska Mir / Consorcio Áureo | Right-side masked portrait |
+| `la-fuente-norte-maer-valcor-senn.png` | Maer Valcor Senn / Línea Recta | Right-side masked portrait |
+| `la-fuente-norte-sira-nueve-nudos.png` | Sira Nueve Nudos / Línea Recta | Right-side masked portrait |
+| `la-fuente-norte-silex-varo.png` | Silex Varo / Línea Recta | Right-side masked portrait |
+| `la-fuente-norte-hermano-lodo.png` | Hermano Lodo / Hijos del Pozo | Right-side masked portrait |
+| `la-fuente-norte-madre-seralya.png` | Madre Seralya / Orden del Voto Blanco | Right-side masked portrait |
+| `la-fuente-norte-lady-irielle-vardemir.png` | Lady Irielle Vardemir / Casa Vardemir | Right-side masked portrait |
+
+The eleven new images form one editorial set: vertical painterly digital-oil fantasy, grounded wear, readable faction props, warm candlelight against cold blue or rain accents, original faces, no text, no watermark. Existing portraits for Nerin Fortuna and Calo Bronce are reused in the appendix rather than duplicated.

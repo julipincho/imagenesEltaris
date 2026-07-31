@@ -134,6 +134,20 @@ ___
   - Deseos y consecuencias, 73
   - Tablas de viaje, 75
   - Apéndice de criaturas, 77
+  - Apéndice de personajes, 79
+  - Nerin — retrato, 80
+  - Calo Bronce — retrato, 81
+  - Timo Dos Veces — retrato, 82
+  - Lira de Cinco Llaves — retrato, 83
+  - Niño de las Cartas — retrato, 84
+  - Jaska Mir — retrato, 85
+  - Maer Valcor Senn — retrato, 86
+  - Sira Nueve Nudos — retrato, 87
+  - Silex Varo — retrato, 88
+  - Hermano Lodo — retrato, 89
+  - Madre Seralya — retrato, 90
+  - Lady Irielle — retrato, 91
+  - Cierre para el DM, 92
 }}
 
 {{pageNumber,auto}}
@@ -5339,6 +5353,536 @@ La lista sirve para poblar Muvaria con criaturas de D&D sin convertir el documen
 * Gynosphinx.
 * Androsphinx.
 * Marid.
+
+{{pageNumber,auto}}
+
+\page
+
+<!-- MUVARIA-PERSONAJES-PORTADA-V1 -->
+<div class='footnote'>Apéndice de personajes</div>
+
+# Apéndice de personajes
+## Rostros de las facciones
+
+> *En el camino hacia la Fuente, una facción nunca llega primero. Primero llega una persona.*
+
+![Portada del Apéndice de personajes](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-apendice-personajes-portada.png){position:absolute,bottom:0,right:-18px,height:112%,top:-82px,opacity:92%}
+
+{{pageNumber,auto}}
+
+\page
+
+<!-- MUVARIA-PERSONAJES-NERIN-V1 -->
+<div class='footnote'>Apéndice de personajes — Nerin Fortuna</div>
+
+{{imageMaskEdge5,--offset:0%,--rotation:270
+  ![Nerin Fortuna](https://julipincho.github.io/imagenesEltaris/images/muvaria-nerin-fortuna.png){height:105%,left:205px,top:-20px}
+}}
+
+# Nerin Fortuna
+## El camino que se equivoca bien
+
+**Facción:** la expedición de los aventureros<br>
+**Rol:** corazón moral, catalizadora de casualidades<br>
+**Deseo visible:** descubrir qué la espera al norte<br>
+**Deseo verdadero:** poder elegir quién será sin obedecer un destino
+
+### Leerla en una mirada
+
+Sonrisa contagiosa, ropa de viajera y la serenidad de quien confía en puertas equivocadas. No parece profeta ni heroína. Esa normalidad protege su secreto mejor que cualquier disfraz.
+
+### Cómo interpretarla
+
+* Pregunta antes de afirmar.
+* Confía demasiado pronto y se disculpa demasiado rápido.
+* Menciona a “papá” como si fuera un padre común.
+* Nunca explica una coincidencia: la acepta y continúa.
+
+> “Todavía no estamos muertos. Eso suele ser una pista.”
+
+{{note
+##### Palanca dramática
+Nerin no resuelve escenas. Hace visible una posibilidad que nadie habría considerado y deja que el grupo decida si seguirla.
+}}
+
+### Momento ideal para mostrarla
+
+Cuando una casualidad deje de parecer graciosa y Maer comprenda que Nerin puede alterar el resultado de la Fuente.
+
+\column
+
+{{pageNumber,auto}}
+
+\page
+
+<!-- MUVARIA-PERSONAJES-CALO-V1 -->
+<div class='footnote'>Apéndice de personajes — Calo Bronce</div>
+
+{{imageMaskEdge5,--offset:0%,--rotation:270
+  ![Calo Bronce](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-calo-bronce.png){height:105%,left:205px,top:-20px}
+}}
+
+# Calo Bronce
+## El Martillo Afable
+
+**Facción:** Consorcio Áureo; antes, Cartas Inclinadas<br>
+**Rol:** estafador recurrente y bisagra entre facciones<br>
+**Deseo visible:** cerrar un negocio favorable<br>
+**Deseo verdadero:** no volver a pertenecerle a nadie
+
+### Leerlo en una mirada
+
+Abrigo color vino, chaleco dorado, guantes negros y martillo de plata agrietado. Su sonrisa siempre parece recordar una cláusula que los demás olvidaron leer.
+
+### Cómo interpretarlo
+
+* Nunca dice “robar”: dice *liquidar* o *corregir la propiedad*.
+* Cumple exactamente lo prometido, no lo que el otro entendió.
+* Golpea tres veces; la tercera revela su oferta real.
+* Ayuda cuando la libertad ajena coincide con su salida.
+
+> “Técnicamente, convertimos un robo en un problema de distribución.”
+
+{{note
+##### Palanca dramática
+Su arco no exige volverlo honesto. Exige decidir si utilizará la escapatoria final solo para sí mismo o también para quienes cargan deudas como la suya.
+}}
+
+### Momento ideal para mostrarlo
+
+Al negociar tras el Depósito Nueve o cuando Jaska intente convertirlo nuevamente en propiedad contractual.
+
+\column
+
+{{pageNumber,auto}}
+
+\page
+
+<!-- MUVARIA-PERSONAJES-TIMO-V1 -->
+<div class='footnote'>Apéndice de personajes — Timo Dos Veces</div>
+
+{{imageMaskEdge5,--offset:0%,--rotation:270
+  ![Timo Dos Veces Lerr](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-timo-dos-veces.png){height:105%,left:205px,top:-20px}
+}}
+
+# Timo “Dos Veces” Lerr
+## La confianza con cartas marcadas
+
+**Facción:** líder informal de las Cartas Inclinadas<br>
+**Rol:** ladrón, informante y aliado improbable<br>
+**Deseo visible:** riquezas suficientes para desaparecer<br>
+**Deseo verdadero:** que alguien confíe en él conociéndolo de verdad
+
+### Leerlo en una mirada
+
+Espalda jorobada, hombros desiguales, abrigo reversible y manos enormes de tahúr. Su rostro asimétrico inspira una impresión equivocada: Timo es rápido, atento y casi siempre la persona más lista del callejón.
+
+### Cómo interpretarlo
+
+* Se presenta dos veces con dos nombres falsos.
+* Hace chistes cuando teme que alguien descubra su lealtad.
+* Cobra los rescates que realiza por accidente.
+* Puede traicionar un plan; rara vez abandona a una persona.
+
+> “Yo no mentí. Ustedes eligieron creerle al primero de mí.”
+
+{{note
+##### Palanca dramática
+Calo vendió refugios de las Cartas para salvarse. Timo debe elegir entre cobrar esa deuda de sangre o aceptar una reparación imperfecta.
+}}
+
+### Momento ideal para mostrarlo
+
+Al entrar en Lanterra, cuando aguarde en dos extremos del mismo callejón usando disfraces distintos.
+
+\column
+
+{{pageNumber,auto}}
+
+\page
+
+<!-- MUVARIA-PERSONAJES-LIRA-V1 -->
+<div class='footnote'>Apéndice de personajes — Lira de Cinco Llaves</div>
+
+{{imageMaskEdge5,--offset:0%,--rotation:270
+  ![Lira de Cinco Llaves](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-lira-cinco-llaves.png){height:105%,left:205px,top:-20px}
+}}
+
+# Lira de Cinco Llaves
+## Siempre existe otra salida
+
+**Facción:** Cartas Inclinadas<br>
+**Rol:** ladrona, evacuadora y lectora del código de Calo<br>
+**Deseo visible:** mantener abiertos los refugios<br>
+**Deseo verdadero:** dejar de sobrevivir sola
+
+### Leerla en una mirada
+
+Cabello cobrizo cortado a cuchillo, ojos verdes atentos y cinco llaves distintas cruzándole el pecho. Su peso siempre descansa sobre el pie más cercano a una salida.
+
+### Cómo interpretarla
+
+* Cuenta puertas, ventanas y perseguidores mientras conversa.
+* Confunde prudencia con cobardía solo cuando habla de sí misma.
+* Jamás entrega un nombre que le confiaron.
+* Prefiere salvar diez personas antes que robar un tesoro legendario.
+
+> “No estoy huyendo. Estoy llegando antes a un lugar menos mortal.”
+
+{{note
+##### Palanca dramática
+Si el grupo evacúa La Mano Hundida antes de perseguir una pista, Lira entiende que la expedición protege personas y no solamente información.
+}}
+
+### Momento ideal para mostrarla
+
+Cuando despliegue sus cinco llaves frente a siete puertas y explique que solo dos son reales.
+
+\column
+
+{{pageNumber,auto}}
+
+\page
+
+<!-- MUVARIA-PERSONAJES-NINO-V1 -->
+<div class='footnote'>Apéndice de personajes — El Niño de las Cartas</div>
+
+{{imageMaskEdge5,--offset:0%,--rotation:270
+  ![El Niño de las Cartas](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-nino-cartas.png){height:105%,left:205px,top:-20px}
+}}
+
+# El Niño de las Cartas
+## El mensaje que nadie pidió
+
+**Facción:** Cartas Inclinadas<br>
+**Rol:** correo de Velkora y guardián de una carta imposible<br>
+**Deseo visible:** completar la entrega<br>
+**Deseo verdadero:** que alguna puerta permanezca abierta para él
+
+### Leerlo en una mirada
+
+Abrigo demasiado grande, bufanda roja y un sobre sostenido con más cuidado que cualquier arma. La carta inclinada detrás de la oreja es contraseña, advertencia y única herencia.
+
+### Cómo interpretarlo
+
+* Habla con sarcasmo para obligar a los adultos a tratarlo como igual.
+* Conoce tejados y campanarios mejor que calles.
+* No abre cartas, incluso cuando sabe que contienen peligro.
+* Es valiente por necesidad, no por inconsciencia.
+
+> “No necesito saber qué dice. Necesito saber a quién todavía puede cambiar.”
+
+{{note
+##### Palanca dramática
+Protege la carta dirigida a Noma porque demuestra que alguien puede regresar del Valle. Entregarla vale más para él que cualquier recompensa.
+}}
+
+### Momento ideal para mostrarlo
+
+En un tejado de Velkora, con las trece campanas detrás y perseguidores ocupando la única escalera.
+
+\column
+
+{{pageNumber,auto}}
+
+\page
+
+<!-- MUVARIA-PERSONAJES-JASKA-V1 -->
+<div class='footnote'>Apéndice de personajes — Jaska Mir</div>
+
+{{imageMaskEdge5,--offset:0%,--rotation:270
+  ![Jaska Mir](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-jaska-mir.png){height:105%,left:205px,top:-20px}
+}}
+
+# Jaska Mir
+## Toda solución tiene una cláusula
+
+**Facción:** Consorcio Áureo<br>
+**Rol:** contadora de caravanas, antagonista comercial<br>
+**Deseo visible:** administrar el camino a la Fuente<br>
+**Deseo verdadero:** que todo tenga precio y pueda controlarse
+
+### Leerla en una mirada
+
+Anteojos de latón, pluma dorada, llaves de cofres y un libro que nunca abandona. Su ropa es costosa, pero tiene polvo de todas las rutas que asegura poseer.
+
+### Cómo interpretarla
+
+* Primero identifica una necesidad real.
+* Después ofrece exactamente la solución correcta.
+* Solo entonces menciona el contrato.
+* No amenaza: enumera lo que ocurrirá sin su ayuda.
+
+> “La libertad sin provisiones es una forma cara de morir.”
+
+{{note
+##### Palanca dramática
+Jaska puede convertirse en aliada si descubre que administrar no equivale a poseer. Nunca regalará recursos, pero puede aceptar límites verificables.
+}}
+
+### Momento ideal para mostrarla
+
+Bajo la lluvia de Lanterra, cuando su sombrilla permanezca seca y ofrezca financiar toda la expedición.
+
+\column
+
+{{pageNumber,auto}}
+
+\page
+
+<!-- MUVARIA-PERSONAJES-MAER-V1 -->
+<div class='footnote'>Apéndice de personajes — Maer Valcor Senn</div>
+
+{{imageMaskEdge5,--offset:0%,--rotation:270
+  ![Maer Valcor Senn](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-maer-valcor-senn.png){height:105%,left:205px,top:-20px}
+}}
+
+# Maer Valcor Senn
+## El Señor de la Línea Recta
+
+**Facción:** líder de la Línea Recta<br>
+**Rol:** antagonista principal y filósofo determinista<br>
+**Deseo visible:** terminar con accidentes y tragedias evitables<br>
+**Deseo verdadero:** vivir en un mundo que nunca pueda sorprenderlo
+
+### Leerlo en una mirada
+
+Cabello blanco impecable, ropas negras alineadas y bastón de geometría pálida. No parece cruel. Parece alguien que ya terminó de calcular el precio moral de su victoria.
+
+### Cómo interpretarlo
+
+* Habla con cortesía y tristeza, nunca con furia.
+* Recuerda fechas exactas de tragedias ajenas.
+* Ordena objetos mientras escucha.
+* Cerca de Nerin, su precisión comienza a agrietarse.
+
+> “No me opongo a ustedes. Me opongo a que el mundo siga siendo una moneda en el aire.”
+
+{{note
+##### Palanca dramática
+Maer tiene razón acerca del dolor provocado por el azar. Su error es creer que eliminar toda posibilidad inesperada no destruirá también la libertad.
+}}
+
+### Momento ideal para mostrarlo
+
+En una escena cotidiana y amable, antes de que el grupo comprenda que está conociendo al enemigo final.
+
+\column
+
+{{pageNumber,auto}}
+
+\page
+
+<!-- MUVARIA-PERSONAJES-SIRA-V1 -->
+<div class='footnote'>Apéndice de personajes — Sira Nueve Nudos</div>
+
+{{imageMaskEdge5,--offset:0%,--rotation:270
+  ![Sira Nueve Nudos](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-sira-nueve-nudos.png){height:105%,left:205px,top:-20px}
+}}
+
+# Sira Nueve Nudos
+## La precisión que deja una cuerda
+
+**Facción:** Línea Recta<br>
+**Rol:** agente de extracción y antagonista de campo<br>
+**Deseo visible:** completar la misión de Maer<br>
+**Deseo verdadero:** demostrar que ella jamás será una variable
+
+### Leerla en una mirada
+
+Nueve nudos recogen su cabello y otros nueve dividen la cuerda que lleva consigo. La ropa oscura no oculta armas: elimina cualquier detalle que no tenga función.
+
+### Cómo interpretarla
+
+* Mide la habitación antes de mirar a sus ocupantes.
+* Usa pocas palabras y jamás repite una orden.
+* Cada nudo representa una contingencia prevista.
+* Se retira cuando el objetivo deja de justificar el costo.
+
+> “La improvisación es el nombre elegante de una preparación insuficiente.”
+
+{{note
+##### Palanca dramática
+Obligarla a elegir entre la orden y una persona que no figuraba en sus cálculos abre la primera grieta real en su obediencia.
+}}
+
+### Momento ideal para mostrarla
+
+Cuando el grupo encuentre una cuerda perfectamente tensada en Metusta y comprenda que Sira ya está dentro del archivo.
+
+\column
+
+{{pageNumber,auto}}
+
+\page
+
+<!-- MUVARIA-PERSONAJES-SILEX-V1 -->
+<div class='footnote'>Apéndice de personajes — Silex Varo</div>
+
+{{imageMaskEdge5,--offset:0%,--rotation:270
+  ![Silex Varo](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-silex-varo.png){height:105%,left:205px,top:-20px}
+}}
+
+# Silex Varo
+## El correo de la certeza
+
+**Facción:** Línea Recta<br>
+**Rol:** espía, mensajero y primer rostro operativo<br>
+**Deseo visible:** entregar el Folio 17<br>
+**Deseo verdadero:** que obedecer una ruta lo absuelva de sus consecuencias
+
+### Leerlo en una mirada
+
+Rubio, afeitado, abrigo gris y expresión deliberadamente olvidable. El cristal blanco y el folio amarillo son las únicas notas de color que permite a su misión.
+
+### Cómo interpretarlo
+
+* No combate hasta morir: entrega, desvía y escapa.
+* Trata cada persona como un obstáculo de distancia medible.
+* Habla en objetivos, nunca en opiniones.
+* Respeta una persecución bien ejecutada aunque la pierda.
+
+> “No necesito su mapa. Necesito que nadie más pueda elegir qué hacer con él.”
+
+{{note
+##### Palanca dramática
+Silex es la primera demostración de que la Línea Recta no roba por codicia. Elimina opciones para que solo sobreviva el futuro autorizado.
+}}
+
+### Momento ideal para mostrarlo
+
+Durante la huida de Miravalle, cuando se vuelva con el cristal en una mano y el folio bajo el brazo.
+
+\column
+
+{{pageNumber,auto}}
+
+\page
+
+<!-- MUVARIA-PERSONAJES-LODO-V1 -->
+<div class='footnote'>Apéndice de personajes — Hermano Lodo</div>
+
+{{imageMaskEdge5,--offset:0%,--rotation:270
+  ![Hermano Lodo](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-hermano-lodo.png){height:105%,left:205px,top:-20px}
+}}
+
+# Hermano Lodo
+## La pregunta bajo el agua
+
+**Facción:** líder visible de los Hijos del Pozo<br>
+**Rol:** tentador, confesor y emisario de Aruun<br>
+**Deseo visible:** que todos quieran sin vergüenza<br>
+**Deseo verdadero:** saber quién es cuando Aruun calla
+
+### Leerlo en una mirada
+
+Barro seco sobre piel y hábito, ojos llenos de agua y una sonrisa sin burla. Extiende la mano vacía porque su herramienta más peligrosa es una invitación.
+
+### Cómo interpretarlo
+
+* Habla con ternura y escucha respuestas completas.
+* Nunca exige que alguien pida un deseo.
+* Identifica la necesidad que el personaje oculta de sí mismo.
+* Presenta la rendición como una forma de sinceridad.
+
+> “La vergüenza es una jaula construida por quienes ya recibieron lo suyo.”
+
+{{note
+##### Palanca dramática
+El culto puede perder sin combate si el grupo demuestra que desear no obliga a consumir, poseer ni obedecer aquello que promete concederlo.
+}}
+
+### Momento ideal para mostrarlo
+
+Cuando aparezca solo y desarmado con pan caliente para los peregrinos que nadie más quiso alimentar.
+
+\column
+
+{{pageNumber,auto}}
+
+\page
+
+<!-- MUVARIA-PERSONAJES-SERALYA-V1 -->
+<div class='footnote'>Apéndice de personajes — Madre Seralya</div>
+
+{{imageMaskEdge5,--offset:0%,--rotation:270
+  ![Madre Seralya](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-madre-seralya.png){height:105%,left:205px,top:-20px}
+}}
+
+# Madre Seralya
+## La Ceniza Clara
+
+**Facción:** Orden del Voto Blanco<br>
+**Rol:** líder religiosa, rival y posible guardiana<br>
+**Deseo visible:** sellar la Fuente para siempre<br>
+**Deseo verdadero:** impedir que alguien repita su error
+
+### Leerla en una mirada
+
+Rostro curtido, cicatriz antigua, manto blanco sucio de camino y una reliquia agrietada entre ambas manos. La espada permanece envainada hasta que la esperanza parece más peligrosa que la violencia.
+
+### Cómo interpretarla
+
+* Ofrece protección antes de exigir obediencia.
+* Conoce casos reales de deseos que destruyeron comunidades.
+* Confunde prudencia con prohibición universal.
+* Respeta a quien acepta un costo personal por proteger a otros.
+
+> “No toda puerta cerrada es una prisión. Algunas contienen el incendio.”
+
+{{note
+##### Palanca dramática
+Seralya cambia si el grupo demuestra que custodiar una elección no exige negársela a todo el mundo. Puede terminar como guardiana humilde.
+}}
+
+### Momento ideal para mostrarla
+
+Cuando queme un mapa frente al grupo y después arriesgue la vida para salvar a quienes iban a usarlo.
+
+\column
+
+{{pageNumber,auto}}
+
+\page
+
+<!-- MUVARIA-PERSONAJES-IRIELLE-V1 -->
+<div class='footnote'>Apéndice de personajes — Lady Irielle Vardemir</div>
+
+{{imageMaskEdge5,--offset:0%,--rotation:270
+  ![Lady Irielle Vardemir](https://julipincho.github.io/imagenesEltaris/images/la-fuente-norte-lady-irielle-vardemir.png){height:105%,left:205px,top:-20px}
+}}
+
+# Lady Irielle Vardemir
+## La heredera de una historia rota
+
+**Facción:** Casa Vardemir<br>
+**Rol:** rival trágica, aliada o sacrificio posible<br>
+**Deseo visible:** restaurar el honor de su linaje<br>
+**Deseo verdadero:** hacer que la caída de su casa nunca ocurriera
+
+### Leerla en una mirada
+
+Capa azul gastada, armadura ceremonial oscurecida y ojos que llevan demasiadas noches sin dormir. Conserva una cinta infantil junto a la espada heredada: el mundo que desea corregir también contiene vidas que ama.
+
+### Cómo interpretarla
+
+* Protege civiles incluso cuando perjudica su causa.
+* Paga deudas que su apellido no contrajo.
+* Habla de corrección cuando en realidad desea borrar.
+* Acepta pruebas contra su familia, pero no la humillación gratuita.
+
+> “La historia no es sagrada solo porque quienes ganaron aprendieron a escribirla.”
+
+{{note
+##### Palanca dramática
+Irielle debe comprender que restaurar su casa podría borrar matrimonios, amistades y nacimientos posteriores. Justicia y reversión no son lo mismo.
+}}
+
+### Momento ideal para mostrarla
+
+Después de verla salvar desconocidos, cuando revele que está dispuesta a eliminar esas mismas vidas de la historia.
+
+\column
 
 {{pageNumber,auto}}
 
